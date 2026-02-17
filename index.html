@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cifra Certa - Cifras de Músicas Cristãs</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-music"></i>
+                    <h1>Cifra Certa</h1>
+                </div>
+                <nav class="nav-menu">
+                    <button class="btn btn-secondary" id="btnAddCifra">
+                        <i class="fas fa-plus"></i> Nova Cifra
+                    </button>
+                    <button class="btn btn-secondary" id="btnBackup">
+                        <i class="fas fa-download"></i> Backup
+                    </button>
+                    <button class="btn btn-icon" id="btnTheme" title="Alternar tema">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Search and Filters Section -->
+            <section class="search-section">
+                <div class="search-bar">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Buscar por título ou artista...">
+                </div>
+                <div class="filters">
+                    <select id="filterArtist" class="filter-select">
+                        <option value="">Todos os artistas</option>
+                    </select>
+                    <select id="filterFavorite" class="filter-select">
+                        <option value="">Todas</option>
+                        <option value="favorites">Apenas favoritas</option>
+                    </select>
+                </div>
+            </section>
+
+            <!-- Cifras List -->
+            <section class="cifras-section">
+                <div class="section-header">
+                    <h2>Cifras Disponíveis</h2>
+                    <span class="cifra-count" id="cifraCount">0 cifras</span>
+                </div>
+                <div id="cifrasList" class="cifras-grid">
+                    <!-- Cifras will be loaded here dynamically -->
+                </div>
+                <div id="emptyState" class="empty-state" style="display: none;">
+                    <i class="fas fa-guitar"></i>
+                    <h3>Nenhuma cifra encontrada</h3>
+                    <p>Adicione sua primeira cifra de música cristã!</p>
+                    <button class="btn btn-primary" onclick="document.getElementById('btnAddCifra').click()">
+                        <i class="fas fa-plus"></i> Adicionar Cifra
+                    </button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Modal: Add/Edit Cifra -->
+    <div id="modalCifra" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">Nova Cifra</h2>
+                <button class="btn-close" id="btnCloseModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <form id="formCifra" class="modal-body">
+                <div class="form-group">
+                    <label for="inputTitulo">Título da Música *</label>
+                    <input type="text" id="inputTitulo" required placeholder="Ex: Tua Graça Me Basta">
+                </div>
+                <div class="form-group">
+                    <label for="inputArtista">Artista/Banda *</label>
+                    <input type="text" id="inputArtista" required placeholder="Ex: Fernandinho">
+                </div>
+                <div class="form-group">
+                    <label for="inputTom">Tom Original *</label>
+                    <select id="inputTom" required>
+                        <option value="">Selecione o tom</option>
+                        <option value="C">C (Dó)</option>
+                        <option value="C#">C# (Dó sustenido)</option>
+                        <option value="D">D (Ré)</option>
+                        <option value="D#">D# (Ré sustenido)</option>
+                        <option value="E">E (Mi)</option>
+                        <option value="F">F (Fá)</option>
+                        <option value="F#">F# (Fá sustenido)</option>
+                        <option value="G">G (Sol)</option>
+                        <option value="G#">G# (Sol sustenido)</option>
+                        <option value="A">A (Lá)</option>
+                        <option value="A#">A# (Lá sustenido)</option>
+                        <option value="B">B (Si)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="inputLetra">Letra com Acordes *</label>
+                    <textarea id="inputLetra" required rows="15" placeholder="Digite a letra da música com os acordes entre colchetes. Ex:
+[G]Tua graça me [D]basta
+[Em]Tua graça me [C]basta
+[G]Teu poder se [D]aperfeiçoa
+[Em]Na minha fraque[C]za"></textarea>
+                    <small class="help-text">
+                        <i class="fas fa-info-circle"></i>
+                        Coloque os acordes entre colchetes [ ] antes da palavra onde devem ser tocados
+                    </small>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="btnCancelModal">Cancelar</button>
+                    <button type="submit" class="btn btn-primary" id="btnSaveCifra">
+                        <i class="fas fa-save"></i> Salvar
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal: View Cifra -->
+    <div id="modalViewCifra" class="modal">
+        <div class="modal-content modal-view">
+            <div class="modal-header">
+                <div class="cifra-header-info">
+                    <h2 id="viewTitulo"></h2>
+                    <p id="viewArtista"></p>
+                </div>
+                <div class="cifra-actions">
+                    <button class="btn btn-icon" id="btnFavorite" title="Favoritar">
+                        <i class="far fa-heart"></i>
+                    </button>
+                    <button class="btn btn-icon" id="btnPrint" title="Imprimir">
+                        <i class="fas fa-print"></i>
+                    </button>
+                    <button class="btn btn-icon" id="btnEdit" title="Editar">
+                        <i class="fas fa-edit"></i>
+                    </button>
+                    <button class="btn btn-icon" id="btnDelete" title="Excluir">
+                        <i class="fas fa-trash"></i>
+                    </button>
+                    <button class="btn-close" id="btnCloseViewModal">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="transpose-controls">
+                    <label>Tom:</label>
+                    <button class="btn btn-small" id="btnTransposeDown">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                    <span class="current-tom" id="currentTom">C</span>
+                    <button class="btn btn-small" id="btnTransposeUp">
+                        <i class="fas fa-plus"></i>
+                    </button>
+                    <button class="btn btn-small btn-secondary" id="btnResetTom">
+                        <i class="fas fa-undo"></i> Resetar
+                    </button>
+                </div>
+                <div class="cifra-content" id="viewLetra"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Backup/Import -->
+    <div id="modalBackup" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Backup & Importar</h2>
+                <button class="btn-close" id="btnCloseBackupModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="backup-section">
+                    <h3><i class="fas fa-download"></i> Exportar Dados</h3>
+                    <p>Faça backup de todas as suas cifras em um arquivo JSON.</p>
+                    <button class="btn btn-primary" id="btnExport">
+                        <i class="fas fa-file-download"></i> Baixar Backup
+                    </button>
+                </div>
+                <div class="backup-section">
+                    <h3><i class="fas fa-upload"></i> Importar Dados</h3>
+                    <p>Restaure cifras de um arquivo de backup JSON.</p>
+                    <input type="file" id="fileImport" accept=".json" style="display: none;">
+                    <button class="btn btn-secondary" id="btnImport">
+                        <i class="fas fa-file-upload"></i> Selecionar Arquivo
+                    </button>
+                    <p class="warning-text">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        Atenção: Importar dados irá substituir todas as cifras atuais.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
