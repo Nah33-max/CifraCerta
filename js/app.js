@@ -115,9 +115,8 @@ function initializeDefaultCifras() {
                 id: generateId(),
                 titulo: 'Tua Graça Me Basta',
                 artista: 'Trazendo a Arca',
-                tom: 'G',
-                letra: `Intro: |: [C#m]  [E]/[G#] | [A]  [A]/[B] |
-        |[C#m]  [E]/[G#] | [A]  [A]/[B]  |
+                tom: 'E',
+                letra: `Intro: |: [C#m]  [E]/[G#] | [A]  [A]/[B] ||[C#m]  [E]/[G#] | [A]  [A]/[B]  |
 [E]                   
   Eu não preciso ser
            [A9]/[E]         [B]/[E]
@@ -214,7 +213,52 @@ Meu lugar secreto
          [B]       [A9]     
 Só Tua graça me basta e
         [B]               [E]
-Tua presença é o meu prazer`,
+Tua presença é o meu prazer
+
+
+     [A]/[C#]   
+Tua presença,
+      [F#m]
+Tua presença é o meu prazer 
+       [E]     
+Tua presença,
+     [B]/[D#]
+Tua presença é o meu prazer 
+     [A]/[C#]   
+Tua presença,
+      [F#m]
+Tua presença é o meu prazer 
+       [E]     
+Tua presença,
+     [B]/[D#]
+Tua presença é o meu prazer 
+          
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [C#m]
+Tua presença é o meu prazer
+
+         [B]       [A9]   
+Só Tua graça me basta e
+        [B]               [C#m]
+Tua presença é o meu prazer 
+
+         [B]       [A9]
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer
+
+Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
                 favorite: false,
                 createdAt: Date.now()
             },
