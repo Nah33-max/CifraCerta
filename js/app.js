@@ -114,25 +114,107 @@ function initializeDefaultCifras() {
             {
                 id: generateId(),
                 titulo: 'Tua Graça Me Basta',
-                artista: 'Fernandinho',
+                artista: 'Trazendo a Arca',
                 tom: 'G',
-                letra: `[G]Tua graça me [D]basta
-[Em]Tua graça me [C]basta
-[G]Teu poder se [D]aperfeiçoa
-[Em]Na minha fraque[C]za
+                letra: `Intro: |: [C#m]  [E]/[G#] | [A]  [A]/[B] |
+        |[C#m]  [E]/[G#] | [A]  [A]/[B]  |
+[E]                   
+  Eu não preciso ser
+           [A9]/[E]         [B]/[E]
+Reconhecido por ninguém  
+[E]                       
+   A minha Glória é fazer
+          [A9]/[E]         [C#m7]
+Com que conheçam a Ti  
+       [B]   [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais  
 
-[G]E quando estou [D]fraco
-[Em]É que sou bem mais [C]forte
-[G]Tua graça me [D]basta
-[Em]Tua graça me [C]basta
+[E]                       
+  E como os serafins que
+                [A9]/[E]         [B]/[E]
+Encobrem o rosto ante a Ti  
+[E]                         
+  Escondo o rosto para que
+         [A9]/[E]         [C#m7]
+Vejam Tua face em mim  
+        [B]  [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais 
 
-[C]Tudo posso [D]naquele que me forta[Em]lece
-[C]Tudo posso em [D]Jesus, tudo [G]posso
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer 
 
-[G]Ele é [D]fiel, Ele é [Em]fiel
-Quando tudo [C]passa, Ele permanece [G]fiel
-Ele é [D]fiel, Ele é [Em]fiel
-Quando tudo [C]passa, Ele permanece [G]fiel`,
+Solo 1: |[E]/[G#] [A] [B] | [C#m]  |[A]  [F#m]| [E] [B]/[D#]
+[E]                   
+  Eu não preciso ser
+           [A9]/[E]         [B]/[E]
+Reconhecido por ninguém  
+[E]                       
+   A minha Glória é fazer
+          [A9]/[E]         [C#m7]
+Com que conheçam a Ti  
+       [B]   [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais  
+
+[E]                       
+  E como os serafins que
+                [A9]/[E]         [B]/[E]
+Encobrem o rosto ante a Ti  
+[E]                         
+  Escondo o rosto para que
+         [A9]/[E]         [C#m7]
+Vejam Tua face em mim  
+        [B]  [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais 
+
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer 
+Solo 2: |[E]/[G#] [A9] [E/G#]|[F#m] | [C#m] [B]| [A] [E/G#]|[F#m] ||[C#m]  [E]/[G#] | [A] [E] | [F#m] |[C#m]  [E]/[G#] | [A] [E] | [F#m] | [B]
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer`,
                 favorite: false,
                 createdAt: Date.now()
             },
