@@ -268,24 +268,165 @@ Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
                 titulo: 'Ressuscita-me',
                 artista: 'Aline Barros',
                 tom: 'D',
-                letra: `[C]Eu me rendo a Ti, ó Mestre
-[G]Quebrantado estou
-[Am]Toma os cacos da minha [F]vida
-E refaz o meu [C]viver
+                letra: `Intro: ||4/4 [C6] [C] | [G]/[B] [Bb6] | [D]/[A] [G]/[A] ||
 
-[C]Quero ser moldado em Tuas [G]mãos
-Como o barro nas [Am]mãos do oleiro [F]sou
-[C]Quebra a minha vida e [G]faz de novo
-[Am]Como tu [F]quiser
+[D]                      [A]/[C#]
+  Mestre eu preciso de um milagre
+[Bm]                              [G]
+   Transforma minha vida, o meu estado
+[D]                             [A]/[C#]
+  Faz tempo que não vejo a luz do dia
+                                [Bm]
+Estão tentando sepultar minha alegria
+                             [G]    [G][D]/[F#][Em]
+Tentando ver meus sonhos cancelados
 
-[C]Ressuscita-me, [G]Sara-me
-[Am]Torna a me fazer um vaso [F]novo em Tuas [C]mãos
-Ressuscita-me, [G]Sara-me
-[Am]Quero ser do [F]jeito que Tu [C]queres, Senhor
+       [B]/[D#]    [D]               
+Lázaro ouviu a Sua voz 
+            [A]/[C#]    [G]
+Quando aquela pedra removeu
+                          [D]    [D][A]/[C#][Bm]
+Depois de quatro dias ele reviveu
+               [A]               [G]
+Mestre, não há outro que possa fazer
+                  [D]/[F#]         [Em7]
+Aquilo que só o Teu nome tem todo poder
+                        [A]
+Eu preciso tanto de um milagre
 
-[F]E se for preciso [C]quebra minha vida
-[G]E molda outra [Am]vez
-[F]Quero estar [C]sempre em Tuas [G]mãos`,
+             [D]
+Remove minha pedra
+            [A]/[C#]
+Me chama pelo nome
+              [Bm]
+Muda minha história
+                   [G]
+Ressuscita os meus sonhos
+               [D]/[F#] [G]
+Transforma minha vida
+            [A]
+Me faz um milagre
+             [C]
+Me toca nessa hora
+            [G]/[B]
+Me chama para fora
+[G]/[A]      [D]
+   Ressuscita-me
+
+[D]                      [A]/[C#]
+  Mestre eu preciso de um milagre
+[Bm]                              [G]
+   Transforma minha vida, o meu estado
+[D]                             [A]/[C#]
+  Faz tempo que não vejo a luz do dia
+                                [Bm]
+Estão tentando sepultar minha alegria
+                             [G]    [G][D]/[F#][Em]
+Tentando ver meus sonhos cancelados
+
+       [B]/[D#]    [D]               
+Lázaro ouviu a Sua voz 
+            [A]/[C#]    [G]
+Quando aquela pedra removeu
+                          [D]    [D][A]/[C#][Bm]
+Depois de quatro dias ele reviveu
+               [A]               [G]
+Mestre, não há outro que possa fazer
+                  [D]/[F#]         [Em7]
+Aquilo que só o Teu nome tem todo poder
+                        [A]
+Eu preciso tanto de um milagre
+
+             [D]
+Remove minha pedra
+            [A]/[C#]
+Me chama pelo nome
+              [Bm]
+Muda minha história
+                   [G]
+Ressuscita os meus sonhos
+               [D]/[F#] [G]
+Transforma minha vida
+            [A]
+Me faz um milagre
+             [C]
+Me toca nessa hora
+            [G]/[B]
+Me chama para fora
+[G]/[A]      [D] [D][A]/[C#][G]/[B][A]/[C#]
+   Ressuscita-me!
+
+   [D]
+Tu és a própria vida
+[A]/[C#]
+A força que há em mim
+     [Bm]
+Tu és o filho de Deus
+       [G]
+Que me ergue pra vencer
+[D]/[F#]             [D]/[F#][Em][D]
+Senhor de tudo em mim
+ [A]/[C#]
+Já ouço a Tua voz
+     [Bm]
+Me chamando pra viver
+      [G]               [A]/[B]
+Uma história de poder!
+
+             [E]
+Remove minha pedra
+            [B]/[D#]
+Me chama pelo nome
+              [C#m]
+Muda minha história
+                   [A]
+Ressuscita os meus sonhos
+               [E]/[G#][F#m][E]/[G#][A]
+Transforma minha vida
+            [B]
+Me faz um milagre
+             [D]
+Me toca nessa hora
+            [A]/[C#]
+Me chama para fora
+[A]/[B]      [E] [E][B]/[D#][A]/[C#][B]/[D#]
+   Ressuscita-me!
+
+   [E]
+Tu és a própria vida
+[B]/[D#]
+A força que há em mim
+     [C#m]
+Tu és o filho de Deus
+       [A]
+Que me ergue pra vencer
+[E]/[G#]             [E]/[G#][F#m][E]
+Senhor de tudo em mim
+ [B]/[D#]
+Já ouço a Tua voz
+     [C#m]
+Me chamando pra viver
+      [A]               [A]/[B]
+Uma história de poder!
+
+             [E]
+Remove minha pedra
+            [B]/[D#]
+Me chama pelo nome
+              [C#m]
+Muda minha história
+                   [A]
+Ressuscita os meus sonhos
+               [E]/[G#][F#m][E]/[G#][A]
+Transforma minha vida
+            [B]
+Me faz um milagre
+             [D]
+Me toca nessa hora
+            [A]/[C#]
+Me chama para fora
+[A]/[B]    ||[D6] [D] | [A]/[C#] [C6] | [E]/[B] [A]/[B] ||  [E]
+   Ressuscita-me,                                 Ressuscita-me`,
                 favorite: false,
                 createdAt: Date.now() - 86400000
             },
