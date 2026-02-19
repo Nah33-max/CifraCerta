@@ -113,153 +113,123 @@ function initializeDefaultCifras() {
         cifras = [
             {
                 id: generateId(),
-                titulo: 'Tua Graça Me Basta',
-                artista: 'Trazendo a Arca',
-                tom: 'E',
-                letra: `Intro: |: 4/4 [C#m]  [E]/[G#] | [A]  [A]/[B] ||[C#m]  [E]/[G#] | [A]  [A]/[B]
-[E]                   
-  Eu não preciso ser
-           [A9]/[E]         [B]/[E]
-Reconhecido por ninguém  
-[E]                       
-   A minha Glória é fazer
-          [A9]/[E]         [C#m7]
-Com que conheçam a Ti  
-       [B]   [A9]                    
-E que diminua eu pra que Tu cresças
-[E/G#][F#m]       [B]
- Se___nhor mais e mais  
+                titulo: 'A Alegria do Senhor',
+                artista: 'Fernandinho',
+                tom: 'Bb',
+                letra: `Intro: |: 4/4 [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] 
+     || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] :|
 
-[E]                       
-  E como os serafins que
-                [A9]/[E]         [B]/[E]
-Encobrem o rosto ante a Ti  
-[E]                         
-  Escondo o rosto para que
-         [A9]/[E]         [C#m7]
-Vejam Tua face em mim  
-        [B]  [A9]                    
-E que diminua eu pra que Tu cresças
-[E/G#][F#m]       [B]
- Se___nhor mais e mais 
 
-         [E/G#][A9]    
-No santo dos   santos
-        [E/G#][F#m]
-A fumaça me  esconde 
-                 [C#m7]
-Só teus olhos me veem
-  [B]            [A9]      [E]/[G#]  [F#m]
-Debaixo de Tuas asas é meu a___brigo
-              [C#m7]
-Meu lugar secreto
-         [B]       [A9]     
-Só Tua graça me basta e
-        [B]               [E]
-Tua presença é o meu prazer 
+| [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] |
+       Vento sopra forte
+| [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] |
+As águas não podem me afogar
+| [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] | 
+Vento sopra forte
+| A/E  Bb/F  A/E  Bb/F A/E  Bb/F  A/E |
+Em Suas mãos vou segurar
+Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] | || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] |
 
-Solo 1: |[E]/[G#] [A] [B] | [C#m]  |[A]  [F#m]| [E] [B]/[D#]
-[E]                   
-  Eu não preciso ser
-           [A9]/[E]         [B]/[E]
-Reconhecido por ninguém  
-[E]                       
-   A minha Glória é fazer
-          [A9]/[E]         [C#m7]
-Com que conheçam a Ti  
-       [B]   [A9]                    
-E que diminua eu pra que Tu cresças
-[E/G#][F#m]       [B]
- Se___nhor mais e mais  
+[Gm]
+   Vento sopra forte
 
-[E]                       
-  E como os serafins que
-                [A9]/[E]         [B]/[E]
-Encobrem o rosto ante a Ti  
-[E]                         
-  Escondo o rosto para que
-         [A9]/[E]         [C#m7]
-Vejam Tua face em mim  
-        [B]  [A9]                    
-E que diminua eu pra que Tu cresças
-[E/G#][F#m]       [B]
- Se___nhor mais e mais 
+As águas não podem me afogar
+[Bb]
+   Vento sopra forte
+                      [Cm]
+Em Suas mãos vou segurar
 
-         [E/G#][A9]    
-No santo dos   santos
-        [E/G#][F#m]
-A fumaça me  esconde 
-                 [C#m7]
-Só teus olhos me veem
-  [B]            [A9]      [E]/[G#]  [F#m]
-Debaixo de Tuas asas é meu a___brigo
-              [C#m7]
-Meu lugar secreto
-         [B]       [A9]     
-Só Tua graça me basta e
-        [B]               [E]
-Tua presença é o meu prazer 
-Solo 2: |[E]/[G#] [A9] [E/G#]|[F#m] | [C#m] [B]| [A] [E/G#]|[F#m] ||[C#m]  [E]/[G#] | [A] [E] | [F#m] |[C#m]  [E]/[G#] | [A] [E] | [F#m] | [B]
 
-         [E/G#][A9]    
-No santo dos   santos
-        [E/G#][F#m]
-A fumaça me  esconde 
-                 [C#m7]
-Só teus olhos me veem
-  [B]            [A9]      [E]/[G#]  [F#m]
-Debaixo de Tuas asas é meu a___brigo
-              [C#m7]
-Meu lugar secreto
-         [B]       [A9]     
-Só Tua graça me basta e
-        [B]               [E]
-Tua presença é o meu prazer
+E não me guio pelo que vejo
+ [Gm]
+Mas eu sigo pelo que creio
+[Cm]
+   Eu não olho as circunstâncias
+[Eb]               [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] [D]  [D#]
+    Eu vejo o Teu amor
 
-     [A]/[C#]   
-Tua presença,
-      [F#m]
-Tua presença é o meu prazer 
-       [E]     
-Tua presença,
-     [B]/[D#]
-Tua presença é o meu prazer 
-     [A]/[C#]   
-Tua presença,
-      [F#m]
-Tua presença é o meu prazer 
-       [E]     
-Tua presença,
-     [B]/[D#]
-Tua presença é o meu prazer 
-          
-         [E/G#][A9]    
-No santo dos   santos
-        [E/G#][F#m]
-A fumaça me  esconde 
-                 [C#m7]
-Só teus olhos me veem
-  [B]            [A9]      [E]/[G#]  [F#m]
-Debaixo de Tuas asas é meu a___brigo
-              [C#m7]
-Meu lugar secreto
-         [B]       [A9]     
-Só Tua graça me basta e
-        [B]               [C#m]
-Tua presença é o meu prazer
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
 
-         [B]       [A9]   
-Só Tua graça me basta e
-        [B]               [C#m]
-Tua presença é o meu prazer 
+Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] ||
 
-         [B]       [A9]
-Só Tua graça me basta e
-        [B]               [E]
-Tua presença é o meu prazer
+[Gm]
+   Vento sopra forte
 
-Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
+As águas não podem me afogar
+[Bb]
+   Vento sopra forte
+                      [Cm]
+Em Suas mãos vou segurar
 
+
+E não me guio pelo que vejo
+ [Gm]
+Mas eu sigo pelo que creio
+[Cm]
+   Eu não olho as circunstâncias
+[Eb]               [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] [D]  [D#]
+    Eu vejo o Teu amor
+
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+
+          [Bb]               [Eb]
+Essa alegria não vai mais sair
+          [Cm]                [Gm]
+Essa alegria não vai mais sair
+          [Bb]               [Eb]
+Essa alegria não vai mais sair
+    [Cm]                [Gm]
+De dentro do meu coração
+
+          [Bb]               [Eb]
+Essa alegria não vai mais sair
+          [Cm]                [Gm]
+Essa alegria não vai mais sair
+          [Bb]               [Eb]
+Essa alegria não vai mais sair
+     [F]                [Gm]
+De dentro do meu coração
+
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]          [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+
+Final: [Cm]  [Bb]  [Gm]`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
@@ -878,126 +848,157 @@ Incomparáveis são as promessas para mim
             },
             {
                 id: generateId(),
-                titulo: 'A Alegria do Senhor',
-                artista: 'Fernandinho',
-                tom: 'Bb',
-                letra: `Intro: |: 4/4 [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] 
-     || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] :|
+                titulo: 'Tua Graça Me Basta',
+                artista: 'Trazendo a Arca',
+                tom: 'E',
+                letra: `Intro: |: 4/4 [C#m]  [E]/[G#] | [A]  [A]/[B] ||[C#m]  [E]/[G#] | [A]  [A]/[B]
+[E]                   
+  Eu não preciso ser
+           [A9]/[E]         [B]/[E]
+Reconhecido por ninguém  
+[E]                       
+   A minha Glória é fazer
+          [A9]/[E]         [C#m7]
+Com que conheçam a Ti  
+       [B]   [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais  
 
+[E]                       
+  E como os serafins que
+                [A9]/[E]         [B]/[E]
+Encobrem o rosto ante a Ti  
+[E]                         
+  Escondo o rosto para que
+         [A9]/[E]         [C#m7]
+Vejam Tua face em mim  
+        [B]  [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais 
 
-| [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] |
-       Vento sopra forte
-| [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] |
-As águas não podem me afogar
-| [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] | 
-Vento sopra forte
-| A/E  Bb/F  A/E  Bb/F A/E  Bb/F  A/E |
-Em Suas mãos vou segurar
-Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] | || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] |
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer 
 
-[Gm]
-   Vento sopra forte
+Solo 1: |[E]/[G#] [A] [B] | [C#m]  |[A]  [F#m]| [E] [B]/[D#]
+[E]                   
+  Eu não preciso ser
+           [A9]/[E]         [B]/[E]
+Reconhecido por ninguém  
+[E]                       
+   A minha Glória é fazer
+          [A9]/[E]         [C#m7]
+Com que conheçam a Ti  
+       [B]   [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais  
 
-As águas não podem me afogar
-[Bb]
-   Vento sopra forte
-                      [Cm]
-Em Suas mãos vou segurar
+[E]                       
+  E como os serafins que
+                [A9]/[E]         [B]/[E]
+Encobrem o rosto ante a Ti  
+[E]                         
+  Escondo o rosto para que
+         [A9]/[E]         [C#m7]
+Vejam Tua face em mim  
+        [B]  [A9]                    
+E que diminua eu pra que Tu cresças
+[E/G#][F#m]       [B]
+ Se___nhor mais e mais 
 
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer 
+Solo 2: |[E]/[G#] [A9] [E/G#]|[F#m] | [C#m] [B]| [A] [E/G#]|[F#m] ||[C#m]  [E]/[G#] | [A] [E] | [F#m] |[C#m]  [E]/[G#] | [A] [E] | [F#m] | [B]
 
-E não me guio pelo que vejo
- [Gm]
-Mas eu sigo pelo que creio
-[Cm]
-   Eu não olho as circunstâncias
-[Eb]               [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] [D]  [D#]
-    Eu vejo o Teu amor
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer
 
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
+     [A]/[C#]   
+Tua presença,
+      [F#m]
+Tua presença é o meu prazer 
+       [E]     
+Tua presença,
+     [B]/[D#]
+Tua presença é o meu prazer 
+     [A]/[C#]   
+Tua presença,
+      [F#m]
+Tua presença é o meu prazer 
+       [E]     
+Tua presença,
+     [B]/[D#]
+Tua presença é o meu prazer 
+          
+         [E/G#][A9]    
+No santo dos   santos
+        [E/G#][F#m]
+A fumaça me  esconde 
+                 [C#m7]
+Só teus olhos me veem
+  [B]            [A9]      [E]/[G#]  [F#m]
+Debaixo de Tuas asas é meu a___brigo
+              [C#m7]
+Meu lugar secreto
+         [B]       [A9]     
+Só Tua graça me basta e
+        [B]               [C#m]
+Tua presença é o meu prazer
 
-Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] ||
+         [B]       [A9]   
+Só Tua graça me basta e
+        [B]               [C#m]
+Tua presença é o meu prazer 
 
-[Gm]
-   Vento sopra forte
+         [B]       [A9]
+Só Tua graça me basta e
+        [B]               [E]
+Tua presença é o meu prazer
 
-As águas não podem me afogar
-[Bb]
-   Vento sopra forte
-                      [Cm]
-Em Suas mãos vou segurar
+Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
 
-
-E não me guio pelo que vejo
- [Gm]
-Mas eu sigo pelo que creio
-[Cm]
-   Eu não olho as circunstâncias
-[Eb]               [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] [D]  [D#]
-    Eu vejo o Teu amor
-
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-
-          [Bb]               [Eb]
-Essa alegria não vai mais sair
-          [Cm]                [Gm]
-Essa alegria não vai mais sair
-          [Bb]               [Eb]
-Essa alegria não vai mais sair
-    [Cm]                [Gm]
-De dentro do meu coração
-
-          [Bb]               [Eb]
-Essa alegria não vai mais sair
-          [Cm]                [Gm]
-Essa alegria não vai mais sair
-          [Bb]               [Eb]
-Essa alegria não vai mais sair
-     [F]                [Gm]
-De dentro do meu coração
-
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-
-Final: [Cm]  [Bb]  [Gm]`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }                           
+            }
+                                       
         ];
         saveCifras();
     }
