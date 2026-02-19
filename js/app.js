@@ -7,8 +7,8 @@ const CHORDS = ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'G#', 'A', 'Bb', 'B']
 
 // Alternative chord notations
 const CHORD_ALTERNATIVES = {
-    'Db': 'C#', 'Eb': 'D#', 'Gb': 'F#', 'Ab': 'G#', 'Bb': 'A#',
-    'C#m': 'C#m', 'D#m': 'D#m', 'F#m': 'F#m', 'G#m': 'G#m', 'A#m': 'A#m'
+    'Db': 'C#', 'D#': 'Eb', 'Gb': 'F#', 'Ab': 'G#', 'A#': 'Bb',
+    'Dbm': 'C#m', 'D#m': 'Ebm', 'Gbm': 'F#m', 'Abm': 'G#m', 'A#m': 'Bbm'
 };
 
 // ==================== State ====================
@@ -542,6 +542,42 @@ Nos rendemos aos Teus pés
 Consagramos todo nosso ser a Ti`,
                 favorite: false,
                 createdAt: Date.now() - 259200000
+            },
+                        {
+                id: generateId(),
+                titulo: 'A Ele à Glória',
+                artista: 'Diante do Trono',
+                tom: 'G',
+                letra: `Intro: || 4/4 [Em] | [C] | [D] | [Em] [Em7(11)] | [Em] | [C] | [D] | [Em]  [D] [Em] |     
+    
+[Em]                     [C]
+       Porque Dele e por Ele     
+            [D]              [Em]   [Em7(11)] [Em]
+       Para Ele são todas as coisas    
+                         [C]    
+       Porque Dele e por Ele     
+            [D]              [Em]   [Em7(11)] [Em]  (2x)
+       Para Ele são todas as coisas    
+
+        [C][D]    
+A Ele a Glória    
+        [G] [D]/[F#] [Em]    
+A Ele a Gló    -     ria    
+        [C] [D]    
+A Ele a Glória    
+            [Em]    [Em7(11)]
+Pra sempre, amém    
+    
+                 [C]
+Quão profundas riquezas     
+  [D]                  [Em]   [Em7(11)] [Em]
+O saber e o conhecer de Deus    
+          [C]
+Quão insondáveis    
+      [D]            [Em]   [Em7(11)] [Em] (2x)
+Seus juízos e Seus caminhos`,
+                favorite: false,
+                createdAt: Date.now() - 259300000
             },
             {
                 id: generateId(),
