@@ -233,6 +233,1285 @@ Final: [Cm]  [Bb]  [Gm]`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
+             {
+                id: generateId(),
+                titulo: 'A Alegria está no Coração',
+                artista: 'Corinhos Evangélicos',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'A Batalha é do Senhor',
+                artista: 'Ademar de Campos',
+                tom: 'F',
+                letra: `Intro: |4/4 (solo bateria) | [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
+                
+           [Dm]  [Am]   [Dm] [Am][Bb]   [Am][Gm]
+Quando os grandes homens de Judá viram o inimigo
+ [Dm]  [Am]          [Dm] [Am]
+Deus mandou que eles não temessem
+     [Bb]   [Am][Gm] [Bb][Am][Gm] 
+Pois daria a vitória
+            [Am]              [Bb]   [Bb][Am][Gm]
+E chamou a cantar uma nova canção
+           [Am]              [Bb]/[C]
+Abaixar a espada e levantar o louvor
+
+[F9]            [Am]            [Eb]
+    Cantai ao Senhor com alegre som
+              [Gm]   [C]/[E] [F9]
+    Erga a voz para o Seu louvor
+                 [Am]          [Eb]
+    Um canto vencedor na tribulação
+                   [Gm]   [C]/[E] [F9]
+    Crê somente a batalha é do Senhor
+
+Interlúdio: || [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
+
+      [Dm]  [Am]   [Dm] [Am]
+Quando algum mal te encontrar
+   [Bb]  [Am][Gm]
+Confia no Senhor
+[Dm]  [Am]            [Dm] [Am]       
+Crê em Deus que não te deixará
+    [Bb]   [Am][Gm][Bb][Am][Gm] 
+Ele sempre perto está
+            [Am]            [Bb]   [Bb][Am][Gm]
+Você pode erguer uma nova canção
+          [Am]        [Bb]/[C]
+Porque a batalha é do Senhor
+
+[F9]            [Am]            [Eb]
+    Cantai ao Senhor com alegre som
+              [Gm]   [C]/[E] [F9]
+    Erga a voz para o Seu louvor
+                 [Am]          [Eb]
+    Um canto vencedor na tribulação
+                   [Gm]   [C]/[E] [F9]
+    Crê somente a batalha é do Senhor
+
+    [C]/[Bb][Bb]/[D]   [Bbm]           [F]
+Porque ele é bom, Seu amor dura para sempre
+    [C]/[Bb][Bb]/[D]   [Bbm]           [F]
+Porque ele é bom, Seu amor dura para sempre
+             [Bb]/[C]
+Pra sempre e sempre
+
+[F9]            [Am]            [Eb]
+    Cantai ao Senhor com alegre som
+              [Gm]   [C]/[E] [F9]
+    Erga a voz para o Seu louvor
+                 [Am]          [Eb]
+    Um canto vencedor na tribulação
+                   [Gm]   [C]/[E] [F9] Pausa
+    Crê somente a batalha é do Senhor`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'A Benção',
+                artista: 'Gabriel Guedes',
+                tom: 'Bb',
+                letra: `Intro: || 4/4 [Gm] | [Eb] | [Bb]/[D] | [F] ||
+
+[Bb]              [Eb]/[G]
+   Que o Senhor te      abençoe
+[Bb]/[F]       [F]     [F#º]    [Gm]
+     E faça brilhar seu rosto em ti
+           [Eb]         [Bb]/[D]
+Que conceda    Sua graça
+ [F]      [Bb]
+E te dê a paz
+
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,   amém
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,  amém
+
+[Bb]              [Eb]/[G]
+   Que o Senhor te      abençoe
+[Bb]/[F]       [F]     [F#º]    [Gm]
+     E faça brilhar seu rosto em ti
+           [Eb]         [Bb]/[D]
+Que conceda    Sua graça
+ [F]      [Bb]
+E te dê a paz
+
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,   amém
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,  amém
+
+     [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+    [Bb]/[D]
+Tua família e teus filhos
+     [F]
+E os filhos dos teus filhos
+     [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+    [Bb]/[D]
+Tua família e teus filhos
+     [F]
+E os filhos dos teus filhos
+
+     [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+    [Bb]/[D]
+Tua família e teus filhos
+     [F]
+E os filhos dos teus filhos
+     [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+    [Bb]/[D]
+Tua família e teus filhos
+     [F]
+E os filhos dos teus filhos
+
+      [Gm]
+Sua presença te acompanhe
+       [Eb]
+Por detrás e por diante
+    [Bb]/[D]
+Do teu lado e em ti
+     [F]
+É contigo, é por ti
+     [Gm]
+E de dia, e de noite
+      [Eb]
+Tua entrada e saída
+    [Bb]/[D]
+Em teu riso, em teu choro
+    [F]
+É contigo, é por ti
+
+     [Gm]
+É contigo, é por ti
+      [Eb]
+É contigo, é por ti
+ [Bb]/[D]
+É contigo, é por ti
+     [F]
+É contigo, é por ti
+
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,   amém
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,  amém
+
+     [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+    [Bb]/[D]
+Tua família e teus filhos
+     [F]
+E os filhos dos teus filhos
+     [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+    [Bb]/[D]
+Tua família e teus filhos
+     [F]
+E os filhos dos teus filhos
+
+      [Gm]
+Sua presença te acompanhe
+       [Eb]
+Por detrás e por diante
+    [Bb]/[D]
+Do teu lado e em ti
+     [F]
+É contigo, é por ti
+     [Gm]
+E de dia, e de noite
+      [Eb]
+Tua entrada e saída
+    [Bb]/[D]
+Em teu riso, em teu choro
+    [F]
+É contigo, é por ti
+
+     [Gm]
+É contigo, é por ti
+      [Eb]
+É contigo, é por ti
+ [Bb]/[D]
+É contigo, é por ti
+     [F]
+É contigo, é por ti
+
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,   amém
+[Gm][Eb] [Bb]/[D] [F]
+Am__ém, amém,  amém`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'A Casa é Sua',
+                artista: 'Casa Worship',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'A Ele à Glória',
+                artista: 'Diante do Trono',
+                tom: 'G',
+                letra: `Intro: || 4/4 [Em] | [C] | [D] | [Em] [Em7(11)] | [Em] | [C] | [D] | [Em]  [D] [Em] |     
+    
+[Em]                     [C]
+       Porque Dele e por Ele     
+            [D]              [Em]   [Em7(11)] [Em]
+       Para Ele são todas as coisas    
+                         [C]    
+       Porque Dele e por Ele     
+            [D]              [Em]   [Em7(11)] [Em]  (2x)
+       Para Ele são todas as coisas    
+
+        [C][D]    
+A Ele a Glória    
+        [G] [D]/[F#] [Em]    
+A Ele a Gló    -     ria    
+        [C] [D]    
+A Ele a Glória    
+            [Em]    [Em7(11)]
+Pra sempre, amém    
+    
+                 [C]
+Quão profundas riquezas     
+  [D]                  [Em]   [Em7(11)] [Em]
+O saber e o conhecer de Deus    
+          [C]
+Quão insondáveis    
+      [D]            [Em]   [Em7(11)] [Em] (2x)
+Seus juízos e Seus caminhos`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+                        {
+                id: generateId(),
+                titulo: 'Abra os olhos do meu coração',
+                artista: 'David Quilan',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+                        {
+                id: generateId(),
+                titulo: 'Abraça-me',
+                artista: 'André Valadão',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+                        {
+                id: generateId(),
+                titulo: 'Acende Outra Vez',
+                artista: 'Jefferson e Suellen',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Aclame ao Senhor',
+                artista: 'IECP Central',
+                tom: 'A',
+                letra: `
+  [A]       [F#m]       [D]        [E]
+Aclame ao Senhor toda a Terra e cantemos
+  [A]     [F#m]      [D]       [E]
+Poder, majestade e louvores ao Rei
+  [F#m]        [F#m/E]  [D]
+Montanhas se prostrem e rujam os mares
+   [E][D]/[F#][E]/[G#]
+Ao som de teu nome
+ [A]     [F#m]      [D]          [E]
+Alegre Te louvo por Teus grandes feitos
+   [A]     [F#m]        [D]   [E]
+Firmado estarei, sempre te amarei
+[F#m][F#m/E]      [D]         [E]   [A]    [D9] [E] 
+Incomparáveis são as promessas do Senhor
+                
+[A]        [E]
+   Meu Jesus, Salvador
+[F#m]   [E]     [D]
+Outro igual não há
+      [A]/[C#][D]    [A]/[E]
+Todos os dias quero louvar
+  [F#m]      [G][D]/[F#][E]
+As maravilhas de Teu amor
+
+[A]      [E]
+  Consolo, abrigo
+[F#m]    [E]          [D]
+Refúgio e Força é o Senhor
+             [A]/[C#]
+Com todo o meu ser
+    [D]      [A]/[E]
+Com tudo o que sou 
+[F#m]     [G] [D]/[F#] [E]
+Sempre te ado  - ra -  rei
+
+  [A]       [F#m]       [D]        [E]
+Aclame ao Senhor toda a Terra e cantemos
+  [A]     [F#m]      [D]       [E]
+Poder, majestade e louvores ao Rei
+  [F#m]        [F#m/E]  [D]
+Montanhas se prostrem e rujam os mares
+   [E][D]/[F#][E]/[G#]
+Ao som de teu nome
+ [A]     [F#m]      [D]          [E]
+Alegre Te louvo por Teus grandes feitos
+   [A]     [F#m]        [D]   [E]
+Firmado estarei, sempre te amarei
+[F#m][F#m/E]      [D]         [E]   [F#m]  [E] [D9] 
+Incomparáveis são as promessas do Senhor
+
+  [A]       [F#m]       [D]        [E]
+Aclame ao Senhor toda a Terra e cantemos
+  [A]     [F#m]      [D]       [E]
+Poder, majestade e louvores ao Rei
+  [F#m]        [F#m/E]  [D]
+Montanhas se prostrem e rujam os mares
+   [E][D]/[F#][E]/[G#]
+Ao som de teu nome
+ [A]     [F#m]      [D]          [E]
+Alegre Te louvo por Teus grandes feitos
+   [A]     [F#m]        [D]   [E]
+Firmado estarei, sempre te amarei
+[F#m][F#m/E]      [D]         [E]   [F#m]
+Incomparáveis são as promessas do Senhor
+     [F#m/E]      [D]         [E]   [F#m]
+Incomparáveis são as promessas do Senhor
+     [F#m/E]      [D]         [E]   [A]  | [D9] [E] | [A] | [D9] [E] | [A] ||
+Incomparáveis são as promessas para mim`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+             {
+                id: generateId(),
+                titulo: 'Águas Purificadoras',
+                artista: 'Diante do Trono',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Agnus Dei',
+                artista: 'David Quilan',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Ainda que a Figueira',
+                artista: 'Fernandinho',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Algo Novo',
+                artista: 'Lukas Agustinho',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Alto Preço',
+                artista: 'Harpa Cristã',
+                tom: 'A',
+                letra: `Intro: |4/4 [F#m] [C#m] | [D] | [F#m] [D]/[E]||
+
+[F#m]                       [C#m]
+Eu sei que foi pago um alto preço
+[D]             		           [F#m]
+Para que contigo eu fosse um meu irmão
+[F#m]                    [C#m]
+Quando Jesus derramou sua vida
+[D]                E			[C#]/[F]
+Ele pensava em ti, Ele pensava em mim,
+            [F#m]		[D]/[E]
+Pensava em nós
+
+[F#m]                       [C#m]
+Eu sei que foi pago um alto preço
+[D]             		           [F#m]
+Para que contigo eu fosse um meu irmão
+[F#m]                    [C#m]
+Quando Jesus derramou sua vida
+[D]                E			[C#]/[F]
+Ele pensava em ti, Ele pensava em mim,
+            [F#m]		[E]/[G#]
+Pensava em nós
+      [D]        		  [A]/[C#]
+E nos via redimidos por seu sangue
+  [D]                    [A]/[C#]
+Lutando o bom combate do Senhor
+     	[D]                 [B]/[D#]
+Lado a lado trabalhando, sua Igreja edificando
+    [A]   	    [F#m]         [E]
+E rompendo as barreiras pelo amor.
+
+     [A]               [E]      [D]            [A]
+E na força do Espírito Santo nós proclamamos aqui
+    [D]       [A]/[C#]          [B]/[D#]           [E]
+Que pagaremos o preço de sermos um só coração no Senhor
+       [A]                  [E]         [D]       [A]
+ E por mais que as trevas militem e nos tentem separar
+  	 [D]            [A]      [D]    [E]      [F#m]   [A]/[E]
+Com nossos olhos em Cristo, unidos iremos andar...
+ [D]    [E]     [F#m]   [A]/[E]
+Unidos iremos andar...
+ [D]    [E]     [A]
+Unidos iremos andar`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Anseio',
+                artista: 'Diante do Trono',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Ao Único',
+                artista: 'Aline Barros',
+                tom: 'C',
+                letra: `Intro: |4/4 [C] [G]/[B] | [Am] [Am]/[G] | [F] [C]/[E] |2/4 [Dm]|4/4 [G] |
+
+   [C]            [G]/[B]      [Am]    [Am]/[G]
+Ao único que é digno de receber
+   [F]          [C]/[E]
+A honra e a glória
+[Dm7]         [G]
+A força e o poder
+
+    [Gm7]         [C]/[E]
+Ao rei, eterno, imortal
+[F]/[A]             [Fm]/[G#]
+  Invisível, mas real
+[C]/[G]     [G]        [C]  [F]/[C]  [G]/[C]
+A Ele ministramos o louvor
+
+   [C]            [G]/[B]      [Am]    [Am]/[G]
+Ao único que é digno de receber
+   [F]          [C]/[E]
+A honra e a glória
+[Dm7]        [G]
+A força e o poder
+
+    [Gm7]         [C]/[E]
+Ao rei, eterno, imortal
+[F]/[A]             [Fm]/[G#]
+  Invisível, mas real
+[C]/[G]     [G]        [C]  [B°] [Ealt]
+A Ele ministramos o louvor
+
+   [Am][Em]  [F]   [G]   [C]  [G]/[B]
+Coroa__mos a Ti, ó rei Jesus
+   [Am][Em]  [F]   [G]   [C]  [G]/[C]
+Coroa__mos a Ti, ó rei Jesus
+
+   [F]         [G]/[F]
+Adoramos o Teu nome
+        [E]/[G#]      [Am] [D]/[F#]
+Nos rendemos aos Teus pés
+    [Dm7]        [G]         [C]
+Consagramos todo nosso ser a Ti`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Aos Pés da Cruz',
+                artista: 'Oficina G3',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Atos 2',
+                artista: 'Gabriela Rocha',
+                tom: 'G',
+                letra: `Intro: |:6/8 [Em7] | [C9] | [G9] | [Bm7] :| 
+
+     [Em]               [C]
+Nós estamos aqui tão sedentos de Ti
+        [G]         [Bm7]
+Vem óh Deus, vem óh Deus!
+      [Em]
+Enche este lugar
+      [C]                 [G]        [Bm7]
+Meu desejo é sentir Teu poder, Teu poder!
+
+Interlúdio: | [Em7] | [C9] | [G9] | [Bm7] |
+
+     [Em]               [C]
+Nós estamos aqui tão sedentos de Ti
+        [G]         [Bm7]
+Vem óh Deus, vem óh Deus!
+      [Em]
+Enche este lugar
+      [C]                 [G]        [D]
+Meu desejo é sentir Teu poder, Teu poder!
+
+     [C]         [D][Em7]
+Então vem me incendiar 
+ [D]/[F#][G]    [C7+] [D]
+Meu coração é o Teu altar!
+        [C]          [Em]
+Quero ouvir o som do céu
+[D]/[F#][G] [C7+] [D]
+ Tua glória contemplar!
+
+     [C]         [D][Em7]
+Então vem me incendiar 
+ [D]/[F#][G]    [C7+] [D]
+Meu coração é o Teu altar!
+        [C]          [Em]
+Quero ouvir o som do céu
+[D]/[F#][G] [C7+] [D]
+ Tua glória contemplar!
+
+Interlúdio: | [C] | [%] | [Em7] | [%] | [G9] | [C9] | [D9] |   
+
+      [C]
+Nós estamos aqui tão sedentos de Ti
+        [G]         [Bm7]
+Vem óh Deus, vem óh Deus!
+      [Em]
+Enche este lugar
+      [C]                 [G]        [D]
+Meu desejo é sentir Teu poder, Teu poder!
+
+     [C]         [D][Em7]
+Então vem me incendiar 
+ [D]/[F#][G]    [C7+] [D]
+Meu coração é o Teu altar!
+        [C]          [Em]
+Quero ouvir o som do céu
+[D]/[F#][G] [C7+] [D]
+ Tua glória contemplar!
+
+     [C]         [D][Em7]
+Então vem me incendiar 
+ [D]/[F#][G]    [C7+] [D]
+Meu coração é o Teu altar!
+        [C]          [Em]
+Quero ouvir o som do céu
+[D]/[F#][G] [C7+] [D]
+ Tua glória contemplar!
+
+Interlúdio: | [C] | [%] | [Em7] | [%] | [G9] | [C9] | [D9] |    
+
+         [C]             [Em]
+Te damos honra! Te damos glória!
+         [G]  [C9]             [D9]    
+Teu é o poder,    pra sempre, amém!
+         [C]             [Em]
+Te damos honra! Te damos glória!
+         [G]  [C9]             [D9]    
+Teu é o poder,    pra sempre, amém!
+         [C]             [Em]
+Te damos honra! Te damos glória!
+         [G]  [C9]             [D9]    
+Teu é o poder,    pra sempre, amém!
+
+     [C]         [D][Em7]
+Então vem me incendiar 
+ [D]/[F#][G]    [C7+] [D]
+Meu coração é o Teu altar!
+        [C]          [Em]
+Quero ouvir o som do céu
+[D]/[F#][G] [C7+] [D]
+ Tua glória contemplar!
+
+     [C]         [D][Em7]
+Então vem me incendiar 
+ [D]/[F#][G]    [C7+] [D]
+Meu coração é o Teu altar!
+        [C]          [Em]
+Quero ouvir o som do céu
+[D]/[F#][G] [C7+] [D]
+ Tua glória contemplar!`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Basta uma Palavra do meu Deus',
+                artista: 'Comunidade Evangélica Internacional da Zona Sul',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Bem-Aventurado',
+                artista: 'Aline Barros',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Bondade de Deus',
+                artista: 'Marsena',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            
+            {
+                id: generateId(),
+                titulo: 'Caia Fogo',
+                artista: 'Fernandinho',
+                tom: 'B',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            
+            {
+                id: generateId(),
+                titulo: 'Caminho de Milagres',
+                artista: 'Aline Barros',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            
+            {
+                id: generateId(),
+                titulo: 'Canção ao Cordeiro',
+                artista: 'Israel Salazar',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            
+            {
+                id: generateId(),
+                titulo: 'Canção do Apocalipse',
+                artista: 'Diante do Trono',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            
+            {
+                id: generateId(),
+                titulo: 'Clamo Jesus',
+                artista: 'Paulo Cesar Baruk',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            
+            {
+                id: generateId(),
+                titulo: 'Como eu te amo',
+                artista: 'Fernandinho',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            
+            {
+                id: generateId(),
+                titulo: 'Consagração',
+                artista: 'Aline Barros',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Contar meus Segredos',
+                artista: 'Aline Barros',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Coração Igual ao Teu',
+                artista: 'Diante do Trono',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Cordeiro Santo',
+                artista: 'Filhos do Homem',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Corpo e Família',
+                artista: 'Eli Soares',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Correr para Deus',
+                artista: 'Aline Barros',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Creio que Tu és a Cura',
+                artista: 'Gabriela Rocha',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Creio em Ti',
+                artista: 'Gabriela Rocha',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Dançar na Chuva',
+                artista: 'Fernandinho',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus Eterno',
+                artista: 'Oficina G3',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus Fiel',
+                artista: 'Gateway Worship',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus me Ama',
+                artista: 'Thalles Roberto',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus tem o Melhor pra Mim',
+                artista: 'Fernandinho',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus Vem Me Socorrer ',
+                artista: 'Bruna Karla',
+                tom: 'Eb',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus da Minha Vida',
+                artista: 'Thalles Roberto',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus de Promessas',
+                artista: 'Davi Sacer',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus do impossível',
+                artista: 'Ministério Apascentar de Nova Iguaçu',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Deus é Deus',
+                artista: 'Delino Marçal',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Diante da Cruz',
+                artista: 'Aline Barros',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Digno é o Senhor',
+                artista: 'Aline Barros',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Diz',
+                artista: 'Ana Nóbrega',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Dono do Mundo',
+                artista: 'Fernandinho',
+                tom: 'B',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'E Ele Vem',
+                artista: 'David Quilan',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Eis-me Aqui',
+                artista: 'Fernandinho',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Ele é Exaltado',
+                artista: 'Ademar de Barros',
+                tom: 'E',
+                letra: `Intro: |6/8 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Em Teus Braços',
+                artista: 'Laura Souguellis',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Em Tua Presença',
+                artista: 'Nívea Soares',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Em Espírito, Em Verdade',
+                artista: 'Lukas Agustinho',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Emanuel',
+                artista: 'Isaías Saad',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Emanuel',
+                artista: 'Fernandinho',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Enche-me',
+                artista: 'Isaías Saad',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Entrega',
+                artista: 'Vineyard',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Escape',
+                artista: 'Renascer Praise',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Estás Comigo',
+                artista: 'Gabriela Rocha',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Estrela da Manhã',
+                artista: 'Marcos Góes',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Eternidade',
+                artista: 'Aline Barros',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Eu me Rendo',
+                artista: 'Renascer Praise',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Eu Navegarei',
+                artista: 'Gabriela Rocha',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Eu Quero Ser Santo',
+                artista: 'Eyshila',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Eu Sou Livre',
+                artista: 'Ronaldo Bezerra',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Eu vou Construir',
+                artista: 'Juliano Son',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Faz Chover',
+                artista: 'Trazendo a Arca',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Faz Chover',
+                artista: 'Fernandinho',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Fidelidade',
+                artista: 'Danielle Cristina',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Filho de Davi',
+                artista: 'David Quilan',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Fogo consumidor',
+                artista: 'Fernandinho',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Galileu',
+                artista: 'Fernandinho',
+                tom: 'C#',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Grande é o Senhor',
+                artista: 'Adhemar de Campos',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Hosana',
+                artista: 'Mariana Valadão',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Há um Lugar',
+                artista: 'Heloísa Rosa',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Há um Rio',
+                artista: 'Fernandinho',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Incendeia-nos',
+                artista: 'Fred Arrais',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Invincível',
+                artista: 'Aline Barros',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Isaías 9',
+                artista: 'Rodolfo Abrantes',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Porque Ele Vive',
+                artista: 'Harpa Cristã',
+                tom: 'A',
+                letra: `Intro: |4/4 [A] | [A]/[C#] | [D] | [D7] | [Bm] | [E] | [A] | [D]/[E] |
+        [A]             [D]
+Deus enviou seu Filho amado
+        [A9]           [Bm]  [E]
+Pra perdoar, pra me salvar 
+          [A9]            [D]
+Na cruz morreu por meu pecado
+     [A9]  [Bm]        [E]       [A] [E]
+Mas ressur_giu e vivo com o Pai está
+
+            [A9]
+Porque Ele vive
+              [D]
+Posso crer no amanhã
+            [A9]
+Porque Ele vive
+           [E]
+Temor não há
+
+           [A9][Bm][A]/[C#]
+Mas eu bem sei, eu sei
+             [D] [Bm]
+Que a minha vida
+        [A9]    [Bm]   [E]
+Está nas mãos do meu Jesus
+           [A]  [E]
+Que vivo está
+
+           [A]           [D]
+E quando enfim, chegar a hora
+          [A9]            [Bm]  [E]
+Em que a morte enfrentarei
+           [A9]           [D]
+Sem medo, então, terei vitória
+        [A9]       [Bm]   [E]
+Verei na Glória, ao meu Jesus
+            [A] [E]
+Que vivo está
+
+            [A9]
+Porque Ele vive
+              [D]
+Posso crer no amanhã
+            [A9]
+Porque Ele vive
+           [E]
+Temor não há
+
+           [A9][Bm][A]/[C#]
+Mas eu bem sei, eu sei
+             [D] [Bm]
+Que a minha vida
+        [A9]    [Bm]   [E]
+Está nas mãos do meu Jesus
+           [A]  [E]
+Que vivo está`,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
             {
                 id: generateId(),
                 titulo: 'Ressuscita-me',
@@ -397,452 +1676,6 @@ Me toca nessa hora
 Me chama para fora
 [A]/[B]    ||[D6] [D] | [A]/[C#] [C6] | [E]/[B] [A]/[B] ||  [E]
    Ressuscita-me,                                 Ressuscita-me`,
-                favorite: false,
-                createdAt: Date.now() - 172100000
-            },
-            {
-                id: generateId(),
-                titulo: 'Porque Ele Vive',
-                artista: 'Harpa Cristã',
-                tom: 'A',
-                letra: `Intro: |4/4 [A] | [A]/[C#] | [D] | [D7] | [Bm] | [E] | [A] | [D]/[E] |
-        [A]             [D]
-Deus enviou seu Filho amado
-        [A9]           [Bm]  [E]
-Pra perdoar, pra me salvar 
-          [A9]            [D]
-Na cruz morreu por meu pecado
-     [A9]  [Bm]        [E]       [A] [E]
-Mas ressur_giu e vivo com o Pai está
-
-            [A9]
-Porque Ele vive
-              [D]
-Posso crer no amanhã
-            [A9]
-Porque Ele vive
-           [E]
-Temor não há
-
-           [A9][Bm][A]/[C#]
-Mas eu bem sei, eu sei
-             [D] [Bm]
-Que a minha vida
-        [A9]    [Bm]   [E]
-Está nas mãos do meu Jesus
-           [A]  [E]
-Que vivo está
-
-           [A]           [D]
-E quando enfim, chegar a hora
-          [A9]            [Bm]  [E]
-Em que a morte enfrentarei
-           [A9]           [D]
-Sem medo, então, terei vitória
-        [A9]       [Bm]   [E]
-Verei na Glória, ao meu Jesus
-            [A] [E]
-Que vivo está
-
-            [A9]
-Porque Ele vive
-              [D]
-Posso crer no amanhã
-            [A9]
-Porque Ele vive
-           [E]
-Temor não há
-
-           [A9][Bm][A]/[C#]
-Mas eu bem sei, eu sei
-             [D] [Bm]
-Que a minha vida
-        [A9]    [Bm]   [E]
-Está nas mãos do meu Jesus
-           [A]  [E]
-Que vivo está`,
-                favorite: false,
-                createdAt: Date.now() - 172100000
-            },
-            {
-                id: generateId(),
-                titulo: 'A Batalha é do Senhor',
-                artista: 'Ademar de Campos',
-                tom: 'F',
-                letra: `Intro: |4/4 (solo bateria) | [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
-                
-           [Dm]  [Am]   [Dm] [Am][Bb]   [Am][Gm]
-Quando os grandes homens de Judá viram o inimigo
- [Dm]  [Am]          [Dm] [Am]
-Deus mandou que eles não temessem
-     [Bb]   [Am][Gm] [Bb][Am][Gm] 
-Pois daria a vitória
-            [Am]              [Bb]   [Bb][Am][Gm]
-E chamou a cantar uma nova canção
-           [Am]              [Bb]/[C]
-Abaixar a espada e levantar o louvor
-
-[F9]            [Am]            [Eb]
-    Cantai ao Senhor com alegre som
-              [Gm]   [C]/[E] [F9]
-    Erga a voz para o Seu louvor
-                 [Am]          [Eb]
-    Um canto vencedor na tribulação
-                   [Gm]   [C]/[E] [F9]
-    Crê somente a batalha é do Senhor
-
-Interlúdio: || [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
-
-      [Dm]  [Am]   [Dm] [Am]
-Quando algum mal te encontrar
-   [Bb]  [Am][Gm]
-Confia no Senhor
-[Dm]  [Am]            [Dm] [Am]       
-Crê em Deus que não te deixará
-    [Bb]   [Am][Gm][Bb][Am][Gm] 
-Ele sempre perto está
-            [Am]            [Bb]   [Bb][Am][Gm]
-Você pode erguer uma nova canção
-          [Am]        [Bb]/[C]
-Porque a batalha é do Senhor
-
-[F9]            [Am]            [Eb]
-    Cantai ao Senhor com alegre som
-              [Gm]   [C]/[E] [F9]
-    Erga a voz para o Seu louvor
-                 [Am]          [Eb]
-    Um canto vencedor na tribulação
-                   [Gm]   [C]/[E] [F9]
-    Crê somente a batalha é do Senhor
-
-    [C]/[Bb][Bb]/[D]   [Bbm]           [F]
-Porque ele é bom, Seu amor dura para sempre
-    [C]/[Bb][Bb]/[D]   [Bbm]           [F]
-Porque ele é bom, Seu amor dura para sempre
-             [Bb]/[C]
-Pra sempre e sempre
-
-[F9]            [Am]            [Eb]
-    Cantai ao Senhor com alegre som
-              [Gm]   [C]/[E] [F9]
-    Erga a voz para o Seu louvor
-                 [Am]          [Eb]
-    Um canto vencedor na tribulação
-                   [Gm]   [C]/[E] [F9] Pausa
-    Crê somente a batalha é do Senhor`,
-                favorite: false,
-                createdAt: Date.now() - 172100000
-            },
-            {
-                id: generateId(),
-                titulo: 'Ao Único',
-                artista: 'Aline Barros',
-                tom: 'C',
-                letra: `Intro: |4/4 [C] [G]/[B] | [Am] [Am]/[G] | [F] [C]/[E] |2/4 [Dm]|4/4 [G] |
-
-   [C]            [G]/[B]      [Am]    [Am]/[G]
-Ao único que é digno de receber
-   [F]          [C]/[E]
-A honra e a glória
-[Dm7]         [G]
-A força e o poder
-
-    [Gm7]         [C]/[E]
-Ao rei, eterno, imortal
-[F]/[A]             [Fm]/[G#]
-  Invisível, mas real
-[C]/[G]     [G]        [C]  [F]/[C]  [G]/[C]
-A Ele ministramos o louvor
-
-   [C]            [G]/[B]      [Am]    [Am]/[G]
-Ao único que é digno de receber
-   [F]          [C]/[E]
-A honra e a glória
-[Dm7]        [G]
-A força e o poder
-
-    [Gm7]         [C]/[E]
-Ao rei, eterno, imortal
-[F]/[A]             [Fm]/[G#]
-  Invisível, mas real
-[C]/[G]     [G]        [C]  [B°] [Ealt]
-A Ele ministramos o louvor
-
-   [Am][Em]  [F]   [G]   [C]  [G]/[B]
-Coroa__mos a Ti, ó rei Jesus
-   [Am][Em]  [F]   [G]   [C]  [G]/[C]
-Coroa__mos a Ti, ó rei Jesus
-
-   [F]         [G]/[F]
-Adoramos o Teu nome
-        [E]/[G#]      [Am] [D]/[F#]
-Nos rendemos aos Teus pés
-    [Dm7]        [G]         [C]
-Consagramos todo nosso ser a Ti`,
-                favorite: false,
-                createdAt: Date.now() - 172100000
-            },
-                        {
-                id: generateId(),
-                titulo: 'A Ele à Glória',
-                artista: 'Diante do Trono',
-                tom: 'G',
-                letra: `Intro: || 4/4 [Em] | [C] | [D] | [Em] [Em7(11)] | [Em] | [C] | [D] | [Em]  [D] [Em] |     
-    
-[Em]                     [C]
-       Porque Dele e por Ele     
-            [D]              [Em]   [Em7(11)] [Em]
-       Para Ele são todas as coisas    
-                         [C]    
-       Porque Dele e por Ele     
-            [D]              [Em]   [Em7(11)] [Em]  (2x)
-       Para Ele são todas as coisas    
-
-        [C][D]    
-A Ele a Glória    
-        [G] [D]/[F#] [Em]    
-A Ele a Gló    -     ria    
-        [C] [D]    
-A Ele a Glória    
-            [Em]    [Em7(11)]
-Pra sempre, amém    
-    
-                 [C]
-Quão profundas riquezas     
-  [D]                  [Em]   [Em7(11)] [Em]
-O saber e o conhecer de Deus    
-          [C]
-Quão insondáveis    
-      [D]            [Em]   [Em7(11)] [Em] (2x)
-Seus juízos e Seus caminhos`,
-                favorite: false,
-                createdAt: Date.now() - 172100000
-            },
-             {
-                id: generateId(),
-                titulo: 'A Benção',
-                artista: 'Gabriel Guedes',
-                tom: 'Bb',
-                letra: `Intro: || 4/4 [Gm] | [Eb] | [Bb]/[D] | [F] ||
-
-[Bb]              [Eb]/[G]
-   Que o Senhor te      abençoe
-[Bb]/[F]       [F]     [F#º]    [Gm]
-     E faça brilhar seu rosto em ti
-           [Eb]         [Bb]/[D]
-Que conceda    Sua graça
- [F]      [Bb]
-E te dê a paz
-
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,  amém
-
-[Bb]              [Eb]/[G]
-   Que o Senhor te      abençoe
-[Bb]/[F]       [F]     [F#º]    [Gm]
-     E faça brilhar seu rosto em ti
-           [Eb]         [Bb]/[D]
-Que conceda    Sua graça
- [F]      [Bb]
-E te dê a paz
-
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,  amém
-
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-
-      [Gm]
-Sua presença te acompanhe
-       [Eb]
-Por detrás e por diante
-    [Bb]/[D]
-Do teu lado e em ti
-     [F]
-É contigo, é por ti
-     [Gm]
-E de dia, e de noite
-      [Eb]
-Tua entrada e saída
-    [Bb]/[D]
-Em teu riso, em teu choro
-    [F]
-É contigo, é por ti
-
-     [Gm]
-É contigo, é por ti
-      [Eb]
-É contigo, é por ti
- [Bb]/[D]
-É contigo, é por ti
-     [F]
-É contigo, é por ti
-
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,  amém
-
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-
-      [Gm]
-Sua presença te acompanhe
-       [Eb]
-Por detrás e por diante
-    [Bb]/[D]
-Do teu lado e em ti
-     [F]
-É contigo, é por ti
-     [Gm]
-E de dia, e de noite
-      [Eb]
-Tua entrada e saída
-    [Bb]/[D]
-Em teu riso, em teu choro
-    [F]
-É contigo, é por ti
-
-     [Gm]
-É contigo, é por ti
-      [Eb]
-É contigo, é por ti
- [Bb]/[D]
-É contigo, é por ti
-     [F]
-É contigo, é por ti
-
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
-Am__ém, amém,  amém`,
-                favorite: false,
-                createdAt: Date.now() - 172100000
-            },
-                        {
-                id: generateId(),
-                titulo: 'Aclame ao Senhor',
-                artista: 'IECP Central',
-                tom: 'A',
-                letra: `
-  [A]       [F#m]       [D]        [E]
-Aclame ao Senhor toda a Terra e cantemos
-  [A]     [F#m]      [D]       [E]
-Poder, majestade e louvores ao Rei
-  [F#m]        [F#m/E]  [D]
-Montanhas se prostrem e rujam os mares
-   [E][D]/[F#][E]/[G#]
-Ao som de teu nome
- [A]     [F#m]      [D]          [E]
-Alegre Te louvo por Teus grandes feitos
-   [A]     [F#m]        [D]   [E]
-Firmado estarei, sempre te amarei
-[F#m][F#m/E]      [D]         [E]   [A]    [D9] [E] 
-Incomparáveis são as promessas do Senhor
-                
-[A]        [E]
-   Meu Jesus, Salvador
-[F#m]   [E]     [D]
-Outro igual não há
-      [A]/[C#][D]    [A]/[E]
-Todos os dias quero louvar
-  [F#m]      [G][D]/[F#][E]
-As maravilhas de Teu amor
-
-[A]      [E]
-  Consolo, abrigo
-[F#m]    [E]          [D]
-Refúgio e Força é o Senhor
-             [A]/[C#]
-Com todo o meu ser
-    [D]      [A]/[E]
-Com tudo o que sou 
-[F#m]     [G] [D]/[F#] [E]
-Sempre te ado  - ra -  rei
-
-  [A]       [F#m]       [D]        [E]
-Aclame ao Senhor toda a Terra e cantemos
-  [A]     [F#m]      [D]       [E]
-Poder, majestade e louvores ao Rei
-  [F#m]        [F#m/E]  [D]
-Montanhas se prostrem e rujam os mares
-   [E][D]/[F#][E]/[G#]
-Ao som de teu nome
- [A]     [F#m]      [D]          [E]
-Alegre Te louvo por Teus grandes feitos
-   [A]     [F#m]        [D]   [E]
-Firmado estarei, sempre te amarei
-[F#m][F#m/E]      [D]         [E]   [F#m]  [E] [D9] 
-Incomparáveis são as promessas do Senhor
-
-  [A]       [F#m]       [D]        [E]
-Aclame ao Senhor toda a Terra e cantemos
-  [A]     [F#m]      [D]       [E]
-Poder, majestade e louvores ao Rei
-  [F#m]        [F#m/E]  [D]
-Montanhas se prostrem e rujam os mares
-   [E][D]/[F#][E]/[G#]
-Ao som de teu nome
- [A]     [F#m]      [D]          [E]
-Alegre Te louvo por Teus grandes feitos
-   [A]     [F#m]        [D]   [E]
-Firmado estarei, sempre te amarei
-[F#m][F#m/E]      [D]         [E]   [F#m]
-Incomparáveis são as promessas do Senhor
-     [F#m/E]      [D]         [E]   [F#m]
-Incomparáveis são as promessas do Senhor
-     [F#m/E]      [D]         [E]   [A]  | [D9] [E] | [A] | [D9] [E] | [A] ||
-Incomparáveis são as promessas para mim
-`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
