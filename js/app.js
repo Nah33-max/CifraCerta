@@ -579,11 +579,90 @@ Seus juízos e Seus caminhos`,
                 favorite: false,
                 createdAt: Date.now() - 259300000
             },
+            
+                        {
+                id: generateId(),
+                titulo: 'Aclame ao Senhor',
+                artista: 'IECP Central',
+                tom: 'A',
+                letra: `
+  [A]       [F#m]       [D]        [E]
+Aclame ao Senhor toda a Terra e cantemos
+  [A]     [F#m]      [D]       [E]
+Poder, majestade e louvores ao Rei
+  [F#m]        [F#m/E]  [D]
+Montanhas se prostrem e rujam os mares
+   [E][D]/[F#][E]/[G#]
+Ao som de teu nome
+ [A]     [F#m]      [D]          [E]
+Alegre Te louvo por Teus grandes feitos
+   [A]     [F#m]        [D]   [E]
+Firmado estarei, sempre te amarei
+[F#m][F#m/E]      [D]         [E]   [A]    [D9] [E] 
+Incomparáveis são as promessas do Senhor
+                
+[A]        [E]
+   Meu Jesus, Salvador
+[F#m]   [E]     [D]
+Outro igual não há
+      [A]/[C#][D]    [A]/[E]
+Todos os dias quero louvar
+  [F#m]      [G][D]/[F#][E]
+As maravilhas de Teu amor
+
+[A]      [E]
+  Consolo, abrigo
+[F#m]    [E]          [D]
+Refúgio e Força é o Senhor
+             [A]/[C#]
+Com todo o meu ser
+    [D]      [A]/[E]
+Com tudo o que sou 
+[F#m]     [G] [D]/[F#] [E]
+Sempre te ado  - ra -  rei
+
+  [A]       [F#m]       [D]        [E]
+Aclame ao Senhor toda a Terra e cantemos
+  [A]     [F#m]      [D]       [E]
+Poder, majestade e louvores ao Rei
+  [F#m]        [F#m/E]  [D]
+Montanhas se prostrem e rujam os mares
+   [E][D]/[F#][E]/[G#]
+Ao som de teu nome
+ [A]     [F#m]      [D]          [E]
+Alegre Te louvo por Teus grandes feitos
+   [A]     [F#m]        [D]   [E]
+Firmado estarei, sempre te amarei
+[F#m][F#m/E]      [D]         [E]   [F#m]  [E] [D9] 
+Incomparáveis são as promessas do Senhor
+
+  [A]       [F#m]       [D]        [E]
+Aclame ao Senhor toda a Terra e cantemos
+  [A]     [F#m]      [D]       [E]
+Poder, majestade e louvores ao Rei
+  [F#m]        [F#m/E]  [D]
+Montanhas se prostrem e rujam os mares
+   [E][D]/[F#][E]/[G#]
+Ao som de teu nome
+ [A]     [F#m]      [D]          [E]
+Alegre Te louvo por Teus grandes feitos
+   [A]     [F#m]        [D]   [E]
+Firmado estarei, sempre te amarei
+[F#m][F#m/E]      [D]         [E]   [F#m]
+Incomparáveis são as promessas do Senhor
+     [F#m/E]      [D]         [E]   [F#m]
+Incomparáveis são as promessas do Senhor
+     [F#m/E]      [D]         [E]   [A]  | [D9] [E] | [A] | [D9] [E] | [A] ||
+Incomparáveis são as promessas para mim
+`,
+                favorite: false,
+                createdAt: Date.now() - 259400000
+            },
             {
                 id: generateId(),
                 titulo: 'A Alegria do Senhor',
                 artista: 'Fernandinho',
-                tom: 'A#',
+                tom: 'Bb',
                 letra: `Intro: |: 4/4 [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] 
      || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] :|
 
