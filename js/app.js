@@ -907,7 +907,70 @@ Quero ouvir o som do céu
                 titulo: 'Caia Fogo',
                 artista: 'Fernandinho',
                 tom: 'B',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [G#m]  [B] | [F#] :|
+   
+       [G#m]   [B]   [F#]
+Eu não posso ficar de pé 
+              [G#m]   [B]   [F#]
+Diante da Tua Glória
+      [G#m]   [B]   [F#]
+Eu não posso ficar de pé 
+              [G#m]   [B]   [F#]
+Diante da Tua Glória
+
+       [G#m]             [E]
+Sou teu templo, teu sacrifício 
+        [B]                [F#]
+O teu altar vem queimar em mim
+       [G#m]             [E]
+Sou teu templo, teu sacrifício 
+        [B]                [F#]
+O teu altar vem queimar em mim
+ 
+Interlúdio: |: [G#m]  [B] | [F#] :|
+
+       [G#m]   [B]   [F#]
+Eu não posso ficar de pé 
+              [G#m]   [B]   [F#]
+Diante da Tua Glória
+      [G#m]   [B]   [F#]
+Eu não posso ficar de pé 
+              [G#m]   [B]   [F#]
+Diante da Tua Glória
+
+       [G#m]             [E]
+Sou teu templo, teu sacrifício 
+        [B]                [F#]
+O teu altar vem queimar em mim
+       [G#m]             [E]
+Sou teu templo, teu sacrifício 
+        [B]                [F#]
+O teu altar vem queimar em mim
+
+[E]             [B]
+  Caia fogo dos céus
+            [G#m]
+Queima esse altar
+                    [F#]
+Mostra pra esse povo
+                     [E]
+   Que há Deus em Israel
+                [B]
+  Caia fogo dos céus
+            [G#m]
+Queima esse altar
+                    [F#]
+Mostra pra esse povo
+                     [E]
+   Que há Deus em Israel
+                 [B]
+  Caia fogo dos céus
+            [G#m]
+Queima esse altar
+                    [F#]
+Mostra pra esse povo
+                   | G#m B | F# | G#m B | F# |
+   Que há Deus em Israel`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
@@ -937,7 +1000,96 @@ Quero ouvir o som do céu
                 titulo: 'Canção do Apocalipse',
                 artista: 'Diante do Trono',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 D | Am7 | C9 | G |
+
+[D]                    [Am7]
+   Digno é o Cordeiro,    que foi morto
+[C9]                  [G]
+   Santo, Santo Ele é
+[D]               [Am7]
+   Um novo cântico,    ao que se assenta
+[C9]             [G]
+Sobre o trono do céu
+
+[D]                    [Am7]
+   Digno é o Cordeiro,    que foi morto
+[C9]                  [G]
+   Santo, Santo Ele é
+[D]               [Am7]
+   Um novo cântico,    ao que se assenta
+[C9]             [G]
+Sobre o trono do céu
+
+[D]
+   Santo, Santo, Santo
+[Am7]
+   Deus Todo Poderoso
+[C9]                   [G]
+   Que era e é e há de vir
+[D]
+   Com a criação eu canto
+[Am7]
+   Louvores ao Rei dos reis
+[C9]                
+   És tudo para mim
+  [G]             | D | Am7 | C9 | G |
+E eu Te adorarei
+
+[D]           [Am7]
+  Está vestido,    do arco-íris
+[C]                      [G]
+   Sons de trovão, luzes, relâmpagos
+[D]
+  Louvores, honra e glória
+[Am7]
+  Força e poder pra sempre
+[C9]                [G]
+  Ao único Rei eternamente
+
+[D]
+   Santo, Santo, Santo
+[Am7]
+   Deus Todo Poderoso
+[C9]                   [G]
+   Que era e é e há de vir
+[D]
+   Com a criação eu canto
+[Am7]
+   Louvores ao Rei dos reis
+[C9]                
+   És tudo para mim
+  [G]             | D | Am7 | C9 | G |
+E eu Te adorarei
+
+[D]           [Am7]
+   Maravilhado,   extasiado
+[C9]                   [G]
+   Eu fico ao ouvir Teu nome
+[D]           [Am7]
+   Maravilhado,   extasiado
+[C9]                   [G]
+   Eu fico ao ouvir Teu nome
+[D]
+   Jesus, Teu nome é força
+[Am7]
+   É fôlego de vida
+[C9]              [G]   
+   Misteriosa água viva
+
+[D]
+   Santo, Santo, Santo
+[Am7]
+   Deus Todo Poderoso
+[C9]                   [G]
+   Que era e é e há de vir
+[D]
+   Com a criação eu canto
+[Am7]
+   Louvores ao Rei dos reis
+[C9]                
+   És tudo para mim
+  [G]             | D | Am7 | C9 | G |
+E eu Te adorarei`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
