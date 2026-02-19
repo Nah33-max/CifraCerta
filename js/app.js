@@ -261,7 +261,7 @@ Tua presença é o meu prazer
 Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
 
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
             {
                 id: generateId(),
@@ -428,7 +428,7 @@ Me chama para fora
 [A]/[B]    ||[D6] [D] | [A]/[C#] [C6] | [E]/[B] [A]/[B] ||  [E]
    Ressuscita-me,                                 Ressuscita-me`,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
             {
                 id: generateId(),
@@ -492,7 +492,7 @@ Está nas mãos do meu Jesus
            [A]  [E]
 Que vivo está`,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
             {
                 id: generateId(),
@@ -561,7 +561,7 @@ Pra sempre e sempre
                    [Gm]   [C]/[E] [F9] Pausa
     Crê somente a batalha é do Senhor`,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
             {
                 id: generateId(),
@@ -610,7 +610,7 @@ Nos rendemos aos Teus pés
     [Dm7]        [G]         [C]
 Consagramos todo nosso ser a Ti`,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
                         {
                 id: generateId(),
@@ -646,7 +646,7 @@ Quão insondáveis
       [D]            [Em]   [Em7(11)] [Em] (2x)
 Seus juízos e Seus caminhos`,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
              {
                 id: generateId(),
@@ -796,7 +796,7 @@ Am__ém, amém,   amém
 [Gm][Eb] [Bb]/[D] [F]
 Am__ém, amém,  amém`,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
                         {
                 id: generateId(),
@@ -874,7 +874,7 @@ Incomparáveis são as promessas do Senhor
 Incomparáveis são as promessas para mim
 `,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             },
             {
                 id: generateId(),
@@ -996,7 +996,7 @@ De dentro do meu coração
 
 Final: [Cm]  [Bb]  [Gm]`,
                 favorite: false,
-                createdAt: Date.now()
+                createdAt: Date.now() - 172100000
             }                           
         ];
         saveCifras();
