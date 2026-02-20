@@ -2366,7 +2366,7 @@ Me chama para fora
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            };
+            },
             {
                 id: generateId(),
                 titulo: 'Santo',
