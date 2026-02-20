@@ -2821,7 +2821,7 @@ Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
                 titulo: 'Yeshua',
                 artista: 'Heloísa Rosa',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Yeshua`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
