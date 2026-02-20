@@ -974,7 +974,6 @@ Mostra pra esse povo
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
-            
             {
                 id: generateId(),
                 titulo: 'Caminho de Milagres',
@@ -2101,7 +2100,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
             {
                 id: generateId(),
                 titulo: 'Quero Conhecer Jesus',
@@ -2110,7 +2109,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
         {
                 id: generateId(),
                 titulo: 'Quão Formoso És',
@@ -2119,7 +2118,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
         {
                 id: generateId(),
                 titulo: 'Rei da Glória',
@@ -2128,7 +2127,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
             {
                 id: generateId(),
                 titulo: 'Rei do Meu Coração',
@@ -2137,7 +2136,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
         {
                 id: generateId(),
                 titulo: 'Reina em Mim',
@@ -2146,7 +2145,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
             {
                 id: generateId(),
                 titulo: 'Rendido estou',
@@ -2155,7 +2154,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
             {
                 id: generateId(),
                 titulo: 'Ressuscita',
@@ -2164,7 +2163,7 @@ Que vivo está`,
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172100000
-            }
+            },
             {
                 id: generateId(),
                 titulo: 'Ressuscita-me',
