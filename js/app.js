@@ -2457,7 +2457,7 @@ Me chama para fora
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
-        {
+            {
                 id: generateId(),
                 titulo: 'Te Adorar é o Meu Prazer',
                 artista: 'Aline Barros',
@@ -2466,7 +2466,7 @@ Me chama para fora
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
-        {
+            {
                 id: generateId(),
                 titulo: 'Te Louvarei',
                 artista: 'Trazendo a Arca',
@@ -2475,7 +2475,105 @@ Me chama para fora
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
-        
+            {
+                id: generateId(),
+                titulo: 'Tens Transformado',
+                artista: 'David Quilan',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Terceiro dia',
+                artista: 'Aline Barros',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Teu Amor não Falha ',
+                artista: 'Jesus Culture',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Teu nome é Santo',
+                artista: 'Ministério Vineyard',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Teu Santo nome',
+                artista: 'Gabriela Rocha',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Tens Todos os Meus Dias',
+                artista: 'Gabriel Guedes',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Toma o Meu Coração',
+                artista: 'Hillsong Português',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Tremenda Graça',
+                artista: 'Fred Arrais',
+                tom: 'B',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Tu És Bom (Deus é Bom o Tempo Todo)',
+                artista: 'Adoração e Adoradores',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Tu És + Águas Purificadoras',
+                artista: 'FHOP Music ',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Tua Alegria',
+                artista: 'Isadora Pompeo',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
             {
                 id: generateId(),
                 titulo: 'Tua Graça Me Basta',
@@ -2627,8 +2725,115 @@ Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
 
                 favorite: false,
                 createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Tua Unção',
+                artista: 'Ministério Nova Jerusalém',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Tão Profundo',
+                artista: 'Ministério Vineyard',
+                tom: 'C#',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Uma Coisa Peço ao Senhor',
+                artista: 'Fernandinho',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Uma Nova História',
+                artista: 'Fernandinho',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Vem com Josué Lutar em Jericó',
+                artista: 'Eli Soares',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Vem Essa é a Hora',
+                artista: 'Ministério Vineyard',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Vem me Buscar',
+                artista: 'Jefferson e Suellen',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Vento que Vem',
+                artista: 'Pedras Vivas',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Vim para Adorar-te',
+                artista: 'Quatro por Um',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },        
+            {
+                id: generateId(),
+                titulo: 'Vitória no Deserto',
+                artista: 'Aline Barros',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Yeshua',
+                artista: 'Heloísa Rosa',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Yeshua',
+                artista: 'Fernandinho',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
             }
-                                       
         ];
         saveCifras();
     }
