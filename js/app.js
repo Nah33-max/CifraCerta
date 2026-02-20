@@ -980,7 +980,85 @@ Mostra pra esse povo
                 titulo: 'Caminho de Milagres',
                 artista: 'Aline Barros',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 C  G/B | Am  G | [F] [G/F] | [F] [G/F] | [F] [G] | [Am] ||
+
+        [F]   [G/F]     [F] [G/F]
+ Tudo o que eu fiz foi acreditar
+     [F]   [G]       [Am7]
+Eu ouvi Tua voz e obedeci
+     [F]   [G/F]      [F]   [G/F]
+Como pude então ter chegado aqui
+       [F]   [G]         [Am7]
+Eu não posso crer que é o fim
+
+[A#]/[G#] [D#]/[G]  [A#]/[G#] [D#]/[G]
+    Di____zem: "onde está o Teu Deus?
+   [A#]/[G#] [D#]/[G]      [G]  [F]/[A] [G]/[B]
+Me pergun_______tam o que fazer
+
+[C]        [G]/[B] [Am]     [G]       [F] [C]/[E]
+Quando o que era difícil se torna impossível
+      [Dm]     [G]
+Deus começa a agir
+[C]    [G]/[B]      [Am]       [G]    [F] [C]/[E]
+Ele abre sempre uma porta onde não há saí__da
+      [Dm]     [F]/[G]
+O impossível faz acontecer
+
+Interlúdio: || [F] [G/F] | [F] [G/F] | [F] [G] | [Am] ||
+
+        [F]   [G/F]     [F] [G/F]
+ Tudo o que eu fiz foi acreditar
+     [F]   [G]       [Am7]
+Eu ouvi Tua voz e obedeci
+     [F]   [G/F]      [F]   [G/F]
+Como pude então ter chegado aqui
+       [F]   [G]         [Am7]
+Eu não posso crer que é o fim
+
+[A#]/[G#] [D#]/[G]  [A#]/[G#] [D#]/[G]
+    Di____zem: "onde está o Teu Deus?
+   [A#]/[G#] [D#]/[G]      [G]  [F]/[A] [G]/[B]
+Me pergun_______tam o que fazer
+
+[C]        [G]/[B] [Am]     [G]       [F] [C]/[E]
+Quando o que era difícil se torna impossível
+      [Dm]     [G]
+Deus começa a agir
+[C]    [G]/[B]      [Am]       [G]    [F] [C]/[E]
+Ele abre sempre uma porta onde não há saí__da
+      [Dm]       [G] [F]/[A] [G]/[B]
+O impossível Ele faz
+
+[C]        [G]/[B] [Am]     [G]       [F] [C]/[E]
+Quando o que era difícil se torna impossível
+      [Dm]     [G]
+Deus começa a agir
+[C]    [G]/[B]      [Am]       [G]    [F] [C]/[E]
+Ele abre sempre uma porta onde não há saí__da
+      [Dm]       [G]
+O impossível Ele faz
+
+[G]/[B] [C] [C]/[E] [D]/[F#] [Em] [D] [C] [G]/[B] [C]      [F] | [G] | [F] [G] | F G | 
+  Ele   faz    um      cami___nho de   mi____la__gres pelo mar
+
+[C]        [G]/[B] [Am]     [G]       [F] [C]/[E]
+Quando o que era difícil se torna impossível
+      [Dm]     [G]
+Deus começa a agir
+[C]    [G]/[B]      [Am]       [G]    [F] [C]/[E]
+Ele abre sempre uma porta onde não há saí__da
+      [Dm]       [G] [F]/[A] [G]/[B]
+O impossível Ele faz
+
+[C]        [G]/[B] [Am]     [G]       [F] [C]/[E]
+Quando o que era difícil se torna impossível
+      [Dm]     [G]
+Deus começa a agir
+[C]    [G]/[B]      [Am]       [G]    [F] [C]/[E]
+Ele abre sempre uma porta onde não há saí__da
+      [Dm]       [G]   [F] [G/F] | [F] [G/F] | [F] [G] | [Am] || 
+O impossível Ele faz`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
