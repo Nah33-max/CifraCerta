@@ -1678,6 +1678,339 @@ E eu Te adorarei`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
+             {
+                id: generateId(),
+                titulo: 'Já Estou Crucificado',
+                artista: 'Fernandinho',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+             {
+                id: generateId(),
+                titulo: 'Jeová Jireh',
+                artista: 'Aline Barros',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Jesus em Tua Presença',
+                artista: 'Morada',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Leão da Tribo de Judá',
+                artista: 'Adhemar de Campos',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Livre acesso',
+                artista: 'Ministério Koinonya de Louvor',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Lugar Secreto',
+                artista: 'Gabriela Rocha',
+                tom: 'Bb',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Lugar Seguro',
+                artista: 'Aline Barros',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Mais Alto',
+                artista: 'Fernandinho',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Maranata',
+                artista: 'Ministério Avivah',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Marca da Promessa (Bonus Track)',
+                artista: 'Trazendo a Arca',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Me Ama',
+                artista: 'Diante do Trono',
+                tom: 'A',
+                letra: `Intro: |6/8 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Me Derramar',
+                artista: 'Ministério Vineyard',
+                tom: 'G',
+                letra: `Intro: |6/8 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+             {
+                id: generateId(),
+                titulo: 'Meu Alvo',
+                artista: 'Kleber Lucas',
+                tom: 'Bb',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }, 
+            {
+                id: generateId(),
+                titulo: 'Meu Respirar',
+                artista: 'Ministério Vineyard',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Meu Salvador',
+                artista: 'Jason Lee Jones',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Milagre',
+                artista: 'André Valadão',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Nada Além do Sangue',
+                artista: 'Fernandinho',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Nosso Deus',
+                artista: 'Gui Rebustini',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Nosso Deus é Soberano',
+                artista: 'Aline Barros',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Não Há Deus Maior',
+                artista: 'Comunidade de Nilópolis',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Não Vou Desistir',
+                artista: 'Trazendo a Arca',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'O Carpinteiro',
+                artista: 'Alessandro Vilas Boas',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'O Grande Eu Sou',
+                artista: 'Nazareno Central Music',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'O Nome de Jesus',
+                artista: 'Isadora Pompeo',
+                tom: 'Bb',
+                letra: `Intro: |6/8 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'o Nosso General é Cristo',
+                artista: 'Adhemar de Campos',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'O que Tua Glória Fez Comigo',
+                artista: 'Fernanda Brum',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Oceanos',
+                artista: 'Levi Alves, Pedro Gonçalo Pinto, Tiago Braga, Ana Isabel Rocha',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Oh Quão Lindo esse Nome é',
+                artista: 'Ana Nóbrega',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Os que confiam no Senhor',
+                artista: 'Marcos Goes',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Os Sonhos de Deus',
+                artista: 'Ludmila Feber',
+                tom: 'D',
+                letra: `Intro: |6/8 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Ousado Amor',
+                artista: 'FHOP Music',
+                tom: 'Bb',
+                letra: `Intro: |6/8 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Ouve-se um Júbilo',
+                artista: 'Ministério Koinonya de Louvor',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Pai Nosso',
+                artista: 'Pedras Vivas',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Pela Fé',
+                artista: 'André Valadão',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Pode Morar Aqui',
+                artista: 'Theo Rubia',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Poder do Teu Amor',
+                artista: 'Diante do Trono',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Poderoso Deus',
+                artista: 'David Quilan',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
             {
                 id: generateId(),
                 titulo: 'Porque Ele Vive',
@@ -1742,6 +2075,96 @@ Que vivo está`,
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
+            {
+                id: generateId(),
+                titulo: 'Pra Sempre',
+                artista: 'Fernandinho',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Preciso de TI',
+                artista: 'Diante do Trono',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Quebrantado',
+                artista: 'Ministério Vineyard',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
+            {
+                id: generateId(),
+                titulo: 'Quero Conhecer Jesus',
+                artista: 'Alessandro Vilas Boas',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
+        {
+                id: generateId(),
+                titulo: 'Quão Formoso És',
+                artista: 'Louvor Maranata',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
+        {
+                id: generateId(),
+                titulo: 'Rei da Glória',
+                artista: 'Aline Barros',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
+            {
+                id: generateId(),
+                titulo: 'Rei do Meu Coração',
+                artista: 'Nívea Soares',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
+        {
+                id: generateId(),
+                titulo: 'Reina em Mim',
+                artista: 'Ministério Vineyard',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
+            {
+                id: generateId(),
+                titulo: 'Rendido estou',
+                artista: 'Aline Barros',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
+            {
+                id: generateId(),
+                titulo: 'Ressuscita',
+                artista: 'Ministério Ipiranga',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            }
             {
                 id: generateId(),
                 titulo: 'Ressuscita-me',
@@ -1909,6 +2332,151 @@ Me chama para fora
                 favorite: false,
                 createdAt: Date.now() - 172100000
             },
+            {
+                id: generateId(),
+                titulo: 'Restitui',
+                artista: 'Trazendo a Arca',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Rompendo em Fé',
+                artista: 'Comunidade Evangélica Internacional da Zona Sul',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Ruja o Leão',
+                artista: 'Isaías Saad',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Sai da Tua Tenda',
+                artista: 'Ministério Sai da Tua Tenda',
+                tom: 'Bb',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            };
+            {
+                id: generateId(),
+                titulo: 'Santo',
+                artista: 'Fernandinho',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Santo Espirito',
+                artista: 'Laura Souguellis',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Santo pra Sempre',
+                artista: 'Fernandinho',
+                tom: 'F',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Santo, Santo, Santo',
+                artista: 'Renascer Praise',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Senhor te Quero',
+                artista: 'Ministério Vineyard',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+            {
+                id: generateId(),
+                titulo: 'Seu Sangue',
+                artista: 'Fernandinho',
+                tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+        {
+                id: generateId(),
+                titulo: 'Sobre as Águas',
+                artista: 'Trazendo a Arca',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+        {
+                id: generateId(),
+                titulo: 'Sonda-me',
+                artista: 'ALine Barros',
+                tom: 'C',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+        {
+                id: generateId(),
+                titulo: 'Te Adorar',
+                artista: 'Diante do Trono-CTMDT',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+        {
+                id: generateId(),
+                titulo: 'Te Adorar',
+                artista: 'Fernandinho',
+                tom: 'D',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+        {
+                id: generateId(),
+                titulo: 'Te Adorar é o Meu Prazer',
+                artista: 'Aline Barros',
+                tom: 'E',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+        {
+                id: generateId(),
+                titulo: 'Te Louvarei',
+                artista: 'Trazendo a Arca',
+                tom: 'G',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172100000
+            },
+        
             {
                 id: generateId(),
                 titulo: 'Tua Graça Me Basta',
