@@ -2113,9 +2113,76 @@ Que vivo está`,
         {
                 id: generateId(),
                 titulo: 'Quão Formoso És',
-                artista: 'Louvor Maranata',
-                tom: 'E',
-                letra: `Intro: |4/4 `,
+                artista: 'Ministério Koinonya de Louvor',
+                tom: 'G',
+                letra: `Intro: ||4/4 G | C/G | D/G | C/G G/B | C D/C | Bm Em D | C G/B F | F ||
+                
+[G]       [G]/[B] [D] [D]/[C] [G]/[B]
+Quão formoso és   Rei    do universo
+    [C]  [G]/[B]   [Am]
+Tua glória enche a terra
+[Am]/[G]       [D]	 
+    E enche os céus
+    
+    [C]          [D]/[C]
+Tua glória enche a terra
+    [Bm] [B]/[D#]   [Em]
+Tua glória enche os céus
+    [Am]             [C]/[D] |[G] [C]/[G] | [D]/[G] [C]/[G] [C]/[D] | 
+Tua glória enche minha vida Senhor
+
+[G]       [G]/[B] [D] [D]/[C] [G]/[B]
+Quão formoso és   Rei    do universo
+    [C]  [G]/[B]   [Am]
+Tua glória enche a terra
+[Am]/[G]       [D]	 [G]/[B]
+    E enche os céus
+    
+    [C]          [D]/[C]
+Tua glória enche a terra
+    [Bm] [B]/[D#]   [Em]
+Tua glória enche os céus
+    [Am]             [C]/[D] [G]    [D] 
+Tua glória enche minha vida Senhor
+
+      [G]     [G]/[B]         [C]   [E]
+Maravilhoso é estar em tua presença
+      [Am]   [Am]/[G]     [D]
+Maravilhoso é poder te adorar
+      [Bm]    [B]/[D#]       [Em]
+Maravilhoso é tocar nas tuas vestes
+     [Am]      [C]/[D]
+Maravilhoso é te contemplar
+   [G]	 [D]
+Senhor
+      [G]     [G]/[B]         [C]   [E]
+Maravilhoso é estar em tua presença
+      [Am]   [Am]/[G]     [D]
+Maravilhoso é poder te adorar
+      [Bm]    [B]/[D#]       [Em]
+Maravilhoso é tocar nas tuas vestes
+     [Am]      [C]/[D]
+Maravilhoso é te contemplar
+   [G]	 [D]
+Senhor
+      [G]     [G]/[B]         [C]   [E]
+Maravilhoso é estar em tua presença
+      [Am]   [Am]/[G]     [D]
+Maravilhoso é poder te adorar
+      [Bm]    [B]/[D#]       [Em]
+Maravilhoso é tocar nas tuas vestes
+     [Am]      [C]/[D]
+Maravilhoso é te contemplar
+   [G]	 [D]/[E] [Em]/[D] 
+Senhor
+     [Am]      [C]/[D]
+Maravilhoso é te contemplar
+   [G]	 [D]/[E] [Em]/[D] 
+Senhor
+     [Am]      [C]/[D]
+Maravilhoso é te contemplar
+   [G]	 [C]/[G] [D]/[G] [C]/[G] [G}
+Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
