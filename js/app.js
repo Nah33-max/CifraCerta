@@ -404,144 +404,144 @@ Crê somente a batalha é do Senhor`,
                 letra: `Intro: || 4/4 [Gm] | [Eb] | [Bb]/[D] | [F] ||
 
 [Bb]              [Eb]/[G]
-   Que o Senhor te      abençoe
-[Bb]/[F]       [F]     [F#º]    [Gm]
-     E faça brilhar seu rosto em ti
+   Que o Senhor te  abençoe
+[Bb]/[F]           [F]       [F#°]      [Gm]
+    E faça brilhar seu rosto em ti
            [Eb]         [Bb]/[D]
-Que conceda    Sua graça
- [F]      [Bb]
+Que conceda  Sua graça
+   [F]      [Bb]
 E te dê a paz
 
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,  amém
 
 [Bb]              [Eb]/[G]
-   Que o Senhor te      abençoe
-[Bb]/[F]       [F]     [F#º]    [Gm]
-     E faça brilhar seu rosto em ti
+   Que o Senhor te  abençoe
+[Bb]/[F]           [F]       [F#°]      [Gm]
+    E faça brilhar seu rosto em ti
            [Eb]         [Bb]/[D]
-Que conceda    Sua graça
- [F]      [Bb]
+Que conceda  Sua graça
+   [F]      [Bb]
 E te dê a paz
 
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,  amém
 
-     [Gm]
+      [Gm]
 Que a bênção se derrame
     [Eb]
 Até mil gerações
-    [Bb]/[D]
+     [Bb]/[D]
 Tua família e teus filhos
-     [F]
+      [F]
 E os filhos dos teus filhos
-     [Gm]
+      [Gm]
 Que a bênção se derrame
     [Eb]
 Até mil gerações
-    [Bb]/[D]
+     [Bb]/[D]
 Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
-E os filhos dos teus filhos
-     [Gm]
-Que a bênção se derrame
-    [Eb]
-Até mil gerações
-    [Bb]/[D]
-Tua família e teus filhos
-     [F]
+      [F]
 E os filhos dos teus filhos
 
       [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+     [Bb]/[D]
+Tua família e teus filhos
+      [F]
+E os filhos dos teus filhos
+      [Gm]
+Que a bênção se derrame
+    [Eb]
+Até mil gerações
+     [Bb]/[D]
+Tua família e teus filhos
+      [F]
+E os filhos dos teus filhos
+
+       [Gm]
 Sua presença te acompanhe
        [Eb]
 Por detrás e por diante
-    [Bb]/[D]
+      [Bb]/[D]
 Do teu lado e em ti
-     [F]
+      [F]
 É contigo, é por ti
-     [Gm]
+      [Gm]
 E de dia, e de noite
       [Eb]
 Tua entrada e saída
-    [Bb]/[D]
+      [Bb]/[D]
 Em teu riso, em teu choro
-    [F]
+      [F]
 É contigo, é por ti
 
      [Gm]
 É contigo, é por ti
-      [Eb]
+     [Eb]
 É contigo, é por ti
- [Bb]/[D]
+    [Bb]/[D]
 É contigo, é por ti
      [F]
 É contigo, é por ti
 
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,  amém
 
-     [Gm]
+      [Gm]
 Que a bênção se derrame
     [Eb]
 Até mil gerações
-    [Bb]/[D]
+     [Bb]/[D]
 Tua família e teus filhos
-     [F]
+      [F]
 E os filhos dos teus filhos
-     [Gm]
+      [Gm]
 Que a bênção se derrame
     [Eb]
 Até mil gerações
-    [Bb]/[D]
+     [Bb]/[D]
 Tua família e teus filhos
-     [F]
+      [F]
 E os filhos dos teus filhos
 
-      [Gm]
+       [Gm]
 Sua presença te acompanhe
        [Eb]
 Por detrás e por diante
-    [Bb]/[D]
+      [Bb]/[D]
 Do teu lado e em ti
-     [F]
+      [F]
 É contigo, é por ti
-     [Gm]
+      [Gm]
 E de dia, e de noite
       [Eb]
 Tua entrada e saída
-    [Bb]/[D]
+      [Bb]/[D]
 Em teu riso, em teu choro
-    [F]
+      [F]
 É contigo, é por ti
 
      [Gm]
 É contigo, é por ti
-      [Eb]
+     [Eb]
 É contigo, é por ti
- [Bb]/[D]
+    [Bb]/[D]
 É contigo, é por ti
      [F]
 É contigo, é por ti
 
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,   amém
-[Gm][Eb] [Bb]/[D] [F]
+[Gm]  [Eb]   [Bb]/[D]     [F]
 Am__ém, amém,  amém`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
