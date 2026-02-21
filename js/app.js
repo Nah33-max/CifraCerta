@@ -2117,18 +2117,18 @@ Que vivo está`,
                 tom: 'G',
                 letra: `Intro: ||4/4 [G] | [C]/[G] | [D]/[G] | [C]/[G] [G]/[B] | [C] [D]/[C] | [Bm] [Em] [D] | [C] [G]/[B] [F] | [F] ||
                 
-[G]       [G]/[B] [D] [D]/[C] [G]/[B]
+ [G]         [G]/[B] [D]    [D]/[C] [G]/[B]
 Quão formoso és   Rei    do universo
-    [C]  [G]/[B]   [Am]
+      [C]   [G]/[B]  [Am]
 Tua glória enche a terra
 [Am]/[G]       [D]	 
-    E enche os céus
+  E enche os céus
     
-    [C]          [D]/[C]
+     [C]            [D]/[C]
 Tua glória enche a terra
-    [Bm] [B]/[D#]   [Em]
+    [Bm]   [B]/[D#]    [Em]
 Tua glória enche os céus
-    [Am]             [C]/[D] |[G] [C]/[G] | [D]/[G] [C]/[G] [C]/[D] | 
+    [Am]               [C]/[D]  |[G] [C]/[G] | [D]/[G] [C]/[G] [C]/[D] | 
 Tua glória enche minha vida Senhor
 
 [G]       [G]/[B] [D] [D]/[C] [G]/[B]
