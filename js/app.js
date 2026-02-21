@@ -237,7 +237,93 @@ Final: [Cm]  [Bb]  [Gm]`,
                 titulo: 'A Alegria está no Coração',
                 artista: 'Corinhos Evangélicos',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Intro: |4/4 [A] | [D] | [A] [G] [D]|| [A] | [B] [E] | [A] | [A]/[G] | [E] | [F] | [A] [E] | [A] [G] [D] |
+   
+[A]            
+A alegria está no coração
+     [D]                  [A]  [G] [D]
+De quem já conhece a Jesus
+[A]             
+A verdadeira paz só tem aquele
+     [B]              [E]
+Que já conhece a Jesus
+
+[A]                 [A]/[G]               
+O sentimento mais precioso
+     [D]               [F]
+Que vem do nosso Senhor
+      [A]          [E]       
+É o amor que só tem quem
+                [A] | [A] [G] [D] |
+Já conhece a Jesus
+
+[A]            
+A alegria está no coração
+     [D]                  [A]  [G] [D]
+De quem já conhece a Jesus
+[A]             
+A verdadeira paz só tem aquele
+     [B]              [E]
+Que já conhece a Jesus
+
+[A]                 [A]/[G]               
+O sentimento mais precioso
+     [D]               [F]
+Que vem do nosso Senhor
+      [A]          [E]       
+É o amor que só tem quem
+                [A] 
+Já conhece a Jesus
+
+         [A]           
+Posso pisar numa tropa
+     [A]/[G]
+E saltar as muralhas
+    [D]        [E]
+Aleluia! Aleluia!
+         [A]           
+Posso pisar numa tropa
+     [A]/[G]
+E saltar as muralhas
+    [D]        [E]
+Aleluia! Aleluia!
+
+ [A]                 [A]/[G]               
+Cristo é a rocha da minha salvação
+    [D]                [B]
+Com Ele não há mais condenação
+         [A]      
+Posso pisar numa tropa
+      [E]
+E saltar as muralhas
+    [A]        [E]
+Aleluia! Aleluia! 
+
+    [A]        [D]  [A]
+Aleluia! Alelui_a!
+             [B]   [E]
+Aleluia! Alelui__a!
+    [A]        [D]  [A]
+Aleluia! Alelui_a!
+             [B]   [E]
+Aleluia! Alelui__a!
+
+[A]                 [A]/[G]               
+O sentimento mais precioso
+     [D]               [F]
+Que vem do nosso Senhor
+      [A]          [E]       
+É o amor que só tem quem
+                [A] 
+Já conhece a Jesus
+      [A]          [E]       
+É o amor que só tem quem
+                [G]  [D] 
+Já conhece a Jesus
+      [A]          [E]       
+É o amor que só tem quem
+                [A] 
+Já conhece a Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -248,7 +334,7 @@ Final: [Cm]  [Bb]  [Gm]`,
                 tom: 'F',
                 letra: `Intro: |4/4 (solo bateria) | [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
                 
-           [Dm]     [Am]     [Dm]   [Am]  [Bb]       [Am][Gm]
+           [Dm]     [Am]     [Dm]  [Am] [Bb]         [Am][Gm]
 Quando os grandes homens de Judá viram o inimigo
 [Dm]     [Am]           [Dm]     [Am]
 Deus mandou que eles não temessem
@@ -259,11 +345,11 @@ E chamou a cantar uma nova canção
              [Am]                 [Bb]/[C]
 Abaixar a espada e levantar o louvor
 
-[F9]            [Am]             [Eb]
+[F9]            [Dm]             [Eb]
  Cantai ao Senhor com alegre som
             [Gm]    [C]/[E]   [F9]
  Erga a voz para o Seu louvor
-              [Am]            [Eb]
+              [Dm]            [Eb]
 Um canto vencedor na tribulação
                 [Gm]      [C]/[E]   [F9]
 Crê somente a batalha é do Senhor
@@ -283,18 +369,18 @@ Você pode erguer uma nova canção
           [Am]             [Bb]/[C]
 Porque a batalha é do Senhor
 
-[F9]            [Am]             [Eb]
+[F9]            [Dm]             [Eb]
  Cantai ao Senhor com alegre som
             [Gm]    [C]/[E]   [F9]
  Erga a voz para o Seu louvor
-              [Am]            [Eb]
+              [Dm]            [Eb]
 Um canto vencedor na tribulação
                 [Gm]      [C]/[E]   [F9]
 Crê somente a batalha é do Senhor
 
-      [C]/[Bb]  [Bb]/[D]     [Bbm]            [F]
+      [C]/[Bb]  [Bb]/[D]   [Bbm]/[C#]         [F]
 Porque ele é bom, Seu amor dura para sempre
-      [C]/[Bb]  [Bb]/[D]     [Bbm]            [F]
+      [C]/[Bb]  [Bb]/[D]   [Bbm]/[C#]         [F]
 Porque ele é bom, Seu amor dura para sempre
              [Bb]/[C]
 Pra sempre e sempre
