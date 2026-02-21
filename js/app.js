@@ -248,65 +248,65 @@ Final: [Cm]  [Bb]  [Gm]`,
                 tom: 'F',
                 letra: `Intro: |4/4 (solo bateria) | [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
                 
-           [Dm]  [Am]   [Dm] [Am][Bb]   [Am][Gm]
+           [Dm]     [Am]   [Dm] [Am]  [Bb]     [Am][Gm]
 Quando os grandes homens de Judá viram o inimigo
- [Dm]  [Am]          [Dm] [Am]
+[Dm]     [Am]           [Dm]     [Am]
 Deus mandou que eles não temessem
-     [Bb]   [Am][Gm] [Bb][Am][Gm] 
+          [Bb]   [Am][Gm] [Bb][Am][Gm] 
 Pois daria a vitória
-            [Am]              [Bb]   [Bb][Am][Gm]
+               [Am]              [Bb]   [Bb][Am][Gm]
 E chamou a cantar uma nova canção
-           [Am]              [Bb]/[C]
+             [Am]               [Bb]/[C]
 Abaixar a espada e levantar o louvor
 
 [F9]            [Am]            [Eb]
-    Cantai ao Senhor com alegre som
-              [Gm]   [C]/[E] [F9]
-    Erga a voz para o Seu louvor
-                 [Am]          [Eb]
-    Um canto vencedor na tribulação
-                   [Gm]   [C]/[E] [F9]
-    Crê somente a batalha é do Senhor
+ Cantai ao Senhor com alegre som
+              [Gm]    [C]/[E] [F9]
+ Erga a voz para o Seu louvor
+               [Am]          [Eb]
+Um canto vencedor na tribulação
+                [Gm]    [C]/[E]   [F9]
+Crê somente a batalha é do Senhor
 
 Interlúdio: || [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
 
-      [Dm]  [Am]   [Dm] [Am]
+       [Dm]    [Am]  [Dm]    [Am]
 Quando algum mal te encontrar
-   [Bb]  [Am][Gm]
+   [Bb]    [Am] [Gm]
 Confia no Senhor
-[Dm]  [Am]            [Dm] [Am]       
+[Dm]    [Am]               [Dm]   [Am]       
 Crê em Deus que não te deixará
-    [Bb]   [Am][Gm][Bb][Am][Gm] 
+     [Bb]   [Bb] [Am]  [Gm]  [Bb][Am][Gm] 
 Ele sempre perto está
-            [Am]            [Bb]   [Bb][Am][Gm]
+             [Am]              [Bb]   [Bb][Am][Gm]
 Você pode erguer uma nova canção
-          [Am]        [Bb]/[C]
+            [Am]           [Bb]/[C]
 Porque a batalha é do Senhor
 
 [F9]            [Am]            [Eb]
-    Cantai ao Senhor com alegre som
-              [Gm]   [C]/[E] [F9]
-    Erga a voz para o Seu louvor
-                 [Am]          [Eb]
-    Um canto vencedor na tribulação
-                   [Gm]   [C]/[E] [F9]
-    Crê somente a batalha é do Senhor
+ Cantai ao Senhor com alegre som
+              [Gm]    [C]/[E] [F9]
+ Erga a voz para o Seu louvor
+               [Am]          [Eb]
+Um canto vencedor na tribulação
+                [Gm]    [C]/[E]   [F9]
+Crê somente a batalha é do Senhor
 
-    [C]/[Bb][Bb]/[D]   [Bbm]           [F]
+      [C]/[Bb]    [Bb]/[D]   [Bbm]           [F]
 Porque ele é bom, Seu amor dura para sempre
-    [C]/[Bb][Bb]/[D]   [Bbm]           [F]
+[C]/[Bb]    [Bb]/[D]   [Bbm]           [F]
 Porque ele é bom, Seu amor dura para sempre
-             [Bb]/[C]
+            [Bb]/[C]
 Pra sempre e sempre
 
 [F9]            [Am]            [Eb]
-    Cantai ao Senhor com alegre som
-              [Gm]   [C]/[E] [F9]
-    Erga a voz para o Seu louvor
-                 [Am]          [Eb]
-    Um canto vencedor na tribulação
-                   [Gm]   [C]/[E] [F9] Pausa
-    Crê somente a batalha é do Senhor`,
+ Cantai ao Senhor com alegre som
+              [Gm]    [C]/[E] [F9]
+ Erga a voz para o Seu louvor
+               [Am]          [Eb]
+Um canto vencedor na tribulação
+                [Gm]    [C]/[E]   [F9] Pausa
+Crê somente a batalha é do Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
