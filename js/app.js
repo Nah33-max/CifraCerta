@@ -2115,7 +2115,7 @@ Que vivo está`,
                 titulo: 'Quão Formoso És',
                 artista: 'Ministério Koinonya de Louvor',
                 tom: 'G',
-                letra: `Intro: ||4/4 G | C/G | D/G | C/G G/B | C D/C | Bm Em D | C G/B F | F ||
+                letra: `Intro: ||4/4 [G] | [C]/[G] | [D]/[G] | [C]/[G] [G]/[B] | [C] [D]/[C] | [Bm] [Em] [D] | [C] [G]/[B] [F] | [F] ||
                 
 [G]       [G]/[B] [D] [D]/[C] [G]/[B]
 Quão formoso és   Rei    do universo
