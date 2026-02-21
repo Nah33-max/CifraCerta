@@ -116,19 +116,18 @@ function initializeDefaultCifras() {
                 titulo: 'A Alegria do Senhor',
                 artista: 'Fernandinho',
                 tom: 'Bb',
-                letra: `Intro: |: 4/4 [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] 
-     || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] :|
+                letra: `Intro: |: 4/4 [Cm]/[G]  [Bb]/[G]  [Gm] | [Cm]/[G] [Bb]/[G]  [Gm] | [Cm]/[G]  [Bb]/[G]  [Gm] || [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E]  [Bb]/[F]  [Gm] :|
 
 
-| [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] |
+| [Cm]/[G]  [Bb]/[G]  [Gm] | [Cm]/[G] [Bb]/[G]  [Gm] | [Cm]/[G]  [Bb]/[G]  [Gm] |
        Vento sopra forte
-| [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] |
+| [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E]  [Bb]/[F]  [Gm] |
 As águas não podem me afogar
-| [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] | 
+| [Cm]/[G]  [Bb]/[G]  [Gm] | [Cm]/[G] [Bb]/[G]  [Gm] | [Cm]/[G]  [Bb]/[G]  [Gm] |
 Vento sopra forte
-| A/E  Bb/F  A/E  Bb/F A/E  Bb/F  A/E |
+| [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E]  [Bb]/[F]  [Gm] |
 Em Suas mãos vou segurar
-Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] | || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] |
+Intro: | [Cm]/[G]  [Bb]/[G]  [Gm] | [Cm]/[G] [Bb]/[G]  [Gm] | [Cm]/[G]  [Bb]/[G]  [Gm] || [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E]  [Bb]/[F]  [Gm] |
 
 [Gm]
    Vento sopra forte
@@ -136,28 +135,27 @@ Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] | || [A]/[E]  [Bb
 As águas não podem me afogar
 [Bb]
    Vento sopra forte
-                      [Cm]
+                         [Cm]
 Em Suas mãos vou segurar
 
-
 E não me guio pelo que vejo
- [Gm]
-Mas eu sigo pelo que creio
+[Gm]
+   Mas eu sigo pelo que creio
 [Cm]
    Eu não olho as circunstâncias
-[Eb]               [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] [D]  [D#]
-    Eu vejo o Teu amor
+[Eb]                [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] 
+   Eu vejo o Teu amor
 
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
 
-Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] || [A]/[E]  [Bb]/[F]  [A]/[E]  [Bb]/[F] [A]/[E]  [Bb]/[F]  [A]/[E] ||
+Intro: | [Cm]/[G]  [Bb]/[G]  [Gm] | [Cm]/[G] [Bb]/[G]  [Gm] | [Cm]/[G]  [Bb]/[G]  [Gm] || [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E] [Bb]/[F] [A]/[E]  [Bb]/[F]  [Gm]
 
 [Gm]
    Vento sopra forte
@@ -165,25 +163,24 @@ Intro: | [Cm]  [Bb]  [Gm] | [Cm] [Bb]  [Gm] | [Cm]  [Bb]  [Gm] || [A]/[E]  [Bb]/
 As águas não podem me afogar
 [Bb]
    Vento sopra forte
-                      [Cm]
+                         [Cm]
 Em Suas mãos vou segurar
 
-
 E não me guio pelo que vejo
- [Gm]
-Mas eu sigo pelo que creio
+[Gm]
+   Mas eu sigo pelo que creio
 [Cm]
    Eu não olho as circunstâncias
-[Eb]               [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] [D]  [D#]
-    Eu vejo o Teu amor
+[Eb]                [F]  [D]  [D#]  [D]  [D#]  [D]  [D#]  [D]  [D#] 
+   Eu vejo o Teu amor
 
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
 
           [Bb]               [Eb]
@@ -204,29 +201,31 @@ Essa alegria não vai mais sair
      [F]                [Gm]
 De dentro do meu coração
 
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
-   A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
 
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
-[Gm]              [Bb]          [Eb]  [Cm]
+[Gm]              [Bb]              [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]              [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+
+[Gm]              [Bb]              [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]              [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]              [Eb]  [Cm]
+   A alegria do Senhor é a nossa força
+[Gm]              [Bb]              [Eb]  [Cm]
    A alegria do Senhor é a nossa força
 
 Final: [Cm]  [Bb]  [Gm]`,
