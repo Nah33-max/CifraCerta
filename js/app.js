@@ -2117,7 +2117,7 @@ Que vivo está`,
                 tom: 'G',
                 letra: `Intro: ||4/4 [G] | [C]/[G] | [D]/[G] | [C]/[G] [G]/[B] | [C] [D]/[C] | [Bm] [Em] [D] | [C] [G]/[B] [F] | [F] ||
                 
- [G]         [G]/[B] [D]  [D]/[C]    [G]/[B]
+ [G]         [G]/[B] [D]  [D]/[C]   [G]/[B]
 Quão formoso és Rei do universo
       [C]   [G]/[B]     [Am]
 Tua glória enche a terra
@@ -2145,43 +2145,43 @@ Tua glória enche os céus
     [Am]                [C]/[D]     [G]  [D] 
 Tua glória enche minha vida Senhor
 
-      [G]       [G]/[B]           [C]   [E]
+      [G]        [G]/[B]            [C]   [E]
 Maravilhoso é estar em tua presença
-      [Am]     [Am]/[G]       [D]
+      [Am]       [Am]/[G]       [D]
 Maravilhoso é poder te adorar
-      [Bm]      [B]/[D#]           [Em]
+      [Bm]       [B]/[D#]          [Em]
 Maravilhoso é tocar nas tuas vestes
-      [Am]        [C]/[D]
+      [Am]         [C]/[D]
 Maravilhoso é te contemplar
    [G]	 [D]
 Senhor
 
-      [G]       [G]/[B]           [C]   [E]
+      [G]        [G]/[B]            [C]   [E]
 Maravilhoso é estar em tua presença
-      [Am]     [Am]/[G]       [D]
+      [Am]       [Am]/[G]       [D]
 Maravilhoso é poder te adorar
-      [Bm]      [B]/[D#]           [Em]
+      [Bm]       [B]/[D#]          [Em]
 Maravilhoso é tocar nas tuas vestes
-      [Am]        [C]/[D]
+      [Am]         [C]/[D]
 Maravilhoso é te contemplar
    [G]	 [D]
 Senhor
-      [G]       [G]/[B]           [C]   [E]
+      [G]        [G]/[B]            [C]   [E]
 Maravilhoso é estar em tua presença
-      [Am]     [Am]/[G]       [D]
+      [Am]       [Am]/[G]       [D]
 Maravilhoso é poder te adorar
-      [Bm]      [B]/[D#]           [Em]
+      [Bm]       [B]/[D#]          [Em]
 Maravilhoso é tocar nas tuas vestes
-      [Am]        [C]/[D]
+      [Am]         [C]/[D]
 Maravilhoso é te contemplar
    [G]	 [D]/[E] [Em]/[D] 
 Senhor
 
-      [Am]        [C]/[D]
+      [Am]         [C]/[D]
 Maravilhoso é te contemplar
    [G]	 [D]/[E] [Em]/[D] 
 Senhor
-      [Am]        [C]/[D]
+      [Am]         [C]/[D]
 Maravilhoso é te contemplar
    [G]	 [C]/[G] [D]/[G] [C]/[G] [G]
 Senhor`,
