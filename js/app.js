@@ -551,7 +551,185 @@ Am__ém, amém,  amém`,
                 titulo: 'A Casa é Sua',
                 artista: 'Casa Worship',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 G | C9 | Em7  G/B | C9 |
+
+          G
+Seja bem-vindo aqui
+          C           Em7
+A casa é sua, pode entrar
+               C9
+Me esvazio de mim
+               G  C/G
+Me esvazio de mim
+
+             G
+Sopra o Teu vento aqui
+            C             Em7
+Toma o Teu trono, vem reinar
+                   C   C9
+Nós queremos Te ouvir
+                   G  C/G  G/B
+Nós queremos Te ouvir
+
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Enche este lugar
+              Bm7
+Enche este lugar
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Vem me incendiar 
+              Bm7
+Vem me incendiar
+
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Enche este lugar
+              Bm7
+Enche este lugar
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Vem me incendiar 
+              Bm7
+Vem me incendiar
+
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Enche este lugar
+              Bm7
+Enche este lugar
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Vem me incendiar 
+              Bm7
+Vem me incendiar
+
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Enche este lugar
+              Bm7
+Enche este lugar
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Vem me incendiar 
+              Bm7
+Vem me incendiar
+
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus
+C9
+Essa casa é Sua casa
+                  D     Em7    Bm7
+Nós deixamos ela pro Senhor, Jesus 
+
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Enche este lugar
+              Bm7
+Enche este lugar
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Vem me incendiar 
+              Bm7
+Vem me incendiar
+
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Enche este lugar
+              Bm7
+Enche este lugar
+    C9
+Apareça
+                 Am7
+Que o Teu nome cresça
+              G
+Vem me incendiar 
+              Bm7
+Vem me incendiar
+
+C9
+Essa casa é Sua casa
+                  D     Em7   
+Nós deixamos ela pro Senhor `,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1007,7 +1185,93 @@ Incomparáveis são as promessas para mim`,
                 titulo: 'Águas Purificadoras',
                 artista: 'Diante do Trono',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 [D] | [Em]/[D] :|
+
+[D]                [Em]/[D]
+Existe um rio, Senhor
+ [D]                      [Em]/[D]
+Que flui do Teu grande amor
+[G]                   [D]/[F#]
+Águas que correm do trono
+[G]         [Em]         [A]      [G]/[B] [A]/[C#]
+Águas que curam, que limpam
+
+ [D]                [Em]/[D]
+Por onde o rio passar
+[Bm7]              [A4]  [A]  
+Tudo vai transformar
+      [G]             [D]/[F#]
+Pois leva a vida do próprio Deus
+        [G]    [Em7]   
+E este rio está  
+[A4]         [G]/[B]  [A]/[C#]
+Neste lugar
+
+ [D]                  [G]      [D]  [D]/[F#]
+Quero beber do Teu rio, Senhor
+   [G]        [D]/[F#]         [Em7]       [A]
+Sacia minha sede, lava o meu interior
+   [Bm7]                 [G]     [A]
+Eu quero fluir em Tuas águas
+   [Bm7]     [F#m7] Pausa  [G]
+Eu quero beber da Tua fonte
+               [A4]   [A]
+Fonte de águas vivas
+        [G]/[A]       [D]
+Tu és a fonte, Senhor
+
+Intro: |:4/4 [D] | [Em]/[D] :|
+
+[D]                [Em]/[D]
+Existe um rio, Senhor
+ [D]                      [Em]/[D]
+Que flui do Teu grande amor
+[G]                   [D]/[F#]
+Águas que correm do trono
+[G]         [Em]         [A]      [G]/[B] [A]/[C#]
+Águas que curam, que limpam
+
+ [D]                [Em]/[D]
+Por onde o rio passar
+[Bm7]              [A4]  [A]  
+Tudo vai transformar
+      [G]             [D]/[F#]
+Pois leva a vida do próprio Deus
+        [G]    [Em7]   
+E este rio está  
+[A4]         [G]/[B]  [A]/[C#]
+Neste lugar
+
+ [D]                  [G]      [D]  [D]/[F#]
+Quero beber do Teu rio, Senhor
+   [G]        [D]/[F#]         [Em7]       [A]
+Sacia minha sede, lava o meu interior
+   [Bm7]                 [G]     [A]
+Eu quero fluir em Tuas águas
+   [Bm7]     [F#m7] Pausa  [G]
+Eu quero beber da Tua fonte
+               [A4]   [A]
+Fonte de águas vivas
+        [G]/[A]       [D]  | [Em]/[D]
+Tu és a fonte, Senhor
+                  [D]  | [Em]/[D]  
+Tu és a fonte, Senhor
+                  [D]  | [Em]/[D]
+Tu és o rio, Senhor
+                  [D]  | [Em]/[D]
+Tu és a fonte, Senhor
+                  [D]  | [Em]/[D]
+Tu és o rio, Senhor
+                  [D]  | [Em]/[D]
+Tu és a fonte, Senhor
+                  [D]  | [Em]/[D]
+Tu és o rio, Senhor
+                  [D]  | [Em]/[D]
+Tu és a fonte, Senhor
+                  [D]  | [Em]/[D]
+Tu és o rio, Senhor
+                 [D] 
+Tu és o rio, Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1016,7 +1280,31 @@ Incomparáveis são as promessas para mim`,
                 titulo: 'Agnus Dei',
                 artista: 'David Quilan',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [C] | [F]/[C] [C] |[C] | [C] [F] [G] | [Am] [G] [F] | [C] | [C] |
+                
+[C] [F]/[C] [C]     [F]  [G] [Am]
+Aleluia, alelu_uia!
+    [G]           [F]         [C]
+Poderoso é o Senhor nosso Deus
+
+[C] [F]/[C] [C]     [F]  [G] [Am]
+Aleluia, alelu_uia!
+    [G]           [F]         [C]
+Poderoso é o Senhor nosso Deus
+[C]  [F]  [G] [Am]
+alelu_uia!
+
+[F]/[A] [G]/[B] [C]   [F]/[C]  [C]       [F]   [C]         [Am] [G]
+Sa___an_to, santo é o Senhor Deus, poderoso
+[Dm]    [Em]     [F]   [Dm]    [Em]     [F] 
+Digno de louvor, digno de louvor
+
+[F]/[G]  [G]  [C]  [F]/[C] [C]          [F]  [C]         [Am] [G]
+Tu é santo, santo é o Senhor Deus, poderoso
+[Dm]    [Em]     [F]   [Dm]    [Em]     [F] 
+Digno de louvor, digno de louvor!
+[F]/[G]   [C]
+A___Amém!`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1025,7 +1313,105 @@ Incomparáveis são as promessas para mim`,
                 titulo: 'Ainda que a Figueira',
                 artista: 'Fernandinho',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 F#m | A  E9 :|
+
+F#m            E9
+   Tu és a minha porção
+Bm7          D
+    Tu és a minha herança
+F#m         E9
+   Tu és o meu socorro
+     Bm7            D
+Nos dias de tribulação
+
+A                 E9
+  Mesmo que meus pais me deixem
+Bm7             D
+    Mesmo que amigos me traiam
+A                      E9
+  Eu sei que em Seus braços
+      Bm7         D
+Eu encontro salvação
+
+ A                   
+Ainda que a figueira 
+ E9
+Não floresça
+ Bm7                
+Ainda que a videira 
+     D
+Não dê o seu fruto
+ A                     E9
+Mesmo que não haja alimento 
+
+Nos campos
+        G           D
+Eu me alegrarei em Ti
+
+ A                   
+Ainda que a figueira 
+ E9
+Não floresça
+ Bm7                
+Ainda que a videira 
+     D
+Não dê o seu fruto
+ A                     E9
+Mesmo que não haja alimento 
+
+Nos campos
+        G           D
+Eu me alegrarei em Ti
+
+Intro: |: F#m | A  E9 :|
+
+F#m            E9
+   Tu és a minha porção
+Bm7          D
+    Tu és a minha herança
+F#m         E9
+   Tu és o meu socorro
+     Bm7            D
+Nos dias de tribulação
+
+A                 E9
+  Mesmo que meus pais me deixem
+Bm7             D
+    Mesmo que amigos me traiam
+A                      E9
+  Eu sei que em Seus braços
+      Bm7         D
+Eu encontro salvação
+
+ A                   
+Ainda que a figueira 
+ E9
+Não floresça
+ Bm7                
+Ainda que a videira 
+     D
+Não dê o seu fruto
+ A                     E9
+Mesmo que não haja alimento 
+
+Nos campos
+        G           D
+Eu me alegrarei em Ti
+
+ A                   
+Ainda que a figueira 
+ E9
+Não floresça
+ Bm7                
+Ainda que a videira 
+     D
+Não dê o seu fruto
+ A                     E9
+Mesmo que não haja alimento 
+
+Nos campos
+        G           D
+Eu me alegrarei em Ti`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1034,7 +1420,136 @@ Incomparáveis são as promessas para mim`,
                 titulo: 'Algo Novo',
                 artista: 'Lukas Agustinho',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 o] Am7  F  C  G
+        Am7  F  C  G
+
+[Primeira Parte]
+
+   C
+Vem me visitar hoje aqui
+
+Quero conhecer mais de ti
+         Am7            F9
+Espírito, vem, Espírito, vem
+          C9
+Espírito Santo
+        Am7            F9
+Espírito, vem, Espírito, vem
+          C9
+Espírito Santo
+
+        Am7            F9
+Espírito, vem, Espírito, vem
+          C9
+Espírito Santo
+        Am7            F9
+Espírito, vem, Espírito, vem
+          C9   G4
+Espírito Santo
+
+[Refrão]
+
+Am7             F9       C9
+    Eu quero viver algo novo
+Am7              F9           C9
+    Faz meu coração arder de novo
+           Am7          F9
+Fazendo todo medo desaparecer
+                C9
+Trazendo sobre mim um novo amanhecer
+Am7             F9       C9
+    Eu quero viver algo novo
+
+Am7             F9       C9
+    Eu quero viver algo novo
+Am7              F9           C9
+    Faz meu coração arder de novo
+           Am7          F9
+Fazendo todo medo desaparecer
+                C9
+Trazendo sobre mim um novo amanhecer
+
+[Segunda Parte]
+
+( Am7  F9  C9  G4 )
+
+Am7             F9        C9
+    Vem me visitar hoje aqui
+Am7             F9          C9
+    Quero conhecer mais de ti
+        Am7            F9
+Espírito, vem, Espírito, vem
+          C9
+Espírito Santo
+        Am7            F9
+Espírito, vem, Espírito, vem
+          C9
+Espírito Santo
+
+( Am7  F9  C9)
+
+[Refrão]
+
+Am7             F9       C9
+    Eu quero viver algo novo
+Am7              F9           C9
+    Faz meu coração arder de novo
+           Am7          F9
+Fazendo todo medo desaparecer
+                C9
+Trazendo sobre mim um novo amanhecer
+
+Am7             F9       C9
+    Eu quero viver algo novo
+Am7              F9           C9
+    Faz meu coração arder de novo
+          Am7          F9
+Fazendo todo medo desaparecer
+                C9
+Trazendo sobre mim um novo amanhecer
+Am7                       F
+Oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh
+
+Am7
+    Santo Espírito, desce como fogo
+G4
+   Santo Espírito, desce como fogo
+F9
+   Incendeia, incendeia
+
+Am7
+    Santo Espírito, desce como fogo
+G4
+   Santo Espírito, desce como fogo
+F9
+   Incendeia, incendeia
+
+Am7
+    Santo Espírito, desce como fogo
+G4
+   Santo Espírito, desce como fogo
+F9
+   Incendeia, incendeia
+
+Am7
+    Santo Espírito, desce como fogo
+G4
+   Santo Espírito, desce como fogo
+F9
+   Incendeia, incendeia
+
+[Refrão]
+
+Am7             F       C  G
+    Eu quero viver algo novo
+Am7              F          C
+    Faz meu coração arder de novo
+   G         Am         F
+Fazendo todo medo desaparecer
+                C                 G
+Trazendo sobre mim um novo amanhecer
+Am7             F9       C9
+    Eu quero viver algo novo`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1095,7 +1610,64 @@ Unidos iremos andar`,
                 titulo: 'Anseio',
                 artista: 'Diante do Trono',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4  Bb | % | F | % | Gm | % | Dm | C/E |
+
+ Bb9              F                Gm4            Dm7
+Leva-me bem mais perto, em Tua presença, em Tua glória
+ Bb9               F             Gm4           Dm7 C/E
+Chama-me mais profundo, além do véu, em Tua glória
+
+ Bb9              F               Gm4          Dm7
+Espirito desça agora, eu me aproximo de Tua glória
+ Bb9                F                  Gm4       Dm7 C/E
+Cobre-me com Tua graça, sou filho que ama,Tua glória
+
+ F                 C            Gm               
+Anseio por mais de Ti,  com meu respirar, com meu 
+Bb
+caminhar
+ F                    C        Gm                      
+Eu queimo de amor por Ti,  com desejo santo, queima um 
+Bb
+fogo santo
+
+Intro: |4/4  Bb | % | F | % | Gm | % | Dm | C/E |
+
+ Bb9              F              Gm4           Dm7
+Espirito desça agora, eu me aproximo de Tua glória
+ Bb9               F                   Gm4        Dm7
+Cobre-me com Tua graça, sou filho que ama, Tua glória
+
+ F                 C           Gm                 
+Anseio por mais de Ti,  com meu respirar, com meu 
+Bb
+caminhar
+   F                  C  C4    C   Gm                  
+Eu queimo de amor por Ti,      com desejo santo, queima
+    Bb
+ um fogo santo
+
+Interlúdio: |4/4  F | % | C | % | Gm | % | Bb | % |
+
+   F                C      Gm              Bb
+Tua glória venha, o céu na terra, o céu na terra
+   F                C      Gm              Bb
+Tua glória venha, o céu na terra, o céu na terra
+   F                C      Gm              Bb
+Tua glória venha, o céu na terra, o céu na terra
+   F                C      Gm              Bb
+Tua glória venha, o céu na terra, o céu na terra
+
+ F                 C             Gm               
+Anseio por mais de Ti,  com meu respirar, com meu 
+Bb
+caminhar
+   F                  C         Gm                     
+Eu queimo de amor por Ti,  com desejo santo, queima um 
+Bb
+fogo santo
+
+Interlúdio: |4/4  F | % | C | % | Gm | % | Bb | % |`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1153,6 +1725,15 @@ Consagramos todo nosso ser a Ti`,
                 titulo: 'Aos Pés da Cruz',
                 artista: 'Oficina G3',
                 tom: 'A',
+                letra: `Intro: |4/4 `,
+                favorite: false,
+                createdAt: Date.now() - 172200000
+            },
+            {
+                id: generateId(),
+                titulo: 'Arde Outra Vez',
+                artista: 'Thalles Roberto',
+                tom: 'F',
                 letra: `Intro: |4/4 `,
                 favorite: false,
                 createdAt: Date.now() - 172200000
