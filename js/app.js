@@ -1734,7 +1734,122 @@ Consagramos todo nosso ser a Ti`,
                 titulo: 'Arde Outra Vez',
                 artista: 'Thalles Roberto',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 Dm7(9) | % | Am7(9) | % :| 
+
+Dm7
+Eu não quero mais viver
+
+Longe da tua presença,
+        Am7(9)
+Meu Senhor hoje quero voltar
+
+Voltar ao início de tudo
+     Dm7
+De quando eu era feliz
+
+Sentia a Tua presença
+      Am7(9)
+Caminhava ali, no seu jardim
+
+Te encontrava todo dia
+           Dm7
+Mas me perdi, Senhor, no caminhar
+Tentei andar sozinho na aventura
+       Am7(9)
+Dessa vida foi só ilusão
+Confesso que andei perdido, sim
+               Dm7(9)
+Mas, hoje, eu Te devolvo um coração
+Arrependido de tudo o que fez
+          Am7(9)
+Quero voltar, Senhor
+Para os Teus rios
+Voltar, Senhor, para os Teus rios
+
+    F7M(9)    Em7(13-)  Dm7(11)
+Me molha, me lava, me ensina
+             F7M(9)   Em7(13-)
+Me inspira e arde outra vez
+        Dm7(11)
+No meu coração
+
+    F7M(9)    Em7(13-)  Dm7(11)
+Me molha, me lava, me ensina
+             F7M(9)   Em7(13-)
+Me inspira e arde outra vez
+        Am7(9)
+No meu coração
+
+            Dm7
+De braços abertos, quero Te receber
+             Am7(9)
+Filho, Eu estava esperando você
+                               Dm7
+Pra mim você é tudo que Eu sonhei um dia
+        Am7(9)
+Eu te amo
+
+Intro: | Dm7(9) | % | Am7(9) | % | 
+
+Dm7
+Eu não quero mais viver
+Longe da tua presença,
+        Am7(9)
+Meu Senhor hoje quero voltar
+Voltar ao início de tudo
+     Dm7
+De quando eu era feliz
+Sentia a Tua presença
+      Am7(9)
+Caminhava ali, no seu jardim
+Te encontrava todo dia
+           Dm7
+Mas me perdi, Senhor, no caminhar
+Tentei andar sozinho na aventura
+       Am7(9)
+Dessa vida foi só ilusão
+Confesso que andei perdido, sim
+               Dm7(9)
+Mas, hoje, eu Te devolvo um coração
+Arrependido de tudo o que fez
+          Am7(9)
+Quero voltar, Senhor
+Para os Teus rios
+Voltar, Senhor, para os Teus rios
+
+    F7M(9)   Em7(13-)   Dm7(11)
+Me lava, me molha, me ensina
+             F7M(9)      Em7(13-)
+Me inspira e arde outra vez
+        Dm7(11)
+No meu coração
+
+    F7M(9)    Em7(13-)  Dm7(11)
+Me molha, me lava, me ensina
+             F7M(9)      Em7(13-)
+Me inspira e arde outra vez
+     Dm7(11)
+Com fogo, com fogo!
+
+    F7M(9)    Em7(13-)
+Me molha, me lava
+         Dm7(11)
+A glória          da segunda casa Deus
+
+         F7M(9)  Em7(13-)     Dm7(11)
+A glória                   me molha
+
+ F7M(9)  Em7(13-)  Dm7(11)
+Deus,              Deus
+
+  F7M(9)  Em7(13-)      Dm7(11)
+E arde outra vez no meu coração
+  F7M(9)  Em7(13-)      Dm7(11)
+E arde outra vez no meu coração
+  F7M(9)  Em7(13-)      Dm7(11)
+E arde outra vez no meu coração
+  F7M(9)  Em7(13-)      Am7(9)
+E arde outra vez no meu coração`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1852,7 +1967,65 @@ Quero ouvir o som do céu
                 titulo: 'Basta uma Palavra do meu Deus',
                 artista: 'Comunidade Evangélica Internacional da Zona Sul',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 ] F  F/A  A#
+        
+        F                          A#
+Basta uma palavra do meu Deus
+ Dm                   C
+Para um milagre acontecer
+    F                            A#
+O tempo e a distância não vão resistir
+ Dm                      C
+Se Ele falou, Ele vai cumprir ! 2x
+
+A#                               C
+Ele falou ao mar e o mar se acalmou
+A#                                Dm
+"Haja luz !” – E a luz passou a existir!
+A#                                     C
+"Levanta e anda” – E o paralítico andou !
+   Gm             A#              C
+E tem falado que o melhor está por vir
+
+F                          A#
+Basta uma palavra do meu Deus
+ Dm                   C
+Para um milagre acontecer
+    F                            A#
+O tempo e a distância não vão resistir
+ Dm                      C
+Se Ele falou, Ele vai cumprir ! 2x
+
+A#                                 C
+Chamou pelo nome e o morto ressurgiu
+   A#                             Dm
+"Lançai a rede” e a pesca superabundou
+      A#                          C
+O que Ele prometeu prá mim e prá você
+Gm             A#               C
+Pode acreditar que vai acontecer !
+
+F                          A#
+Basta uma palavra do meu Deus
+ Dm                   C
+Para um milagre acontecer
+    F                            A#
+O tempo e a distância não vão resistir
+ Dm                      C
+Se Ele falou, Ele vai cumprir !
+
+F                        A#
+Basta uma palavra do meu Deus 3x
+Dm                    C
+Para um milagre acontecer
+F                        A#
+Basta uma palavra do meu Deus 3x
+Dm                    C
+Para um milagre acontecer
+F                        A#
+Basta uma palavra do meu Deus 3x
+Dm                       C
+Se Ele falou, Ele vai cumprir`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -1861,7 +2034,108 @@ Quero ouvir o som do céu
                 titulo: 'Bem-Aventurado',
                 artista: 'Aline Barros',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 C/Bb  Bb | C/Bb  Bb | C/F  F | C/F  F :| 
+
+         C/Bb            Bb9  C/Bb Bb
+Bem aventurado é o que está
+Bb             C/F F  C/F
+Firmado em tua ca__sa
+F              C/Bb Bb  Gm7
+Aqueles que te lou__vam
+          C4          C     F
+Cujo coração está no nosso Deus
+
+Interlúdio: | F | C | Dm7 | A# | F/A | C | Dm7 | A# |
+
+         C/Bb            Bb9  C/Bb Bb
+Bem aventurado é o que está
+Bb             C/F F  C/F
+Firmado em tua ca__sa
+F              C/Bb Bb  Gm7
+Aqueles que te lou__vam
+          C4          C     F
+Cujo coração está no nosso Deus
+
+          C/A#        A# C/A#
+Bem aventurado é quem tem
+A#           C/F     F   C/F
+A sede da Justiça de Deus
+F               C/A#      A# Gm7
+Aqueles que são filhos da luz
+            C            F
+Cuja força vem do nosso Deus
+
+                 A#          C
+Que o teu reino venha sobre nós
+             A#/D          C/E
+Queremos tua glória sobre nós
+
+F         C          Dm        A#
+Ouve, oh Deus, nossa oração, Altíssimo
+F/A              C
+    Sara essa nação
+        Dm            A#
+É o clamor da igreja que te adora
+
+Intro: | C/Bb  Bb | C/Bb  Bb | C/F  F | C/F  F :| 
+
+          C/A#        A# C/A#
+Bem aventurado é quem tem
+A#           C/F     F   C/F
+A sede da Justiça de Deus
+F               C/A#      A# Gm7
+Aqueles que são filhos da luz
+            C            F
+Cuja força vem do nosso Deus
+
+                A#           C
+Que o teu reino venha sobre nós
+             A#/D          C/E
+Queremos tua glória sobre nós
+
+F         C          Dm        A#
+Ouve, oh Deus, nossa oração, Altíssimo
+F/A              C
+    Sara essa nação
+        Dm            A#      C
+É o clamor da igreja que te adora
+F         C           Dm          A#
+Ouve, oh Deus, nossa o__ração, Altíssimo
+F/A              C
+    Sara essa nação
+        Dm            A#
+É o clamor da igreja que te adora
+
+F              C/E
+ Só tu és Santo,  só tu és Santo
+Dm7                    A#
+   Só tu és Santo, Senhor
+F              C/E
+ Só tu és Santo,  só tu és Santo
+Dm7                    A#
+   Só tu és Santo, Senhor
+F              C/E
+ Só tu és Santo,  só tu és Santo
+Dm7                    A#
+   Só tu és Santo, Senhor
+F              C/E
+ Só tu és Santo,  só tu és Santo
+Dm7                    A#
+   Só tu és Santo, Senhor
+
+F         C          Dm        A#
+Ouve, oh Deus, nossa oração, Altíssimo
+F/A              C
+    Sara essa nação
+        Dm7           A#      C
+É o clamor da igreja que te adora
+
+F         C          Dm        A#
+Ouve, oh Deus, nossa oração, Altíssimo
+F/A              C
+    Sara essa nação
+        Dm            A#2
+É o clamor da igreja que te adora`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
