@@ -596,7 +596,128 @@ Seus juízos e Seus caminhos`,
                 titulo: 'Abra os olhos do meu coração',
                 artista: 'David Quilan',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4  [E] | % | [B]/[D#] | % | [A] | [F#m] | [E] | % |
+        
+[E]
+Abra os olhos do meu coração
+[B]/[D#]
+Abra os olhos do meu coração
+          [A] [F#m]         [E]
+Quero Te ver, quero Te ver
+
+[E]
+Abra os olhos do meu coração
+[B]/[D#]
+Abra os olhos do meu coração
+          [A] [F#m]         [E]
+Quero Te ver, quero Te ver
+
+    [B]          [C#m7]
+Exaltado e bem alto
+    [A]                   [B]
+Brilhando, a luz da Tua glória
+   [B]                 [C#m]
+Derrame Seu amor e poder
+           [F#m]   [E]/[G#] [A]  [B]
+Pois Tu és Santo, Santo, Santo
+
+    [B]          [C#m7]
+Exaltado e bem alto
+    [A]                   [B]
+Brilhando, a luz da Tua glória
+   [B]                 [C#m]
+Derrame Seu amor e poder
+           [F#m]   [E]/[G#] [A]  [B]
+Pois Tu és Santo, Santo, Santo
+
+[E]
+Abra os olhos do meu coração
+[B]/[D#]
+Abra os olhos do meu coração
+          [A] [F#m]         [E]
+Quero Te ver, quero Te ver
+
+[E]
+Abra os olhos do meu coração
+[B]/[D#]
+Abra os olhos do meu coração
+          [A] [F#m]         [E]
+Quero Te ver, quero Te ver
+
+    [B]          [C#m7]
+Exaltado e bem alto
+    [A]                   [B]
+Brilhando, a luz da Tua glória
+   [B]                 [C#m]
+Derrame Seu amor e poder
+           [F#m]   [E]/[G#] [A]  [B]
+Pois Tu és Santo, Santo, Santo
+    [B]          [C#m7]
+Exaltado e bem alto
+    [A]                   [B]
+Brilhando, a luz da Tua glória
+   [B]                 [C#m]
+Derrame Seu amor e poder
+           [F#m]   [E]/[G#] [A]  [B]
+Pois Tu és Santo, Santo, Santo
+
+[E]
+Santo, Santo, Santo
+[B]/[D#]
+Santo, Santo, Santo
+[A]             [F#m]
+Santo, Santo, Santo
+          [E]  
+Quero Te ver
+
+[E]
+Santo, Santo, Santo
+[B]/[D#]
+Santo, Santo, Santo
+[A]             [F#m]
+Santo, Santo, Santo
+          [E]  
+Quero Te ver
+
+          [E]
+Quero Te ver
+        [B]/[D#]
+Quero Te ver
+             [C#m7]
+Eu quero Te tocar
+                 [A]
+Eu quero Te abraçar
+          [F#m]  [B]
+Quero te ver
+
+          [E]
+Quero Te ver
+        [B]/[D#]
+Quero Te ver
+             [C#m7]
+Eu quero Te tocar
+                 [A]
+Eu quero Te abraçar
+          [F#m]  [B]
+Quero te ver
+
+[E]
+Santo, Santo, Santo
+[B]/[D#]
+Santo, Santo, Santo
+[A]             [F#m]
+Santo, Santo, Santo
+          [E]  
+Quero Te ver
+
+[E]
+Santo, Santo, Santo
+[B]/[D#]
+Santo, Santo, Santo
+[A]             [F#m]
+Santo, Santo, Santo
+          [E]  
+Quero Te ver`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -605,7 +726,43 @@ Seus juízos e Seus caminhos`,
                 titulo: 'Abraça-me',
                 artista: 'André Valadão',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 G9 | G | C6(9) | C | Em7(9/13) | Em | D/F# | % |
+   G
+Ensina-me a sentir Teu coração
+   C9
+Jesus, quero ouvir Teu respirar
+   Em7
+Tirar Teu fôlego com minha fé
+         D/F#  
+E Te adorar
+
+ G
+Jesus, Tu és o pão que me alimenta
+   C9
+O verbo vivo que desceu do céu
+    Em7
+Vem aquecer meu frio coração
+          D9  C/E  D/F#
+Com Teu amor
+
+     C9
+Abraça-me,abraça-me
+      D
+Cura-me, Cura-me
+      C9
+Unge-me,unge-me
+      D
+Toca-me,toca-me
+
+     G    G/B              Em7
+Vem sobre mim com o Teu manto
+ C9                    Am  D9
+Reina em mim com Tua glória
+
+     G                   Em7
+Pois ao Teu lado é o meu lugar
+  C9       Am   D9
+Aleluia, aleluia `,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -614,7 +771,157 @@ Seus juízos e Seus caminhos`,
                 titulo: 'Acende Outra Vez',
                 artista: 'Jefferson e Suellen',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4  F#m7  D | A  E | F#m7  D | A  E | 
+
+F#m7            D         A  E 
+     Ouço um barulho diferente
+F#m7            D        A  E 
+     É como um vento veemente
+F#m7                  D             A  E 
+     Eu vejo línguas como o que de fo_go
+F#m7           D          A    
+     Pousando sobre o ambiente
+
+D
+  Nós estamos reunidos
+E 
+  A casa está preparada
+F#m7
+     Pode soprar o vento
+C#m
+    Reacender a brasa
+
+D
+  Nós estamos reunidos
+E 
+  A casa está preparada
+F#m7
+     Pode soprar o vento
+E
+  Reacender a brasa
+
+ F#m7  D        A 
+Me  batiza com fogo
+ F#m7        E 
+Reacende a chama em mim
+ A/C#  D        A 
+Me  batiza com fogo
+ F#m7        E 
+Reacende a chama em mim
+
+Intro: | F#m7  D | A  E |
+
+F#m7            D         A  E 
+     Ouço um barulho diferente
+F#m7            D        A  E 
+     É como um vento veemente
+F#m7                  D             A  E 
+     Eu vejo línguas como o que de fo_go
+F#m7           D          A  E
+     Pousando sobre o ambiente
+
+D
+  Nós estamos reunidos
+E 
+  A casa está preparada
+F#m7
+     Pode soprar o vento
+C#m
+    Reacender a brasa
+
+D
+  Nós estamos reunidos
+E 
+  A casa está preparada
+F#m7
+     Pode soprar o vento
+E
+  Reacender a brasa
+
+ F#m7  D        A 
+Me  batiza com fogo
+ F#m7  D        E 
+Rea___cende a chama em mim
+ A/C#  D        A 
+Me  batiza com fogo
+ F#m7  D        E 
+Rea___cende a chama em mim
+
+Interlúdio: | D | E | C#m | F#m7 |
+
+  D
+Acende outra vez
+      E 
+Tua chama em nós
+  C#m
+Aviva outra vez
+  F#m7
+Aviva outra vez
+
+  D
+Acende outra vez
+      E 
+Tua chama em nós
+  C#m
+Aviva outra vez
+  F#m7
+Aviva outra vez
+
+  D
+Acende outra vez
+      E 
+Tua chama em nós
+  C#m
+Aviva outra vez
+  F#m7
+Aviva outra vez
+
+   D       
+A nossa geração
+            E 
+Tem lenha pra queimar
+   C#m
+E pode incendiar
+   F#m7
+E vem nos batizar
+
+   D       
+A nossa geração
+            E 
+Tem lenha pra queimar
+   C#m
+E pode incendiar
+   F#m7
+E vem nos batizar
+
+   D       
+A nossa geração
+            E 
+Tem lenha pra queimar
+   C#m
+E pode incendiar
+   F#m7
+E vem nos batizar
+
+   D       
+A nossa geração
+            E 
+Tem lenha pra queimar
+   C#m
+E pode incendiar
+   F#m7
+E vem nos batizar
+
+ F#m7  D        A 
+Me  batiza com fogo
+ F#m7  D        E 
+Rea___cende a chama em mim
+ A/C#  D        A 
+Me  batiza com fogo
+ F#m7  D        E 
+Rea___cende a chama em mim
+
+Interlúdio: | D | E | C#m | F#m7 |`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
