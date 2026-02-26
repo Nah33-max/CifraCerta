@@ -2839,7 +2839,87 @@ E o louvor,   ao rei,      Jesus`,
                 titulo: 'Contar meus Segredos',
                 artista: 'Aline Barros',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 [G] [G7+] [G6] [G7+] :||
+                
+[G]
+  Senhor
+Ás vezes sinto
+em mim uma vontade
+de entrar no quarto
+E trancar a porta
+                 [C]
+E assim falar contigo
+              [G] [G7+] [G6] [G7+] 
+Contar meus segredos
+[G]
+ Te confessar os meus pecados
+E fraquezas Me quebrantar e ser
+achado como alguém
+          [C]
+Segundo o Teu querer
+           [G]
+Segundo o Teu coração
+
+[C]
+ Tudo que eu quero
+é poder Te adorar
+[Em]
+  Ficar a sós contigo
+ [D]/[F#]
+E em Teus braços
+          [C]
+ me encontrar
+
+                [G]  [D]/[F#]
+Só quero Te adorar
+               [Em]  [C]
+Só quero Te adorar
+               [G]  [D]/[F#]
+Preciso Te adorar
+              [Am] [G]/[B] [C]
+Permita-me Te a__dorar
+
+[G]
+Em Ti eu quero
+me perder em adoração
+Vem consumir meu coração
+                 [C]
+Com as chamas do Teu olhar
+          [G]
+Te amo demais
+
+[C]
+ Tudo que eu quero
+é poder Te adorar
+[Em]
+  Ficar a sós contigo
+ [D]/[F#]
+E em Teus braços
+          [C]
+ me encontrar
+
+                [G]  [D]/[F#]
+Só quero Te adorar
+               [Em]  [C]
+Só quero Te adorar
+               [G]  [D]/[F#]
+Preciso Te adorar
+              [Am] [G]/[B] [C]
+Permita-me Te a__dorar
+
+                [G]  [D]/[F#]
+Só quero Te adorar
+               [Em]  [C]
+Só quero Te adorar
+               [G]  [D]/[F#]
+Preciso Te adorar
+              [Am] [G]/[B] [C]
+Permita-me Te a__dorar
+              [Am] [G]/[B] [C]
+Permita-me Te a__dorar
+              [Am] [G]/[B] [C]
+Permita-me Te a__dorar
+Final: ||: [G] [G7+] [G6] [G7+] :||`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -2848,7 +2928,97 @@ E o louvor,   ao rei,      Jesus`,
                 titulo: 'Coração Igual ao Teu',
                 artista: 'Diante do Trono',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [Bb9]  [F]/[A] | [Dm7]  [Am7] [Bb] | [Dm7]  [C]/[E]  | [F] [F]/[A] |
+
+        [Bb]                         [F]/[A]
+Se tu olhares senhor pra dentro de mim
+       [Gm7]          [C]  
+Nada encontrará de bom
+    [Bb]           [C]/[Bb]
+Mas um desejo eu tenho
+    [F]  [C]/[E]     [Dm7]
+De ser transformado
+   [Gm7]           [F]/[A]
+Preciso tanto do Teu perdão
+[Bb]             [C]
+Dá-me um novo coração
+
+[F]                  [F]/[A]    [Bb9]      [Gm7]  [C]
+Dá-me um coração igual ao teu, meu mes_tre
+ [F]           [Eb]/[G]  [F]/[A]    [Bb]
+Dá-me um coração igual ao teu
+     [C]     [C]/[Bb]     [Am7]  [Dm7]
+Coração disposto a obede_cer
+    [Am7]               [Dm7]
+Cumprir todo o teu querer
+[Gm7]           [C]         | [Bb9]  [F]/[A] | [Dm7]  [Am7] [Bb] | [Dm7]  [C]/[E]  | [F] [F]/[A] |
+Dá-me um coração igual ao Teu
+
+        [Bb]                         [F]/[A]
+Se tu olhares senhor pra dentro de mim
+       [Gm7]          [C]  
+Nada encontrará de bom
+    [Bb]           [C]/[Bb]
+Mas um desejo eu tenho
+    [F]  [C]/[E]     [Dm7]
+De ser transformado
+   [Gm7]           [F]/[A]
+Preciso tanto do Teu perdão
+[Bb]             [C]
+Dá-me um novo coração
+
+[F]                  [F]/[A]    [Bb9]      [Gm7]  [C]
+Dá-me um coração igual ao teu, meu mes_tre
+ [F]           [Eb]/[G]  [F]/[A]    [Bb]
+Dá-me um coração igual ao teu
+     [C]     [C]/[Bb]     [Am7]  [Dm7]
+Coração disposto a obede_cer
+    [Am7]               [Dm7]
+Cumprir todo o teu querer
+[Gm7]           [C]           [F]
+Dá-me um coração igual ao Teu
+
+  [C]/[E]                    [Dm7]
+Ensina-me a amar o meu irmão
+    [C]
+A olhar com teus olhos
+     [F]                 [F]/[A]
+Perdoar com teu perdão
+[Bb]          [C]/[Bb]
+Enche-me com Teu espírito
+[Am7]          [Dm7]
+Endireita os meus caminhos
+[C]  [Bb]
+Oh Deus, dai-me
+   [C]     [F]      
+Um novo coração
+
+
+[Bb]          [C]/[Bb]
+Enche-me com Teu espírito
+[Am7]          [Dm7]
+Endireita os meus caminhos
+[C]  [Bb]
+Oh Deus, dai-me
+   [C]     [F] [Bb]/[C]     
+Um novo coração
+
+[F]                  [F]/[A]    [Bb9]      [Gm7]  [C]
+Dá-me um coração igual ao teu, meu mes_tre
+ [F]           [Eb]/[G]  [F]/[A]    [Bb]
+Dá-me um coração igual ao teu
+     [C]     [C]/[Bb]     [Am7]  [Dm7]
+Coração disposto a obede_cer
+    [Am7]               [Dm7]
+Cumprir todo o teu querer
+[Gm7]           [C]           [F]
+Dá-me um coração igual ao Teu
+     [C]     [C]/[Bb]     [Am7]  [Dm7]
+Coração disposto a obede_cer
+    [Am7]               [Dm7]
+Cumprir todo o teu querer
+[Gm7]           [C]           [F]
+Dá-me um coração igual ao Teu`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -2857,7 +3027,34 @@ E o louvor,   ao rei,      Jesus`,
                 titulo: 'Cordeiro Santo',
                 artista: 'Filhos do Homem',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 G | % | C | % | Em | D | C | % |
+                   G        C9
+A Tua cruz, o Teu fardo
+ Em    D   C
+Meu pecado apagou
+   G         C9
+E hoje tudo novo se fez
+      Em
+Santidade
+     D          C
+É a minha adoração
+    G               C9
+Cordeiro santo, cordeiro de Deus
+  Em   D      C
+Amado da minh'alma
+    G               C9
+Cordeiro santo, cordeiro de Deus
+  Em   D    C
+Amado salvador
+
+    G               C9
+Cordeiro santo, cordeiro de Deus
+  Em   D      C
+Amado da minh'alma
+    G               C9
+Cordeiro santo, cordeiro de Deus
+  Em   D    C
+Amado salvador`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -2866,7 +3063,92 @@ E o louvor,   ao rei,      Jesus`,
                 titulo: 'Corpo e Família',
                 artista: 'Eli Soares',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 [F]  [Bb] | [C] :||
+    F
+Recebi um novo coração do Pai
+    Dm7        Am7
+Coração regenerado
+    Bb          F/A
+Coração transformado
+     Eb                        C
+Coração que é inspirado por Jesus
+
+     F
+Como fruto desse novo coração
+     Dm7             Am7
+Eu declaro a paz de Cristo
+         Bb        F/A
+Te abençoo, meu irmão
+    Eb                   C
+Preciosa é a nossa comunhão
+
+      F                        F7M
+Somos corpo, e, assim, bem ajustados
+             Bb      Gm       Eb
+Totalmente ligados, unidos, vivendo em
+  Eb         C
+Vivendo em amor
+
+      F                         F7M
+Uma família, sem qualquer falsidade
+             Bb          Gm
+Vivendo a verdade, expressando
+   Eb           C
+A Glória do Senhor
+
+     F                      F7M
+Uma família, vivendo o compromisso
+                  Bb
+Do grande amor de Cristo
+      F/A     Gm     C      F
+Eu preciso de ti, querido irmão
+     Dm7          Bb     C          Bb
+Precioso és para mim, querido irmão
+
+    F
+Recebi um novo coração do Pai
+    Dm7        Am7
+Coração regenerado
+    Bb          F/A
+Coração transformado
+     Eb                        C
+Coração que é inspirado por Jesus
+
+     F
+Como fruto desse novo coração
+     Dm7            Am7
+Eu declaro a paz de Cristo
+         Bb        F/A
+Te abençoo, meu irmão
+    Eb                   C
+Preciosa é a nossa comunhão
+
+      F                        F7M
+Somos corpo, e, assim, bem ajustados
+             Bb      Gm       Eb
+Totalmente ligados, unidos, vivendo em
+  Eb         C
+Vivendo em amor
+
+      F                         F7M
+Uma família, sem qualquer falsidade
+             Bb          Gm
+Vivendo a verdade, expressando
+   Eb           C
+A Glória do Senhor
+     F                      F7M
+Uma família, vivendo o compromisso
+                  Bb
+Do grande amor de Cristo
+      F/A     Gm     C      F
+Eu preciso de ti, querido irmão
+
+     Dm7          Bb     C       F
+Precioso és para mim, querido irmão
+      Dm7     Bb     C       F
+Eu preciso de ti, querido irmão
+     Dm7         Bb      C       Bb
+Precioso és para mim, querido irmão`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -2875,7 +3157,45 @@ E o louvor,   ao rei,      Jesus`,
                 titulo: 'Correr para Deus',
                 artista: 'Aline Barros',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 C#m | C#m | E | B | C#m
+
+ C#m            A B    C#m        A
+Descerá sobre mim, a unção do Senhor
+          E       B/D#   C#m       F#m
+Sinto em mim fogo consumidor, já arder
+      C#m          A B        C#m          A
+Vou pedir, vou buscar, vou sonhar, conquistar
+     E        B/D#       C#m           B
+Derramar minha vida no altar, e Te adorar
+
+       E                        A        G#m
+Vou correr, para Deus, como um rio corre para o mar
+   F#m        B
+Eu corro para Ti
+       E                      A            G#m
+Vou viver, só pra Deus, regressar ao meu lugar
+         F#m           B
+E ao primeiro amor voltar (2x)
+
+C#m  E  B
+
+C#m            E                B
+Descerá sobre ti, descerá sobre ti, descerá sobre ti
+C#m            E                B
+Descerá sobre ti, descerá sobre ti, descerá sobre ti
+C#m            E                B
+Descerá sobre ti, descerá sobre ti, descerá sobre ti
+C#m            E                B
+Descerá sobre ti, descerá sobre ti, descerá sobre ti
+
+       E                        A        G#m
+Vou correr, para Deus, como um rio corre para o mar
+   F#m        B
+Eu corro para Ti
+       E                      A            G#m
+Vou viver, só pra Deus, regressar ao meu lugar
+         F#m           B
+E ao primeiro amor voltar`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
