@@ -2144,7 +2144,107 @@ F/A              C
                 titulo: 'Bondade de Deus',
                 artista: 'Marsena',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 [G]  [C] [G] [C] | [G] :|| 
+                
+         [G9]
+Te amo, Deus
+      [C]          [G9]   
+Tua graça nunca falha
+  [D]/[F#] [G]/[B]  [Em]
+Todos   os dias
+      [C]           [D]
+Eu estou em tuas mãos
+                  [G]  [C]
+Desde quando me levanto
+       [G]    [D]/[F#]  [Em]
+Até eu me deitar
+        [C]  [G]/[B]  [A7]  [D7(4)]       [G]
+Eu cantarei    da bondade    de Deus
+
+[C9]                 [G]
+  És fiel em todo tempo
+[C9]                     [G]   [Em]    [D]
+  Em todo tempo tu és tão, tão  bom
+[C9]                    [G]  [B7]  [Em]
+  Com todo fôlego que tenho
+         [C] [G]/[B]      [A7] [D]      [G]
+Eu cantarei   da bondade   de Deus
+
+          [G9]
+Tua doce voz
+        [C]               [G9]
+Que me guia em meio ao fogo
+   [D]/[F#]      [Em]
+Na escu-ri-dão
+       [C]           [D]
+Tua presença me conforta
+               [Em]  [C]
+Sei que és meu Pai
+       [G]  [D]/[F#]  [Em]
+Que amigo és
+           [C] [G]/[B]  [A7] [D]     [G]
+E eu vivo na   bondade de Deus
+
+[C9]                 [G]
+  És fiel em todo tempo
+[C9]                     [G]   [Em]    [D]
+  Em todo tempo tu és tão, tão  bom
+[C9]                    [G]  [B7]  [Em]
+  Com todo fôlego que tenho
+         [C] [G]/[B]      [A7] [D]      [G]
+Eu cantarei   da bondade   de Deus
+
+[C9]                 [G]
+  És fiel em todo tempo
+[C9]                     [G]   [Em]    [D]
+  Em todo tempo tu és tão, tão  bom
+[C9]                    [G]  [B7]  [Em]
+  Com todo fôlego que tenho
+         [C] [G]/[B]      [A7] [D]      [G]
+Eu cantarei   da bondade   de Deus
+
+
+[G]/[B]                [C]
+   Tua bondade me seguirá
+    [D]        [G]
+Me seguirá, Senhor
+[G]/[B]                [C]
+   Tua bondade me seguirá
+    [D]        [G]
+Me seguirá, Senhor
+       [G]/[B]              [C]
+Eu me rendo a Ti, te dou o meu ser
+  [F#°]    [B7]     [Em]
+Entrego  tudo a ti
+[G]/[B]                [C]
+   Tua bondade me seguirá
+    [D]          [G]
+Me seguirá, Senhor
+[G]/[B]                [C]
+   Tua bondade me seguirá
+    [D]          [G]
+Me seguirá, Senhor
+[G]/[B]                [C]
+   Tua bondade me seguirá
+    [D]          [G]
+Me seguirá, Senhor
+      [G]/[B]                [C]   
+Eu me rendo a Ti, te dou o meu ser
+  [D]/[F#]     [B7]      [Em]
+Entrego  tudo a Ti
+[G]/[B]         [C]
+   Tua bondade me seguirá
+   [D]         | [G]  [C] [G] [C] | [G] |
+Me seguirá, Senhor
+
+[C9]                 [G]
+  És fiel em todo tempo
+[C9]                     [G]   [Em]    [D]
+  Em todo tempo tu és tão, tão  bom
+[C9]                    [G]  [B7]  [Em]
+  Com todo fôlego que tenho
+         [C] [G]/[B]      [A7] [D]    | [G]  [C] [G] [C] | [G] |
+Eu cantarei   da bondade   de Deus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -2314,7 +2414,129 @@ O impossível Ele faz`,
                 titulo: 'Canção ao Cordeiro',
                 artista: 'Israel Salazar',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 [C#m7]  [A9] | [E] :|
+
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+
+ [A9]
+Quem é como o Senhor?
+ [B9]            [G#m]
+Quem é como o Senhor?
+
+ [A9]       [B] [C#m]  [B9]
+Santo, és incomparável
+    [A]  [G#m]   [A9]
+Não há outro como Tu
+    [B]  [C#m]     [B9]
+Reinas sobre a terra e céu
+     [G#m]
+Pra sempre
+
+ [A9]       [B] [C#m]  [B9]
+Santo, és incomparável
+    [A]  [G#m]   [A9]
+Não há outro como Tu
+    [B]  [C#m]     [B9]
+Reinas sobre a terra e céu
+     [G#m]
+Pra sempre
+
+Intro: |: [C#m7]  [A9] | [E] :|
+
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+        [C#m7]
+Vamos cantar
+        [A9]        [E]
+Uma canção ao cordeiro
+
+ [A9]
+Quem é como o Senhor?
+ [B9]            [G#m]
+Quem é como o Senhor?
+
+ [A9]       [B] [C#m]  [B9]
+Santo, és incomparável
+    [A]  [G#m]   [A9]
+Não há outro como Tu
+    [B]  [C#m]     [B9]
+Reinas sobre a terra e céu
+     [G#m]
+Pra sempre
+
+ [A9]       [B] [C#m]  [B9]
+Santo, és incomparável
+    [A]  [G#m]   [A9]
+Não há outro como Tu
+    [B]  [C#m]     [B9]
+Reinas sobre a terra e céu
+     [G#m]
+Pra sempre
+
+Interlúdio: | [A9] | % | [E] | [B9] |
+
+[A9]
+Honra, glória, força e poder
+ [E]              [B9]
+Honra, glória, força e poder
+[A9]
+Honra, glória, força e poder
+ [E]              [B9]
+Honra, glória, força e poder
+
+[F#m]
+Honra, glória, força e poder
+ [C#m]            [B9]
+Honra, glória, força e poder
+ [F#m]
+Honra, glória, força e poder
+ [C#m]            [B9]
+Honra, glória, força e poder
+
+ [A9]       [B] [C#m]  [B9]
+Santo, és incomparável
+    [A]  [G#m]   [A9]
+Não há outro como Tu
+    [B]  [C#m]     [B9]
+Reinas sobre a terra e céu
+     [G#m]
+Pra sempre
+
+ [A9]       [B] [C#m]  [B9]
+Santo, és incomparável
+    [A]  [G#m]   [A9]
+Não há outro como Tu
+    [B]  [C#m]     [B9]
+Reinas sobre a terra e céu
+     [G#m]
+Pra sempre`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -2324,7 +2546,7 @@ O impossível Ele faz`,
                 titulo: 'Canção do Apocalipse',
                 artista: 'Diante do Trono',
                 tom: 'G',
-                letra: `Intro: |4/4 D | Am7 | C9 | G |
+                letra: `Intro: |4/4 [D] | [Am7] | [C9] | [G] |
 
 [D]                    [Am7]
    Digno é o Cordeiro,    que foi morto
@@ -2433,7 +2655,69 @@ E eu Te adorarei`,
                 titulo: 'Como eu te amo',
                 artista: 'Fernandinho',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [D4] [D] | [D] | [D4] [D] | [G] | [D4] [D] | [D] [D]/[F#| [G] | [A] |
+
+        [D]
+És meu tudo
+        [D9]
+És meu Senhor
+         [D]                [A9]
+És meu amigo, meu intercessor
+           [D]
+Meu braço forte
+           [D9]
+Meu conselheiro
+       [D]                   [A9]
+Maravilhoso, meu grande eu sou
+           [Em7]      [A9]
+Eu não sou nada sem Ti
+       [Em7]      [A9]
+Eu não vivo sem Ti
+           [Em7]      [A9]
+Sem Tua presença eu morro
+           [Em7] [G]    [A9]
+Sem Tua presença eu morro
+
+        [D]
+És meu tudo
+        [D9]
+És meu Senhor
+         [D]                [A9]
+És meu amigo, meu intercessor
+           [D]
+Meu braço forte
+           [D9]
+Meu conselheiro
+       [D]                   [A9]
+Maravilhoso, meu grande eu sou
+           [Em7]      [A9]
+Eu não sou nada sem Ti
+       [Em7]      [A9]
+Eu não vivo sem Ti
+           [Em7]      [A9]
+Sem Tua presença eu morro
+           [Em7] [G]    [A9]
+Sem Tua presença eu morro
+
+           [G]               [D]/[F#]
+Como eu Te amo, como eu Te quero
+          [Em7]              [A9]
+Sim eu me prostro aos Teus pés
+        [G]             [D]/[F#]
+A minha vida eu Te consagro
+           [Em7]     [G]          [A9]
+Tudo o que Tenho é totalmente Teu
+
+           [G]               [D]/[F#]
+Como eu Te amo, como eu Te quero
+          [Em7]              [A9]
+Sim eu me prostro aos Teus pés
+        [G]             [D]/[F#]
+A minha vida eu Te consagro
+           [Em7]                [A9]
+Tudo o que Tenho é totalmente Teu
+           [Em7]              [A9]
+Tudo o que sou é totalmente Teu`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -2443,7 +2727,110 @@ E eu Te adorarei`,
                 titulo: 'Consagração',
                 artista: 'Aline Barros',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 [A] [D]/[A] :||
+
+    [A]             [E]/[G#]  [Em]/[G]        [D]/[F#]
+Ao rei dos reis consagro tudo o que sou
+   [Dm]/[F]                 [A]/[E]
+De gratos louvores transborda
+       [E]      
+O meu coração
+   [A]        [E]/[G#]       [Em]/[G]
+A minha vida eu entrego nas Tuas mãos
+      [D]/[F#]
+Meu Senhor
+[Dm]/[F]       [A]/[E]           [E]       [D]/[F#]  [E]/[G#] 
+Pra Te exaltar com todo meu amor
+[A]          [E]/[G#]          [Em]/[G]   [D]/[F#]
+Eu Te louvarei conforme a Tua justiça
+ [Dm]/[F]         [A]/[E]            [B7]          
+E cantarei louvores, pois Tu és 
+                  [E]   
+Pois Tu és Altíssimo
+
+[C#m]     [D]    [E]              
+Celebrarei a Ti, ó Deus 
+    [F#m]       [E]/[F#]  [F#m] 
+Com meu viver
+      [D]          [E]          [A]      [G]/[B] 
+Cantarei e contarei as Tuas obras
+[A]/[C#]      [D]        [E]/[D]
+Pois por Tuas mãos foram criados
+[C#7]          [F#m]    [E]    [D]  
+Terra, Céu e mar e todo ser 
+ [E]        [F#]
+Que neles há
+
+     [Bm]              [E]  
+Toda Terra celebra a Ti
+    [C#m]         [F#m] [E] 
+Com cânticos de júbilo
+         [D]     [E]        [F#] 
+Pois  Tu és o Deus criador
+     [Bm]              [E]  
+Toda Terra celebra a Ti
+    [C#m]         [F#m] [E] 
+Com cânticos de júbilo
+         [D]     [E]     | [F#m]  [E] | [D] [E] |
+Pois  Tu és o Deus criador
+
+[C#m]     [D]    [E]              
+Celebrarei a Ti, ó Deus 
+    [F#m]       [E]/[F#]  [F#m] 
+Com meu viver
+      [D]          [E]          [A]      [G]/[B] 
+Cantarei e contarei as Tuas obras
+[A]/[C#]      [D]        [E]/[D]
+Pois por Tuas mãos foram criados
+[C#7]          [F#m]    [E]    [D]  
+Terra, Céu e mar e todo ser 
+ [E]        [F#]
+Que neles há
+
+     [Bm]              [E]  
+Toda Terra celebra a Ti
+    [C#m]         [F#m] [E] 
+Com cânticos de júbilo
+         [D]     [E]        [F#] 
+Pois  Tu és o Deus criador
+     [Bm]              [E]  
+Toda Terra celebra a Ti
+    [C#m]         [F#m] [E] 
+Com cânticos de júbilo
+         [D]     [E]       [F#m]  [E]
+Pois  Tu és o Deus criador
+         [D]     [E]       [F#m]  [E]
+Pois  Tu és o Deus criador
+         [D]     [E]     | [F#m]  [E] | [D] [E]/[D] [D] [E]/[D] [D7+] |
+Pois  Tu és o Deus criador
+
+   [A]       [E]/[G#]      [F#m]    [C#m]               
+A honra, a glória, a força e o poder 
+          [D]  [A]/[C#]
+Ao rei Jesus
+        [Bm]  [A]     [G]   [D]/[F#]    [E]
+E o louvor,   ao rei,      Jesus
+
+   [A]       [E]/[G#]      [F#m]    [C#m]               
+A honra, a glória, a força e o poder 
+          [D]  [A]/[C#]
+Ao rei Jesus
+        [Bm]  [A]     [G]   [D]/[F#]    [E]
+E o louvor,   ao rei,      Jesus
+
+   [A]       [E]/[G#]      [F#m]    [C#m]               
+A honra, a glória, a força e o poder 
+          [D]  [A]/[C#]
+Ao rei Jesus
+        [Bm]  [A]     [G]   [D]/[F#]    [E]
+E o louvor,   ao rei,      Jesus
+
+   [A]       [E]/[G#]      [F#m]    [C#m]               
+A honra, a glória, a força e o poder 
+          [D]  [A]/[C#]
+Ao rei Jesus
+        [Bm]  [A]     [G]   [D]/[F#]    [E]
+E o louvor,   ao rei,      Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
