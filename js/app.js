@@ -3783,7 +3783,114 @@ Se precisas de um milagre estou aqui`,
                 titulo: 'Deus da Minha Vida',
                 artista: 'Thalles Roberto',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [Dm7]  [Bb9] | [Dm7]  [Bb9] | [Dm7]  [Bb9] || [Dm7]  [G] ||
+
+
+[Dm7]  [Bb9]  [Dm7]  [Bb9]
+Deus meu  Pai  meu
+ [Dm7]  [Bb9]  [Dm7]     [Bb9]
+Amor  meu  Tudo, razão de tudo
+
+[Dm7]  [Bb9]  [Dm7]  [Bb9]
+Deus meu  Ar  Meu
+  [Dm7]            [Bb9]    [Dm7]
+Farol O farol que eu preciso
+     [Bb9]
+Como eu preciso 
+
+      [Dm7]        [C]        [G]
+Eu preciso Te sentir todo dia
+    [Dm7]          [C]          [G]
+E olhar pra Tua luz pra não me perder
+      [Dm7]           [C]         [G]
+Meu Senhor, Tu és a minha alegria
+      [Bb9]
+Eu preciso 
+
+             [Bb9]
+Deus da minha vida
+[C9]     [Dm7]
+Fica comigo
+         [Bb9]
+Sou a sua casa
+[C9]      [Dm7]
+Mora em mim
+            [Bb9]
+Deixa eu Te dizer
+  [C9]        [Dm7]
+O que eu preciso, Pai
+      [Bb9]
+Eu preciso do Senhor 
+
+Intro: || [Dm7]  [Bb9] | [Dm7]  [Bb9] | [Dm7]  [Bb9] || [Dm7]  [G] ||
+
+[Dm7]  [Bb9]  [Dm7]  [Bb9]
+Deus meu  Pai  meu
+ [Dm7]  [Bb9]  [Dm7]     [Bb9]
+Amor  meu  Tudo, razão de tudo
+
+[Dm7]  [Bb9]  [Dm7]  [Bb9]
+Deus meu  Ar  Meu
+  [Dm7]            [Bb9]    [Dm7]
+Farol O farol que eu preciso
+     [Bb9]
+Como eu preciso 
+
+      [Dm7]        [C]        [G]
+Eu preciso Te sentir todo dia
+    [Dm7]          [C]          [G]
+E olhar pra Tua luz pra não me perder
+      [Dm7]           [C]         [G]
+Meu Senhor, Tu és a minha alegria
+      [Bb9]
+Eu preciso 
+
+             [Bb9]
+Deus da minha vida
+[C9]     [Dm7]
+Fica comigo
+         [Bb9]
+Sou a sua casa
+[C9]      [Dm7]
+Mora em mim
+            [Bb9]
+Deixa eu Te dizer
+  [C9]        [Dm7]
+O que eu preciso, Pai
+      [Bb9]
+Eu preciso do Senhor  
+
+             [Bb9]
+Deus da minha vida
+[C9]     [Dm7]
+Fica comigo
+         [Bb9]
+Sou a sua casa
+[C9]      [Dm7]
+Mora em mim
+            [Bb9]
+Deixa eu Te dizer
+  [C9]        [Dm7]
+O que eu preciso, Pai
+      [Bb9]       [C9]
+Eu preciso do Senhor 
+
+Interlúdio: | [Bb9]  [C9] | [Dm7] | [Bb9]  [C9] | [Dm7] | [Bb9]  [C9] | [Dm7] | [Bb9]  [C9] | [Dm7] | [Bb9]  ||
+
+             [Bb9]
+Deus da minha vida
+[C9]     [Dm7]
+Fica comigo
+         [Bb9]
+Sou a sua casa
+[C9]      [Dm7]
+Mora em mim
+            [Bb9]
+Deixa eu Te dizer
+  [C9]        [Dm7]
+O que eu preciso, Pai
+      [Bb9]       [C9]
+Eu preciso do Senhor `,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
