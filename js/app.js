@@ -3899,7 +3899,118 @@ Eu preciso do Senhor `,
                 titulo: 'Deus de Promessas',
                 artista: 'Davi Sacer',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [D]  [A]/[C#] | [Bm7]  [E] | [D]  [A]/[C#] | [Bm7]  [D]/[E] |
+
+[Bm7]              [E]/[G#]
+  Sei que os Teus olhos
+        [A]/[C#]                 [D]
+Sempre atentos permanecem em mim
+[Bm7]           [E]/[G#]
+  E os Teus ouvidos
+        [A]/[C#]                      [D]
+Estão sensíveis para ouvir meu clamor
+        [Bm7]  [E]/[G#]
+ Posso até chorar
+        [A9]  [E]/[G#]     [F#m7]
+Mas alegria vem de manhã
+
+[D]          [A]/[C#]   [Bm]        [E]
+És Deus de perto, Também de longe
+ [D]      [A]/[C#]
+Nunca mudastes
+[Bm]      [G]  [D]/[F#] [E4]
+Tu és fiel!
+
+          [A]/[C#]
+Deus de aliança
+           [F#m]
+Deus de promessas
+               [Bm7]          [E4]
+Deus que não é homem pra mentir
+      [A]/[C#]              [F#m]
+Tudo pode passar, tudo pode mudar
+          [Bm7]              [E4]  [E]
+Mas tua palavra vai se cumprir
+
+[Bm7]              [E]/[G#]
+  Sei que os Teus olhos
+        [A]/[C#]                 [D]
+Sempre atentos permanecem em mim
+[Bm7]           [E]/[G#]
+  E os Teus ouvidos
+        [A]/[C#]                      [D]
+Estão sensíveis para ouvir meu clamor
+        [Bm7]  [E]/[G#]
+ Posso até chorar
+        [A9]  [E]/[G#]     [F#m7]
+Mas alegria vem de manhã
+
+[D]          [A]/[C#]   [Bm]        [E]
+És Deus de perto, Também de longe
+ [D]      [A]/[C#]
+Nunca mudastes
+[Bm]      [G]  [D]/[F#] [E4]
+Tu és fiel!
+
+[E]/[D]       [A]/[C#]
+Deus de aliança
+           [F#m]
+Deus de promessas
+               [Bm7]          [E4]
+Deus que não é homem pra mentir
+      [A]/[C#]              [F#m]
+Tudo pode passar, tudo pode mudar
+          [Bm7]              [E4]  [E]
+Mas tua palavra vai se cumprir
+
+[E]/[D]       [A]/[C#]
+Deus de aliança
+           [F#m]
+Deus de promessas
+               [Bm7]          [E4]
+Deus que não é homem pra mentir
+      [A]/[C#]              [F#m]
+Tudo pode passar, tudo pode mudar
+          [Bm7]              [E]  [F°]
+Mas tua palavra vai se cumprir
+
+[F#m7]           [E]         [D]
+   Posso enfrentar o que for
+             [E]       [F#m7]
+Eu sei quem luta por mim
+           [E]/[G#]        [D] [A]/[C#] [Bm] [A]   [G#°] [A] [G#°] [E]
+Seus planos não podem ser frustrados
+[F#m7]          [E]      [D]
+   Minha esperança está
+             [E]        [F#m7]
+Nas mãos do grande eu sou
+           [E]/[G#]      [G9]     [D]/[F#]
+Meus olhos vão ver o impossível
+       [E]  
+Acontecer
+
+[E]/[D]       [A]/[C#]
+Deus de aliança
+           [F#m]
+Deus de promessas
+               [Bm7]          [E4]
+Deus que não é homem pra mentir
+      [A]/[C#]              [F#m]
+Tudo pode passar, tudo pode mudar
+          [Bm7]              [E] 
+Mas tua palavra vai se cumprir
+
+[E]/[D]       [A]/[C#]
+Deus de aliança
+           [F#m]
+Deus de promessas
+[F#m]   [E]/[G#] [A]  [C#m]  [Bm7]          [E4]
+ Deus que  não é   homem pra mentir
+      [A]/[C#]              [F#m]
+Tudo pode passar, tudo pode mudar
+          [Bm7]              [E]  
+Mas tua palavra vai se cumprir
+Intro: || [D]  [A]/[C#] | [Bm7]  [E] | [D]  [A]/[C#] | [Bm7] [A]/[C#] [D] [D]/[E] [E] || A ||`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
