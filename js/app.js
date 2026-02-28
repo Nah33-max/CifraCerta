@@ -4019,7 +4019,115 @@ Intro: || [D]  [A]/[C#] | [Bm7]  [E] | [D]  [A]/[C#] | [Bm7] [A]/[C#] [D] [D]/[E
                 titulo: 'Deus do impossível',
                 artista: 'Ministério Apascentar de Nova Iguaçu',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Dm9  Dm7 | Gm7(9) | F | C | Dm9  Dm7 | Gm7(9) | F | C |
+        
+       Bb9
+Quando tudo diz que não
+               F            
+Sua voz me encoraja a prosseguir
+       Bb9
+Quando tudo diz que não
+                 F             
+Ou parece que o mar não vai se abrir
+
+           Gm
+Sei que não estou só
+        Bb9           
+E o que dizes sobre mim
+         Dm     
+Não pode se frustrar
+         Gm
+Venha em meu favor
+  Bb9                   C
+E cumpra em mim teu querer
+
+                F
+O Deus do impossível
+                 C
+Não desistiu de mim
+                 Gm 
+Sua destra me sustenta 
+      Bb         C
+E me faz prevalecer 
+
+                F
+O Deus do impossível
+                 C
+Não desistiu de mim
+                 Gm 
+Sua destra me sustenta 
+      Bb         C
+E me faz prevalecer 
+
+               Bb
+O Deus do impossível
+               Dm   
+O Deus do impossível
+
+       Bb9
+Quando tudo diz que não
+               F            
+Sua voz me encoraja a prosseguir
+       Bb9
+Quando tudo diz que não
+                 F             
+Ou parece que o mar não vai se abrir
+
+           Gm
+Sei que não estou só
+        Bb9           
+E o que dizes sobre mim
+         Dm     
+Não pode se frustrar
+         Gm
+Venha em meu favor
+  Bb9                   C
+E cumpra em mim teu querer
+
+                F
+O Deus do impossível
+                 C
+Não desistiu de mim
+                 Gm 
+Sua destra me sustenta 
+      Bb         C
+E me faz prevalecer 
+
+                F
+O Deus do impossível
+                 C
+Não desistiu de mim
+                 Gm 
+Sua destra me sustenta 
+      Bb         C
+E me faz prevalecer
+
+                F
+O Deus do impossível
+                 C
+Não desistiu de mim
+                 Gm 
+Sua destra me sustenta 
+      Bb         C
+E me faz prevalecer
+
+                F
+O Deus do impossível
+                 C
+Não desistiu de mim
+                 Gm 
+Sua destra me sustenta 
+      Bb         C
+E me faz prevalecer
+
+               Bb
+O Deus do impossível
+               Dm 
+O Deus do impossível
+               Bb
+O Deus do impossível
+               Dm 
+O Deus do impossível`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
