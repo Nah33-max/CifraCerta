@@ -3942,7 +3942,170 @@ E ao primeiro amor voltar`,
                 titulo: 'Pode Morar Aqui',
                 artista: 'Theo Rubia',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [C] |
+                
+[C]                          [Am7]
+  Minhas lamparinas estão acesas
+[C]
+  Só estou esperando o barulho
+         [Am7]
+Dos teus passos em direção à porta
+[Em]
+  É só bater que eu
+[F]                  [C]      [G]
+  Vou abrir pro Senhor entrar
+[Em]
+  É só bater que eu
+[F]                  [C] [F] [G]
+  Vou abrir pro Senhor entrar
+
+           [F]
+Eu já coloquei
+                  [C]
+As minhas vestes brancas
+      [Am7]
+Estou só te esperando
+ [G]         [Em]  [F]
+Vem, vamos dançar
+   [Am7] [G]     [F]
+Mara___na_ta
+  [Am7]  [G]
+Mara___nata
+
+[C]                          [Am7]
+  Minhas lamparinas estão acesas
+[C]
+  Só estou esperando o barulho
+         [Am7]
+Dos teus passos em direção à porta
+[Em]
+  É só bater que eu
+[F]                  [C]      [G]
+  Vou abrir pro Senhor entrar
+[Em]
+  É só bater que eu
+[F]                  [C] [F] [G]
+  Vou abrir pro Senhor entrar
+
+           [F]
+Eu já coloquei
+                  [C]
+As minhas vestes brancas
+      [Am7]
+Estou só te esperando
+ [G]         [Em]  [F]
+Vem, vamos dançar
+   [Am7] [G]     [F]
+Mara___na_ta
+  [Am7]  [G]
+Mara___nata
+
+      [C]/[E]  [F]
+Eu já coloquei
+                  [C]
+As minhas vestes brancas
+      [Am7]
+Estou só te esperando
+ [G]         [Em]  [F]
+Vem, vamos dançar
+   [Am7] [G]     [F]
+Mara___na_ta
+  [Am7]  [G] | [F] [F7+] [F9] [F7+]|
+Mara___nata
+
+[F]
+  Tem fogo nos olhos
+[G]
+  Eu não imaginava
+[Am7]
+  Que era lindo assim
+[Em] 
+  Que era lindo assim
+[F]
+  Meu noivo esperado
+[G]
+  Eu abro a minha casa
+[Am7]
+    Pode morar aqui
+[Em] 
+   Pode morar aqui
+
+[F]
+  Tem fogo nos olhos
+[G]
+  Eu não imaginava
+[Am7]
+  Que era lindo assim
+[Em] 
+  Que era lindo assim
+[F]
+  Meu noivo esperado
+[G]
+  Eu abro a minha casa
+[Am7]
+    Pode morar aqui
+[Em] 
+   Pode morar aqui
+
+Interlúdio: |: [F] | [G] | [Am7] | [Em] :|| 
+       
+           [F]
+Eu já coloquei
+                  [C]
+As minhas vestes brancas
+      [Am7]
+Estou só te esperando
+ [G]         [Em]  [F]
+Vem, vamos dançar
+   [Am7] [G]     [F]
+Mara___na_ta
+  [Am7]  [G]
+Mara___nata
+
+      [C]/[E]  [F]
+Eu já coloquei
+                  [C]
+As minhas vestes brancas
+      [Am7]
+Estou só te esperando
+ [G]         [Em]  [F]
+Vem, vamos dançar
+   [Am7] [G] 
+Mara___na_ta
+
+[F]
+  Tem fogo nos olhos
+[G]
+  Eu não imaginava
+[Am7]
+  Que era lindo assim
+[Em] 
+  Que era lindo assim
+[F]
+  Meu noivo esperado
+[G]
+  Eu abro a minha casa
+[Am7]
+    Pode morar aqui
+[Em] 
+   Pode morar aqui
+
+[F]
+  Tem fogo nos olhos
+[G]
+  Eu não imaginava
+[Am7]
+  Que era lindo assim
+[Em] 
+  Que era lindo assim
+[F]
+  Meu noivo esperado
+[G]
+  Eu abro a minha casa
+[Am7]
+    Pode morar aqui
+[Em] 
+   Pode morar aqui`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
