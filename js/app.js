@@ -4971,7 +4971,105 @@ Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
                 titulo: 'Vem me Buscar',
                 artista: 'Jefferson e Suellen',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [|Em] | [D] | [C] | [Am} |
+
+[Em]                  [D]
+  És adorado entre nós
+[C]                [Am7]
+  Tão desejado aqui
+[Em]                   [D]
+  Mas nada se comparará
+                       [Am7]   [C]    [D]
+Com a glória que há de vir, oh oh oh
+
+        [C]                   [D9]    
+Eu não sou daqui, pra casa voltarei
+         [C]                  [D9]       [G]/[B]
+Ele vem me buscar e com Ele eu irei
+        [C]                   [D9]    
+Eu não sou daqui, pra casa voltarei
+         [C]                  [D9]    
+Ele vem me buscar e com Ele eu irei
+
+   [C]    [Em]  [D9]
+Yeshu___u___a
+               [Bm7]                 [Em] 
+O Messias aguardado, Ele vem me buscar
+   [C]    [Em]  [D9]
+Yeshu___u___a
+               [Bm7]                 [Em] 
+O Messias aguardado, Ele vem me buscar
+
+Interlúdio: | C6 | Am | Em7 | D |
+
+[Em]                  [D]
+  És adorado entre nós
+[C]                [Am7]
+  Tão desejado aqui
+[Em]                   [D]
+  Mas nada se comparará
+                       [Am7]   [C]    [D]
+Com a glória que há de vir, oh oh oh
+
+        [C]                   [D9]    
+Eu não sou daqui, pra casa voltarei
+         [C]                  [D9] 
+Ele vem me buscar e com Ele eu irei
+        [C]                   [D9]    
+Eu não sou daqui, pra casa voltarei
+         [C]                  [D9]    
+Ele vem me buscar e com Ele eu irei
+
+   [C]    [Em]  [D9]
+Yeshu___u___a
+               [Bm7]                 [Em] 
+O Messias aguardado, Ele vem me buscar
+   [C]    [Em]  [D9]
+Yeshu___u___a
+               [Bm7]                 [Em] 
+O Messias aguardado, Ele vem me buscar
+
+   [Am7]                         [Bm7] 
+Em breve Jesus no céu vai aparecer
+                      [Em]
+E todo joelho se dobrará
+                      [D]
+E toda língua confessará
+
+       Am7              Bm7
+Mas a igreja será arrebatada
+              C             D  
+Num piscar de olhos acontecerá
+       Am7              Bm7
+Mas a igreja será arrebatada
+              C             D  
+Num piscar de olhos acontecerá
+
+   [C]    [Em]  [D9]
+Yeshu___u___a
+  Bm       Em
+Yeshu___u___a
+   [C]    [Em]  [D9]
+Yeshu___u___a
+  Bm       Em
+Yeshu___u___a
+
+        BATERIA 
+Mas a igreja será arrebatada
+Num piscar de olhos acontecerá
+   [Em]   [Am]              [Bm7]
+Mas a igreja será arrebatada
+              C             D  
+Num piscar de olhos acontecerá
+
+   [C]    [Em]  [D9]
+Yeshu___u___a
+               [Bm7]                 [Em] 
+O Messias aguardado, Ele vem me buscar
+   [C]    [Em]  [D9]
+Yeshu___u___a
+               [Bm7]                 [Em] 
+O Messias aguardado, Ele vem me buscar`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
