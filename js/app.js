@@ -948,158 +948,159 @@ Aleluia, aleluia `,
                 id: generateId(),
                 titulo: 'Acende Outra Vez',
                 artista: 'Jefferson e Suellen',
-                tom: 'A',
-                letra: `Intro: |4/4  F#m7  D | A  E | F#m7  D | A  E | 
+                tom: 'E',
+                letra: `Intro: |4/4  [C#m7]  [A] | [E]  [B] | [C#m7]  [A] | [E]  [B] | 
 
-F#m7            D         A  E 
+[C#m7]            [A]        [E]  [B] 
      Ouço um barulho diferente
-F#m7            D        A  E 
+[C#m7]            [A]        [E]  [B] 
      É como um vento veemente
-F#m7                  D             A  E 
+[C#m7]                  [A]            [E]  [B] 
      Eu vejo línguas como o que de fo_go
-F#m7           D          A    
+[C#m7]           [A]          [E] [B]   
      Pousando sobre o ambiente
 
-D
+[A]
   Nós estamos reunidos
-E 
+[B] 
   A casa está preparada
-F#m7
-     Pode soprar o vento
-C#m
-    Reacender a brasa
+[C#m7]
+   Pode soprar o vento
+[G#m]
+   Reacender a brasa
 
-D
+[A]
   Nós estamos reunidos
-E 
+[B] 
   A casa está preparada
-F#m7
-     Pode soprar o vento
-E
-  Reacender a brasa
-
- F#m7  D        A 
+[C#m7]
+   Pode soprar o vento
+[G#m]
+   Reacender a brasa
+   
+[C#m7]  [A]        [E] 
 Me  batiza com fogo
- F#m7        E 
-Reacende a chama em mim
- A/C#  D        A 
+[C#m7] [A]       [E]         [B] 
+Rea__cende a chama em mim
+
+[C#m7]  [A]        [E] 
 Me  batiza com fogo
- F#m7        E 
-Reacende a chama em mim
+[C#m7] [A]       [E]         [B] 
+Rea__cende a chama em mim
 
-Intro: | F#m7  D | A  E |
+Intro: | [C#m7]  [A] | [E]  [B] |
 
-F#m7            D         A  E 
+[C#m7]            [A]        [E]  [B] 
      Ouço um barulho diferente
-F#m7            D        A  E 
+[C#m7]            [A]        [E]  [B] 
      É como um vento veemente
-F#m7                  D             A  E 
+[C#m7]                  [A]            [E]  [B] 
      Eu vejo línguas como o que de fo_go
-F#m7           D          A  E
+[C#m7]           [A]          [E] [B]   
      Pousando sobre o ambiente
 
-D
+[A]
   Nós estamos reunidos
-E 
+[B] 
   A casa está preparada
-F#m7
-     Pode soprar o vento
-C#m
-    Reacender a brasa
+[C#m7]
+   Pode soprar o vento
+[G#m]
+   Reacender a brasa
 
-D
+[A]
   Nós estamos reunidos
-E 
+[B] 
   A casa está preparada
-F#m7
-     Pode soprar o vento
-E
-  Reacender a brasa
+[C#m7]
+   Pode soprar o vento
+[B]
+   Reacender a brasa
 
- F#m7  D        A 
+[C#m7]  [A]        [E] 
 Me  batiza com fogo
- F#m7  D        E 
-Rea___cende a chama em mim
- A/C#  D        A 
+[C#m7] [A]       [E]         [B] 
+Rea__cende a chama em mim
+[C#m7]  [A]        [E] 
 Me  batiza com fogo
- F#m7  D        E 
-Rea___cende a chama em mim
+[C#m7] [A]       [E]         [B] 
+Rea__cende a chama em mim
 
-Interlúdio: | D | E | C#m | F#m7 |
+Interlúdio: | [A] | [B] | [G#m] | [C#m7] |
 
-  D
+  [A]
 Acende outra vez
-      E 
+     [B] 
 Tua chama em nós
-  C#m
+ [G#m]
 Aviva outra vez
-  F#m7
+ [C#m7]
 Aviva outra vez
 
-  D
+  [A]
 Acende outra vez
-      E 
+     [B] 
 Tua chama em nós
-  C#m
+ [G#m]
 Aviva outra vez
-  F#m7
+ [C#m7]
 Aviva outra vez
 
-  D
+  [A]
 Acende outra vez
-      E 
+     [B] 
 Tua chama em nós
-  C#m
+ [G#m]
 Aviva outra vez
-  F#m7
+ [C#m7]
 Aviva outra vez
 
-   D       
+  [A]       
 A nossa geração
-            E 
+           [B] 
 Tem lenha pra queimar
-   C#m
+  [G#m]
 E pode incendiar
-   F#m7
+  [C#m7]
 E vem nos batizar
 
-   D       
+  [A]       
 A nossa geração
-            E 
+           [B] 
 Tem lenha pra queimar
-   C#m
+  [G#m]
 E pode incendiar
-   F#m7
+  [C#m7]
 E vem nos batizar
 
-   D       
+  [A]       
 A nossa geração
-            E 
+           [B] 
 Tem lenha pra queimar
-   C#m
+  [G#m]
 E pode incendiar
-   F#m7
+  [C#m7]
 E vem nos batizar
 
-   D       
+  [A]       
 A nossa geração
-            E 
+           [B] 
 Tem lenha pra queimar
-   C#m
+  [G#m]
 E pode incendiar
-   F#m7
+  [C#m7]
 E vem nos batizar
 
- F#m7  D        A 
+[C#m7]  [A]        [E] 
 Me  batiza com fogo
- F#m7  D        E 
-Rea___cende a chama em mim
- A/C#  D        A 
+[C#m7] [A]       [E]         [B] 
+Rea__cende a chama em mim
+[C#m7]  [A]        [E] 
 Me  batiza com fogo
- F#m7  D        E 
-Rea___cende a chama em mim
+[C#m7] [A]       [E]         [B] 
+Rea__cende a chama em mim
 
-Interlúdio: | D | E | C#m | F#m7 |`,
+Interlúdio: | [A] | [B] | G#m | C#m7 |`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3201,19 +3202,192 @@ E ao primeiro amor voltar`,
             },
             {
                 id: generateId(),
-                titulo: 'Creio que Tu és a Cura',
+                titulo: 'Creio em Ti',
                 artista: 'Gabriela Rocha',
-                tom: 'E',
-                letra: `Intro: |4/4 `,
+                tom: 'F',
+                letra: `Intro: ||:4/4 Dm  C |  A# :| 
+
+     Dm     C             A# 
+Teu sangue faz o surdo ouvir agora
+     Dm      C          A# 
+Teu sangue quebra maldição agora
+     Dm     C         A# 
+Teu sangue cura toda dor agora
+     Dm     C           A#         
+Teu sangue liberta o cativo agora
+
+  Gm         A# 
+E eu creio que
+         F            C/E 
+Tu és o mesmo ontem, hoje e para sempre
+  Gm         A# 
+E eu creio que
+                    F         C/E 
+Teu sangue é o que basta pra mim
+
+     Dm     C           A# 
+Teu sangue sara os corações agora
+     Dm        C          A# 
+Teu sangue me leva a perdoar agora
+     Dm          C             A# 
+Teu sangue transforma a minha mente agora
+     Dm          C        A#          
+Teu sangue faz o morto reviver agora
+
+  Gm         A# 
+E eu creio que
+         F            C/E 
+Tu és o mesmo ontem, hoje e para sempre
+  Gm         A# 
+E eu creio que
+                    F         C/E 
+Teu sangue é o que basta pra mim
+
+  Gm         A# 
+E eu creio que
+         F            C/E 
+Tu és o mesmo ontem, hoje e para sempre
+  Gm         A# 
+E eu creio que
+                    F         C/E 
+Teu sangue é o que basta pra mim
+
+        A#         C 
+Não há nada que resista ao Teu poder
+       A#                     C 
+Nem pecado, nem o mal, livre sou
+
+        A#         C 
+Não há nada que resista ao Teu poder
+      A#/D                   C/E 
+Nem pecado, nem o mal, livre sou
+
+        A#         C 
+Não há nada que resista ao Teu poder
+       A#                     C 
+Nem pecado, nem o mal, livre sou
+
+        A#         C 
+Não há nada que resista ao Teu poder
+      A#/D                   C/E 
+Nem pecado, nem o mal, livre sou
+
+  A#         C 
+Não há nada que resista ao Teu poder
+       A#                     C 
+Nem pecado, nem o mal, livre sou
+
+  Gm         A# 
+E eu creio que
+         F            C/E 
+Tu és o mesmo ontem, hoje e para sempre
+  Gm         A# 
+E eu creio que
+                    F         C/E 
+Teu sangue é o que basta pra mim
+
+  Gm         A# 
+E eu creio que
+         F            C/E 
+Tu és o mesmo ontem, hoje e para sempre
+  Gm         A# 
+E eu creio que
+                    F         C/E 
+Teu sangue é o que basta pra mim`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
             {
                 id: generateId(),
-                titulo: 'Creio em Ti',
+                titulo: 'Creio que Tu és a Cura',
                 artista: 'Gabriela Rocha',
-                tom: 'F',
-                letra: `Intro: |4/4 `,
+                tom: 'E',
+                letra: `Intro: ||:4/4 E | E A9 | C#m7 | C#m A9 :||
+
+      E
+Me escutas quando clamo
+    A9      B4     E
+E acalma o meu pensar
+          B4/D#  C#m7
+Me levas pelo   fogo
+   A9             B4
+Curando todo meu ser
+    F#m7(11)  E/G#  A9 
+Confio        em   Ti
+    F#m7(11)  A9  B4
+Confio        em Ti
+
+E
+  Creio que Tu és a cura
+C#m7                    B4   A9  
+     Creio que és tudo para mim
+E
+  Creio que tu és a vida
+C#m7                           B4    A9  B4
+     Creio que não há outro igual a Ti
+   A9/C#      B/D#    E
+Jesus, eu preciso de Ti
+
+      E
+Me escutas quando clamo
+    A9      B4     E
+E acalma o meu pensar
+          B4/D#  C#m7
+Me levas pelo   fogo
+   A9             B4
+Curando todo meu ser
+    F#m7(11)  E/G#  A9 
+Confio        em   Ti
+    F#m7(11)  A9  B4
+Confio        em Ti
+
+E
+  Creio que Tu és a cura
+C#m7                    B4   A9  B4  A9/C#  B/D#
+     Creio que és tudo para mim
+E
+  Creio que tu és a vida
+C#m7                           B4    A9  B4
+     Creio que não há outro igual a Ti
+   A9/C#      B/D#    A9  B4 
+Jesus, eu preciso de Ti
+     A9/C#      B/D#  A9
+Não há outro igual a ti
+
+ C#m7  B/D#  E
+Nada é impossível para Ti
+ C#m7  B/D#  E
+Nada é impossível
+ C#m7  B/D#  E          A9
+Nada é impossível para Ti
+                          B4
+Tens o meu mundo em tuas mãos     
+
+ C#m7  B/D#  E
+Nada é impossível para Ti
+ C#m7  B/D#  E
+Nada é impossível
+ C#m7  B/D#  E     E/G#  A9
+Nada é impossível para  Ti   
+     C#m                  B
+Tens o meu mundo em tuas mãos
+
+E
+  Creio que Tu és a cura
+C#m7                    B4   A9  B4
+     Creio que és tudo para mim
+    A9/C#      B/D#
+(Jesus, eu preciso de Ti)
+E
+  Creio que tu és a vida
+C#m7                           B4    A9  B9
+     Creio que não há outro igual a Ti
+   A9/C#      B/D#    A9  B4 
+Jesus, eu preciso de Ti
+     A9/C#      B/D#  F#m7  E/G#
+Não há outro igual a ti
+   A9         B4      A9  E
+Jesus, eu preciso de Ti`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3222,7 +3396,91 @@ E ao primeiro amor voltar`,
                 titulo: 'Dançar na Chuva',
                 artista: 'Fernandinho',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 [Dm7] | [G#] [G] [Fm] [G] [G#] [G] :||
+
+[D]
+ Novo caminho para andar
+Um novo sonho pra sonhar
+                   [G]       [D]  [D4] [D]
+O deserto não é o meu lugar
+[D]
+ Nova vida, Ele prometeu
+A todo aquele que Nele crê
+                        [G]
+O mar a nossa frente se abrirá
+
+[D]                  [A]/[C#]
+ Nova criatura, eu sou
+                    [Bm]
+O velho homem já morreu
+                   [A]
+Vou dançar naquela terra
+              [G]
+Que Ele prometeu
+   [D]/[F#]     [Em]  [A]
+Eu vou,  eu vou
+
+[D]                  [A]/[C#]
+ Nova criatura, eu sou
+                    [Bm]
+O velho homem já morreu
+                   [A]
+Vou dançar naquela terra
+              [G]
+Que Ele prometeu
+   [D]/[F#]     [Em]  [A]
+Eu vou,  eu vou
+
+                      Riff [B] [B] [C#] [D] [B] [B] [C#] [D]
+Eu vou dançar na chuva
+
+Eu vou dançar na chuva
+                       
+Eu vou dançar na chuva
+
+Intro: |:4/4 [Dm7] | [G#] [G] [Fm] [G] [G#] [G] :||
+
+[D]
+ Novo caminho para andar
+Um novo sonho pra sonhar
+                   [G]       [D]  [D4] [D]
+O deserto não é o meu lugar
+[D]
+ Nova vida, Ele prometeu
+A todo aquele que Nele crê
+                        [G]
+O mar a nossa frente se abrirá
+
+[D]                  [A]/[C#]
+ Nova criatura, eu sou
+                    [Bm]
+O velho homem já morreu
+                   [A]
+Vou dançar naquela terra
+              [G]
+Que Ele prometeu
+   [D]/[F#]     [Em]  [A]
+Eu vou,  eu vou
+
+[D]                  [A]/[C#]
+ Nova criatura, eu sou
+                    [Bm]
+O velho homem já morreu
+                   [A]
+Vou dançar naquela terra
+              [G]
+Que Ele prometeu
+   [D]/[F#]     [Em]  [A]
+Eu vou,  eu vou
+
+                      Riff [B] [B] [C#] [D] [B] [B] [C#] [D]
+Eu vou dançar na chuva
+
+Eu vou dançar na chuva
+                       
+Eu vou dançar na chuva
+
+Intro: |:4/4 [Dm7] | [G#] [G] [Fm] [G] [G#] [G] :||`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3231,7 +3489,49 @@ E ao primeiro amor voltar`,
                 titulo: 'Deus Eterno',
                 artista: 'Oficina G3',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [G7+] [A#°] | [Bm] [Bm7] | [Em] [D]/[F#] [G] [A] | [A#°] | 
+
+   [D]                   [A]/[C#]       [Bm]
+Ó Deus tú és o meu Deus forte e a minha fortaleza
+                [Em7]     [A]  [Bm]  [A]/[C#] [F#alt]
+A minh'alma tem sede de ti Senhor
+     [D]         [A]/[C#]      [Bm]          [Bm]/[A]
+Com júbilo nos lábios te louvo ó meu rei
+                [G7+]  [Bm]/[F#]            [Em7]  [A]  [A]/[C#]
+Debaixo de tuas asas    encontro abrigo
+
+   [D]                   [A]/[C#]       [Bm]
+Ó Deus tú és o meu Deus forte e a minha fortaleza
+                [Em7]     [A]  [Bm]  [A]/[C#] [F#alt]
+A minh'alma tem sede de ti Senhor
+     [D]         [A]/[C#]      [Bm]          [Bm]/[A]
+Com júbilo nos lábios te louvo ó meu rei
+                [G7+]  [Bm]/[F#]            [Em7]  [A]  [A]/[C#]
+Debaixo de tuas asas    encontro abrigo
+
+[G]            [A]        [F#]/[A#]            [Bm]
+ Te louvo e te bendigo,  porque és bendito
+[A]    [G]        [A]           [Bm]
+Ó Senhor glórias ao Deus eterno
+
+[G]             [A]         [F#]/[A#]           [Bm]
+ Te louvo, eu te bendigo,   porque és comigo
+[A]     [G]       [A]           [Bm]
+Ó Senhor glórias ao Deus eterno
+
+[G]            [A]        [F#]/[A#]            [Bm]
+ Te louvo e te bendigo,  porque és bendito
+[A]    [G]        [A]           
+Ó Senhor glórias ao Deus 
+
+ [D]       [Bm]              [Em7]
+Eterno, Eterno, ao Deus eterno
+[A]  [Bm]   [A]/[C#]         
+Gló____órias ao Deus
+  D       Bm              Em7
+Eterno, Eterno, ao Deus eterno
+A  Bm   A/C#           D
+Gló____órias ao Deus eterno`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3240,7 +3540,58 @@ E ao primeiro amor voltar`,
                 titulo: 'Deus Fiel',
                 artista: 'Gateway Worship',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4  [Em7]   [D]/[F#] |  [G9] || [Em7]   [D]/[F#] | [C9] || 
+
+Em7         D/F#      G
+ Vens quando eu Te chamar
+Em7   D/F#        G
+ Toda vez que eu chorar
+Em7     D/F#       G                   C9   D9
+ Minhas lágrimas serão colhidas por um Deus fiel
+ 
+Em7       D/F#      G
+ Então eu vou Te chamar
+Em7      D/F#       G
+ Em Teus braços me lançar
+Em7    D/F#   G                   C9     D9
+ Mesmo sem enxergar, confio em um Deus fiel.
+
+Em7  D/F# G                      C9
+ Deus fi__el, minha vida está em Ti
+                D9
+ meus dias em Tuas mãos
+Em7 D/F# G                      C9            D9
+ Po_sso crer, meu Deus é o fogo que me defenderá
+     Em7 D/F# G Em7  D/F# C
+ Deus fiel      Deus fiel.
+
+Em7   D/F#   G   Em7  D/F#      G
+ Hoje podes curar e demônios expulsar
+Em7     D/F#      G                  C9   D9 D4
+ se eu apenas confiar no poder de um Deus fiel
+
+Em7       D/F#    G   Em7    D/F#          G
+ Louvarei até chegar o dia que o Senhor virá
+Em7   D/F#    G                C9   D9 D4
+ o inimigo cairá diante do meu Deus fiel.   Refrão
+
+ C9            Em7          D/F#         G   G/B
+  Eu sei Tu és meu e eu sou Teu, eu sou Teu
+ C9              Em7         D/F#      Em7 D/F# | G | Em7 D/F# | C |
+  Eu sei que és fiel para sempre e sempre      
+Em7  D/F# G                      C9
+ Deus fi__el, minha vida está em Ti
+                D9
+ meus dias em Tuas mãos
+Em7 D/F# G                      C9            D9
+ Po_sso crer, meu Deus é o fogo que me defenderá
+      Em7 D/F# G Em7  D/F# C
+ Deus fiel   
+ 
+C9            D          Em7         D/F#
+ Meu Deus é fiel, Tu és fiel, Tu és fiel  (5x)
+
+Final: || Em7  D/F# | G || Em D/F# | C9||`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3249,7 +3600,80 @@ E ao primeiro amor voltar`,
                 titulo: 'Deus me Ama',
                 artista: 'Thalles Roberto',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 C9 |  Bb7+ :||
+
+
+ C9                             
+Mesmo sendo assim pobre e pecador 
+     F9
+Deus me ama
+ C9             
+Mesmo sendo falho, mesmo sem merecer 
+     F9
+Deus me ama
+ C9                 
+Se eu estou forte, se eu estou de pé 
+     F9
+Deus me ama
+ C9
+Se eu estou fraco, se eu estou caído
+         F9
+Ele não deixa de me amar
+
+ C9
+Sem o seu amor, sem o seu perdão
+         F9
+O que seria de mim
+ C9
+Deus me amou tanto que entregou seu filho
+        F9
+Pra morrer em meu lugar
+
+ C9
+Deus me ama
+        F9
+O seu amor é tão grande, incondicional
+ C9
+Deus me ama
+            F9
+E ele esta sempre de braços abertos pra mim
+
+Intro: ||:4/4 C9 |  Bb7+ :||
+
+ C9                             
+Mesmo sendo assim pobre e pecador 
+     F9
+Deus me ama
+ C9             
+Mesmo sendo falho, mesmo sem merecer 
+     F9
+Deus me ama
+ C9                 
+Se eu estou forte, se eu estou de pé 
+     F9
+Deus me ama
+ C9
+Se eu estou fraco, se eu estou caído
+         F9
+Ele não deixa de me amar
+
+ C9
+Sem o seu amor, sem o seu perdão
+         F9
+O que seria de mim
+ C9
+Deus me amou tanto que entregou seu filho
+        F9
+Pra morrer em meu lugar
+
+ C9
+Deus me ama
+        F9
+O seu amor é tão grande, incondicional
+ C9
+Deus me ama
+            F9
+E ele esta sempre de braços abertos pra mim`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3258,7 +3682,28 @@ E ao primeiro amor voltar`,
                 titulo: 'Deus tem o Melhor pra Mim',
                 artista: 'Fernandinho',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 [D] [A] | [E] :||
+                
+[D]             [A]        [E]
+Deus tem o melhor pra mim
+[D]             [A]        [E]
+Deus tem o melhor pra mim
+[D]           [A]    [E]
+E o que perdido foi
+          [D]           [F#m]        [E]
+Não se comparam com o que há de vir
+
+
+[D]             [A]        [E]
+Deus tem o melhor pra mim
+[D]             [A]        [E]
+Deus tem o melhor pra mim
+[D]           [A]    [E]
+E o que perdido foi
+          [D]           [F#m]        [E]
+Não se comparam com o que há de vir
+          [D]           [F#m]        [E]
+Não se comparam com o que há de vir`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3267,7 +3712,69 @@ E ao primeiro amor voltar`,
                 titulo: 'Deus Vem Me Socorrer ',
                 artista: 'Bruna Karla',
                 tom: 'Eb',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||4/4  [G#] | [A#] | [G#] | [A#] | [G#] | [A#] || [Fm]  [D#]/[G] | [G#] |
+
+[Cm]            [G#]                [Fm]
+  O sol já se pôs, a dor não se foi
+               [Cm]
+O que é que eu vou fazer
+[Cm]             [G#]               [Fm]
+  Cansei de chorar, cansei de sofrer
+               [D#4]     [D#]    [Bb]/[D]       [Cm]
+Eu quero ver o sol brilhar trazendo esperança
+[Fm]           [G4]  [G]
+Para o meu viver
+[Cm]                  [Cm]/[A#]
+Deus vem me socorrer, estende a Tua mão
+[Fm]                     [G4]       [G]
+Derrama azeite em mim, sara meu coração
+[Cm]                  [Cm]/[A#]
+Deus faz-me reviver, em meio à provação
+  [Fm]
+Revela o teu poder a mim
+    G4              G        || [G#] | [A#] | [G#] | [A#] ||
+O milagre que eu preciso está em Ti
+
+[Cm]            [G#]                [Fm]
+  O sol já se pôs, a dor não se foi
+               [Cm]
+O que é que eu vou fazer
+[Cm]             [G#]               [Fm]
+  Cansei de chorar, cansei de sofrer
+               [D#4]     [D#]    [Bb]/[D]       [Cm]
+Eu quero ver o sol brilhar trazendo esperança
+[Fm]           [G4]  [G]
+Para o meu viver
+[Cm]                  [Cm]/[A#]
+Deus vem me socorrer, estende a Tua mão
+[Fm]                     [G4]       [G]
+Derrama azeite em mim, sara meu coração
+[Cm]                  [Cm]/[A#]
+Deus faz-me reviver, em meio à provação
+  [Fm]
+Revela o teu poder a mim
+    G4              G        || [G#] | [A#] | [G#] | [A#] || [A#] [G#] [Gm] [Fm] ||
+O milagre que eu preciso está em Ti
+
+        [Fm]                     [D#] [A#]
+Sim eu sei que o meu Redentor vi__ve
+      [Fm]         [D#]/[G]       [G#]         [G4]      [G]
+E por minha causa se levantará, Oh  Oh  Oh  Oh  Oh  Oh
+
+[Cm]
+Filho estou aqui
+[Cm]/[A#]
+Estendo a minha mão
+[Fm]
+Eu vim cuidar de ti
+[G4]        [G]
+Sarar teu coração
+[Cm]            [Cm]/[A#]
+Te faço reviver em meio à provação
+[Fm]
+Sinta agora o Meu poder
+      G4            G          | G# | A# | G# | A# | Cm ||
+Se precisas de um milagre estou aqui`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
