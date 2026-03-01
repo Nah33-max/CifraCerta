@@ -959,13 +959,13 @@ Aleluia, aleluia `,
                 tom: 'E',
                 letra: `Intro: ||:4/4  [C#m7]  [A] | [E]  [B] :|| 
 
-[C#m7]            [A]        [E]  [B] 
+[C#m7]           [A]        [E]  [B] 
      Ouço um barulho diferente
-[C#m7]            [A]        [E]  [B] 
+[C#m7]           [A]        [E]  [B] 
      É como um vento veemente
-[C#m7]                  [A]            [E]  [B] 
+[C#m7]                 [A]            [E]  [B] 
      Eu vejo línguas como o que de fo_go
-[C#m7]           [A]          [E] [B]   
+[C#m7]          [A]           [E] [B]   
      Pousando sobre o ambiente
 
 [A]
@@ -1109,7 +1109,7 @@ Me  batiza com fogo
 Rea__cende a chama em mim
 
 Interlúdio: | [A] | [B] | [G#m] | [C#m7] |`,
-                favorite: false,
+                favorite: true,
                 createdAt: Date.now() - 172200000
             },
             {
@@ -2546,7 +2546,7 @@ Não há outro como Tu
 Reinas sobre a terra e céu
      [G#m]
 Pra sempre`,
-                favorite: false,
+                favorite: true,
                 createdAt: Date.now() - 172200000
             },
             
@@ -2840,7 +2840,7 @@ A honra, a glória, a força e o poder
 Ao rei Jesus
         [Bm]  [A]     [G]   [D]/[F#]    [E]
 E o louvor,   ao rei,      Jesus`,
-                favorite: false,
+                favorite: true,
                 createdAt: Date.now() - 172200000
             },
             {
@@ -4782,7 +4782,7 @@ O Deus do impossível`,
                 id: generateId(),
                 titulo: 'Pode Morar Aqui',
                 artista: 'Theo Rubia',
-                tom: 'A',
+                tom: 'C',
                 letra: `Intro: |4/4 [C] |
                 
 [C]                          [Am7]
@@ -4947,7 +4947,7 @@ Mara___na_ta
     Pode morar aqui
 [Em] 
    Pode morar aqui`,
-                favorite: false,
+                favorite: true,
                 createdAt: Date.now() - 172200000
             },
             {
@@ -5911,7 +5911,7 @@ O Messias aguardado, Ele vem me buscar
 Yeshu___u___a
                [Bm7]                 [Em] 
 O Messias aguardado, Ele vem me buscar`,
-                favorite: false,
+                favorite: true,
                 createdAt: Date.now() - 172200000
             },
             {
