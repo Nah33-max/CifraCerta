@@ -957,7 +957,7 @@ Aleluia, aleluia `,
                 titulo: 'Acende Outra Vez',
                 artista: 'Jefferson e Suellen',
                 tom: 'E',
-                letra: `Intro: |4/4  [C#m7]  [A] | [E]  [B] | [C#m7]  [A] | [E]  [B] | 
+                letra: `Intro: ||:4/4  [C#m7]  [A] | [E]  [B] :|| 
 
 [C#m7]            [A]        [E]  [B] 
      Ouço um barulho diferente
@@ -1108,7 +1108,7 @@ Me  batiza com fogo
 [C#m7] [A]       [E]         [B] 
 Rea__cende a chama em mim
 
-Interlúdio: | [A] | [B] | G#m | C#m7 |`,
+Interlúdio: | [A] | [B] | [G#m] | [C#m7] |`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
