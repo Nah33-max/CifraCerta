@@ -6037,7 +6037,54 @@ Deus te dá escape e livramento`,
                 titulo: 'Estás Comigo',
                 artista: 'Gabriela Rocha',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 A | E/G# |F#m | D9 |
+
+ A    E/G#    Fº  F#m          A/C#
+Fiel, constante,   tão cheio de amor
+ D9
+Tão poderoso meu senhor,
+ A            E/G#  Fº
+Me abraça, me sondas
+ F#m         A/C#
+Conheces meu andar
+D
+E gostas de me ouvir cantar
+A                        E/G#               Fº
+Eu sei que estás comigo, eu sei que estás comigo
+F#m                A/C#     D
+Eu sei que não me deixas sozinha em minhas lutas
+A                       E/G#         Fº     F#m  A/C#
+Eu sei que vens agora para gravar em meu coração
+  D
+Que Tu és, és minha salvação
+
+( A  E/G# F#m D )
+
+  A       E/G#         F#m        D
+Gracioso, bondoso, misericordioso, Tu és maravilhoso
+ A         E/G#
+Me abraça, me sondas
+ F#m
+Conheces meu andar
+D
+E gostas de me ouvir cantar
+
+A                        E/G#
+Eu sei que estás comigo, eu sei que estás comigo
+F#m                       D
+Eu sei que não me deixas sozinha em minhas lutas
+A                     E/G#               F#m
+Eu sei que vens agora para gravar em meu coração
+  D
+Que Tu és
+A                        E/G#
+Eu sei que estás comigo, eu sei que estás comigo
+F#m                       D
+Eu sei que não me deixas sozinha em minhas lutas
+A                     E/G#               F#m
+Eu sei que vens agora para gravar em meu coração
+  D                         A
+Que Tu és, és minha salvação`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6046,7 +6093,77 @@ Deus te dá escape e livramento`,
                 titulo: 'Estrela da Manhã',
                 artista: 'Marcos Góes',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 C | G/B | Am | G | F7+ C/E | Dm G |
+C            G/B         Am7  C B° Gm C/E
+És a nossa estrela da manhã
+   F7+         C/E              Dm7  G7(4)
+Cordeiro Santo que nos trouxe a paz
+C            G    Am7           C
+Em Tuas mãos está todo o vencer
+    F+7          C/E          Dm7  G7
+Resposta a todo aquele que clamar
+    E/G#                          Am7  D/F#
+A verdade é Tua palavra que não pode mentir
+    Dm7    C/E    F/G
+Por isso estamos aqui
+
+C            G/B         Am   C B° Gm C/E
+És a nossa estrela da manhã
+   F7+         C/E              Dm7  G7(4)
+Cordeiro Santo que nos trouxe a paz
+C            G    Am7           C
+Em Tuas mãos está todo o vencer
+    F+7          C/E          Dm7  G7
+Resposta a todo aquele que clamar
+    E/G#                          Am7  D/F#
+A verdade é Tua palavra que não pode mentir
+    Dm7    C/E    G   E
+Por isso estamos aqui
+
+A                  D
+ Te louvamos oh Senhor
+E                  A   D/F# E/G#
+ Pelo Teu imenso amor
+A                   D A/C# Bm
+Manifesta o Teu perdão e poder
+E/G#            C#m7  F#m7      Bm7   D/E
+   E assim vamos Te adorar para sempre
+     E              A    G
+Para sempre oh meu Deus
+
+C            G/B         Am   C B° Gm C/E
+És a nossa estrela da manhã
+   F7+         C/E              Dm7  G7(4)
+Cordeiro Santo que nos trouxe a paz
+C            G    Am7           C
+Em Tuas mãos está todo o vencer
+    F+7          C/E          Dm7  G7
+Resposta a todo aquele que clamar
+    E/G#                          Am7  D/F#
+A verdade é Tua palavra que não pode mentir
+    Dm7    C/E    G   E
+Por isso estamos aqui
+
+A                  D
+ Te louvamos oh Senhor
+E                  A   D/F# E/G#
+ Pelo Teu imenso amor
+A                   D A/C# Bm
+Manifesta o Teu perdão e poder
+E/G#            C#m7  F#m7      Bm7   D/E
+   E assim vamos Te adorar para sempre
+     E              A    D/F# E/G#
+Para sempre oh meu Deus
+A                  D
+ Te louvamos oh Senhor
+E                  A   D/F# E/G#
+ Pelo Teu imenso amor
+A                   D A/C# Bm
+Manifesta o Teu perdão e poder
+E/G#            C#m7  F#m7      Bm7   D/E
+   E assim vamos Te adorar para sempre
+     E              A  
+Para sempre oh meu Deus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6055,7 +6172,64 @@ Deus te dá escape e livramento`,
                 titulo: 'Eternidade',
                 artista: 'Aline Barros',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Bb9  Dm | C | Bb9  Dm | C |
+
+Dm                  F   Dm                F
+Até onde vai o Teu amor? Será que tem um fim?
+Dm                  F  Dm              F 
+E onde foi que começou   o Teu amor por mim?
+Bb9                     F
+Antes do início, Tu já eras o amor
+       Dm                            C
+E esse amor que não tem fim naquela cruz me eternizou
+   Bb9                    F
+O céu tem uma altura e o fundo do mar tem fim
+        Dm                   C           Bb9  Dm    C
+Mas não haverá limites esse teu amor por mim (ooh, ooh)
+
+         F             Bb9          Dm            C
+De eternidade em eternidade Deus me ama, Deus me ama
+         F/A           Bb9          Dm            C
+De eternidade em eternidade Deus me ama, Deus me ama
+
+( Bb9  Dm  C  Bb  Dm  C )
+
+Bb9                     F
+Antes do início, Tu já eras o amor
+       Dm                            C
+E esse amor que não tem fim naquela cruz me eternizou
+   Bb9                    F
+O céu tem uma altura e o fundo do mar tem fim
+        Dm                   C           Bb9  Dm    C
+Mas não haverá limites esse Teu amor por mim (ooh, ooh)
+
+         F             Bb9          Dm            C
+De eternidade em eternidade Deus me ama, Deus me ama
+         F/A           Bb9          Dm            C
+De eternidade em eternidade Deus me ama, Deus me ama
+(Ele me ama)
+
+  F/A                         Bb9   
+E não me amas mais, por tudo que já acertei
+  Dm                        C
+E nem me amas menos, pelas vezes que errei
+ F/A                            Bb9
+Antes do início e até depois do fim, vais me amar
+Dm                           C                    Bb9   Dm    C
+Estou bem certo de que nada irá me separar do Teu amor (ooh, ooh)
+       Bb9    Dm   C
+Do Teu amor (ooh, ooh), Senhor
+       Bb9          Dm            C 
+Do Teu amor, do Teu amor, do Teu amor
+       Bb9    Dm   C
+Do Teu amor (ooh, ooh)
+
+          F            Bb9          Dm            C
+De eternidade em eternidade Deus me ama, Deus me ama
+         F/A           Bb9          Dm            C
+De eternidade em eternidade Deus me ama, Deus me ama
+          Bb9  Dm   C        Bb9   Dm    C
+(Deus me ama) ooh, ooh`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
