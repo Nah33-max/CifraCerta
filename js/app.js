@@ -5168,7 +5168,115 @@ Em Teus braços é meu descanso`,
                 titulo: 'Em Tua Presença',
                 artista: 'Nívea Soares',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 G | % | C9 | % | Am7 | Em7 | C9 | % |
+
+           G           C9
+Eu quero estar neste lugar
+          Am7             
+Onde o pecado é perdoado 
+      Em7               C9
+E as culpas são levadas
+            G           C9
+Eu quero estar neste lugar
+         Am7           
+Onde o amor não se esfrie 
+     Em7              C9
+E o fogo não se apague
+
+           Am7      Em7   G  D4  D
+Em Tua presença Senhor Jesus
+           Am7      Em7   G
+Em Tua presença Senhor Jesus
+
+         C9    Am7   
+Santo Espírito
+       Em7           D
+Eu me rendo ao Teu agir
+       C9    Am7   
+Meu anseio é
+        Em7         D
+Permanecer em Teu amor
+
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+
+[Solo] |: C9 | Am7 | Em7 | D9 :|
+
+            G           C9
+Eu quero estar neste lugar
+          Am7               
+Onde o poder não me corrompa
+    Em7             C9
+Riquezas não me ceguem
+            G           C9
+Eu quero estar neste lugar
+        Am7            
+Onde o mundo não me atraia
+    Em7             C9
+Paixões não me seduzam
+
+           Am7      Em7   G  D
+Em Tua presença Senhor Jesus
+           Am7      Em7   G
+Em Tua presença Senhor Jesus
+
+         C9   Am7       Em7           D
+Santo Espírito,  eu me rendo ao Teu agir
+       C9    Am7      Em7         D
+Meu anseio é, permanecer em Teu amor
+
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+
+[Solo 2] |: C9 | Am7 | Em7 | D9 :|
+
+         C9    Am7   
+Santo Espírito
+       Em7           D
+Eu me rendo ao Teu agir
+       C9    Am7   
+Meu anseio é
+        Em7         D
+Permanecer em Teu amor
+
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença
+           C9       Am7
+Em Tua presença Senhor
+           Em7  D
+Em Tua presença`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5177,7 +5285,40 @@ Em Teus braços é meu descanso`,
                 titulo: 'Em Espírito, Em Verdade',
                 artista: 'Lukas Agustinho',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [E] |
+
+      E             B/D#
+Em Espírito, em verdade
+       A9        E
+Te adoramos,     Te adoramos
+      E             B/D#
+Em Espírito, em verdade
+       A9        E              B/D#
+Te adoramos,     Te adoramos
+
+        C#m  G#m         A9   E/G#
+Rei do reis        e Senhor
+         F#m   B       E  B/D#
+Te entregamos nosso viver
+        C#m  G#m         A9   E/G#
+Rei do reis        e Senhor
+        F#m7  A9       B9
+Te entregamos nosso viver
+
+           A9      C#m      B9
+Pra Te adorar, oh rei dos reis
+               A9   C#m      B9
+Foi que eu nasci, ó rei Jesus
+        E/G#        C#m
+Meu prazer é te louvar
+        G#m      A9
+Meu prazer é estar
+    B9            E
+Nos átrios do Senhor
+        B/D#    C#m    G#m     A9
+Meu prazer é viver na casa de Deus
+       B9     E
+Onde flui o amor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5186,7 +5327,138 @@ Em Teus braços é meu descanso`,
                 titulo: 'Emanuel',
                 artista: 'Isaías Saad',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 F | % | Gm | Dm | Dm C :|
+
+         F              
+Perto está Sua voz ecoa 
+            Gm      Dm
+Eu sei que perto está
+Mesmo em meio à tempestade 
+   C     F
+Em alto mar
+
+Sobre as águas vem andando 
+ Gm       Dm
+Me encontrar
+
+    A#                
+Enquanto o vento sopra 
+     Dm         C
+E as águas de agitam
+      A#                C
+Meus pés dançam tua canção
+   A#              
+O seu amor perfeito  
+Dm           C
+Afogou meus medos
+    A#       
+E agora posso 
+                C
+Olhar só pra você
+
+     A#   
+Emanuel  
+             Dm
+Nunca me deixou
+     A#   
+Emanuel  
+               Dm  C
+Deus comigo está
+
+Intro: | F | % | Gm | Dm | Dm C |
+
+ C       F              
+Perto está Sua voz ecoa 
+            Gm      Dm
+Eu sei que perto está
+
+Mesmo em meio à tempestade 
+   C     F
+Em alto mar
+
+Sobre as águas vem andando 
+ Gm       Dm
+Me encontrar
+
+    A#                
+Enquanto o vento sopra 
+     Dm         C
+E as águas de agitam
+      A#                C
+Meus pés dançam tua canção
+   A#              
+O seu amor perfeito  
+Dm           C
+Afogou meus medos
+    A#       
+E agora posso 
+                C
+Olhar só pra você
+
+     A#   
+Emanuel  
+             Dm
+Nunca me deixou
+     A#   
+Emanuel  
+               Dm  C
+Deus comigo está
+
+A#
+  Nos meus piores medos 
+Gm
+  Fraquezas e anseios
+Dm
+  Você comigo está  
+C
+  Você comigo está
+A#
+  Quando eu não te enxergo  
+Gm
+  Eu sei que está por perto
+Dm
+  Nunca me deixará   
+C
+  Nunca me deixará
+
+     A#   
+Emanuel  
+             Dm
+Nunca me deixou
+     A#   
+Emanuel  
+               Dm  C
+Deus comigo está
+
+[Ponte]
+
+A#
+  Nos meus piores medos 
+Gm
+  Fraquezas e anseios
+Dm
+  Você comigo está  
+C
+  Você comigo está
+A#
+  Quando eu não te enxergo  
+Gm
+  Eu sei que está por perto
+Dm
+  Nunca me deixará   
+C
+  Nunca me deixará
+
+[Refrão]
+
+     A#   
+Emanuel  
+             Dm
+Nunca me deixou
+     A#   
+Emanuel  
+               Dm
+Deus comigo está`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5195,7 +5467,82 @@ Em Teus braços é meu descanso`,
                 titulo: 'Emanuel',
                 artista: 'Fernandinho',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 E | B | C#m | A :|
+
+    E          B                C#m A
+Deixou a Sua glória para estar comigo
+    E          B             C#m A
+Morreu numa cruz para estar comigo
+
+E         B               G#m  A
+Venceu o diabo para estar comigo
+E          B                E   B D A
+O véu se rasgou para estar comigo
+
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+
+     E        B       G#m  A
+Emanuel, Emanuel, Emanuel
+     E        B       G#m  A
+Emanuel, Emanuel, Emanuel
+
+Intro: |: E | B | C#m | A :|
+
+    E          B                C#m A
+Deixou a Sua glória para estar comigo
+    E          B             C#m A
+Morreu numa cruz para estar comigo
+
+E         B               G#m  A
+Venceu o diabo para estar comigo
+E          B                 E  B  D  A
+O véu se rasgou para estar comigo
+
+     E        B       G#m  A
+Emanuel, Emanuel, Emanuel
+     E        B       G#m  A
+Emanuel, Emanuel, Emanuel
+
+Interlúdio: |: E | B | C#m | A :|
+
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+   E                B
+Maravilhoso, Conselheiro, Deus forte
+G#m          A
+Príncipe da paz
+
+     E        B       G#m  A
+Emanuel, Emanuel, Emanuel
+     E        B       G#m  A
+Emanuel, Emanuel, Emanuel
+
+[Final] | E | B | C#m | A |`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5204,7 +5551,229 @@ Em Teus braços é meu descanso`,
                 titulo: 'Enche-me',
                 artista: 'Isaías Saad',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 F |
+
+             Dm  F
+Tu provês o fogo
+              Dm       F
+E eu, o sacrifício sou
+               Dm    F
+Tu provês o Espírito
+               A#
+Me abro por inteiro
+
+       Dm
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+             Dm  F
+Tu provês o fogo
+              Dm       F
+E eu, o sacrifício sou
+               Dm    F
+Tu provês o Espírito
+               A#
+Me abro por inteiro
+
+       Dm
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me
+      A#
+Até transbordar
+                F
+Derrama a Sua glória
+                C
+Derrama a Sua glória
+
+       Dm
+Enche-me
+      A#
+Até transbordar
+                F/C
+Derrama a Sua glória
+                C
+Derrama a Sua glória
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me
+      A#
+Até transbordar
+                F
+Derrama a Sua glória
+                C
+Derrama a Sua glória
+
+       Dm
+Enche-me
+      A#
+Até transbordar
+                F/C
+Derrama a Sua glória
+                C
+Derrama a Sua glória
+
+Enche-me
+
+Até transbordar
+
+Derrama a Sua glória
+
+Derrama a Sua glória
+
+Enche-me
+
+Até transbordar
+                F/C 
+Derrama a Sua glória
+                C/E
+Derrama a Sua glória
+
+       Dm
+Enche-me
+      A#
+Até transbordar
+                F
+Derrama a Sua glória
+                C
+Derrama a Sua glória
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me
+
+       Dm
+Enche-me, Deus
+       A#
+Enche-me, Deus
+       F
+Enche-me, Deus
+       C
+Enche-me`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5213,7 +5782,59 @@ Em Teus braços é meu descanso`,
                 titulo: 'Entrega',
                 artista: 'Vineyard',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [G] |
+
+[G]                 [D]
+  Te dou meu coração
+                  [C]
+E tudo que há em mim
+             [Em7]
+Entrego meu viver
+         [D]/[F#]       [G]
+Por amor a ti, meu rei!
+                     [D]
+Meus sonhos rendo a ti
+                 [C]
+E meus direitos dou
+                  [Em7]
+O orgulho vou trocar
+      [D]/[F#]     [G]  [D]/[F#]
+Pela vida do senhor
+
+  [Em7]  [D]/[F#]   [G]    [C]      [G]
+E eu      entrego tudo a ti
+ [Em7]    [D]  [C]
+Tudo a ti
+  [Em7]  [D]/[F#]   [G]    [C]      [G]
+E eu      entrego tudo a ti
+ [Em7]    [D]  [C]
+Tudo a ti
+
+[G]               [D]
+ Eu canto esta canção
+                  [C]
+De entrega a ti, Jesus
+                 [Em7]
+E o que o mundo dá
+          [D]/[F#]        [G]
+Eu deixo aos pés da cruz
+             [D]
+Por conhecer a ti
+                [C]
+A teu nome dar louvor
+                [Em7]
+Sentir tua alegria
+             [D]/[F#]  [G]
+Partilhando tua   dor
+
+  [Em7]  [D]/[F#]   [G]    [C]      [G]
+E eu      entrego tudo a ti
+ [Em7]    [D]  [C]
+Tudo a ti
+  [Em7]  [D]/[F#]   [G]    [C]      [G]
+E eu      entrego tudo a ti
+ [Em7]    [D]  [C]
+Tudo a ti`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5222,7 +5843,192 @@ Em Teus braços é meu descanso`,
                 titulo: 'Escape',
                 artista: 'Renascer Praise',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 [D]  [D4] | [D]  [D4] :| 
+
+[D]                  [D4]
+  O inimigo tenta laços e embaraços
+          [D]
+Pra me envergonhar
+         [A]/[C#]
+Mas não vai
+
+[D]                       [D4]
+  Porque eu não estou sozinho
+Nessa guerra
+        [D]                       [A]
+Está comigo o braço forte do Senhor
+
+             [D]
+Aquele que acalma o vento
+               [G]
+Aquele que aquieta o mar
+               [Bm]
+Que tira a força do fogo
+                [A]/[C#]
+E faz o leão jejuar
+            [D]/[F#]
+O Deus que derruba as muralhas
+                 [G]/[B]
+Da estéril, faz mãe de filhos
+                  [D]/[F#]
+É o mesmo que brada do alto
+                  [A]
+Não temas, sou contigo
+
+ [A]    [D]/[F#]  [G]
+Deus já    tem
+                 [D]/[G]
+Um caminho aberto pelas águas
+     [A]  [Bm]
+Faz romper muitas fontes em meio
+      [A]   
+Ao deserto
+ [D]  [D]/[F#]  [G]
+Ha_ve____rá nuvens que trazem
+Chuvas de bênçãos
+     [A]  [Bm]
+Ouça a voz
+                          [A]
+Deus te dá escape e livramento
+
+[D]                  [D4]
+  O inimigo tenta laços e embaraços
+          [D]
+Pra me envergonhar
+         [A]/[D]
+Mas não vai
+[Bm]                        [G]
+   Porque eu não estou sozinho
+Nessa guerra
+        [D]/[A]                        [A]
+Está comigo o braço forte do Senhor
+
+             [D]
+Aquele que acalma o vento
+               [G]
+Aquele que aquieta o mar
+               [Bm]
+Que tira a força do fogo
+                 [A]/[C#]
+E faz o leão jejuar
+
+                   [D]/[F#]
+O Deus que derruba as muralhas
+                 [G]/[B]
+Da estéril, faz mãe de filhos
+                  [D]/[F#]
+É o mesmo que brada do alto
+                   [A]
+Não temas, sou contigo
+
+ [A]    [D]/[F#]  [G]
+Deus já    tem
+                   [D]/[F#]  [G]
+Um caminho aberto pelas  águas
+     [A]  [Bm]
+Faz romper muitas fontes em meio
+      [A]/[C#]
+Ao deserto
+ [D]  [D]/[F#]  [G]
+Ha_ve____rá nuvens que trazem
+    [D]/[F#]   [G]
+Chuvas de bênçãos
+     [A]  [Bm]
+Ouça a voz
+                          [A]/[C#]
+Deus te dá escape e livramento
+
+ [D]    [D]/[F#]  [G]
+Deus já    tem
+                   [D]/[F#]  [G]
+Um caminho aberto pelas  águas
+     [A]  [Bm]
+Faz romper muitas fontes em meio
+      [A] 
+Ao deserto
+ [D]  [D]/[F#]  [Em7]
+Ha_ve____rá nuvens que trazem
+    [D]/[F#]   [G]
+Chuvas de bênçãos
+     [A]  [Bm]
+Ouça a voz
+                          [A]/[C#]
+Deus te dá escape e livramento
+
+             [D]
+Aquele que acalma o vento
+               [G]
+Aquele que aquieta o mar
+               [Bm]
+Que tira a força do fogo
+                 [A]/[C#]
+E faz o leão jejuar
+
+                   [D]/[F#]
+O Deus que derruba as muralhas
+                 [G]/[B]
+Da estéril, faz mãe de filhos
+                  [D]/[F#]
+É o mesmo que brada do alto
+                   [A]
+Não temas, sou contigo
+
+ [A]    [D]/[F#]  [G]
+Deus já    tem
+                   [D]/[F#]  [G]
+Um caminho aberto pelas  águas
+     [A]  [Bm]
+Faz romper muitas fontes em meio
+      [A]  
+Ao deserto
+
+ [D] [D]/[F#] [Em7]
+Ha_ve__rá nuvens que trazem
+    [D]/[F#]   [G]
+Chuvas de bênçãos
+     [A]  [Bm]
+Ouça a voz
+                          [A]
+Deus te dá escape e livramento
+
+[Bm]                [C7+]
+   Leão da Tribo de Judá
+     [Em7]       [F#7(5-)]
+Rei dos Reis reina para sempre
+[G7+]           [C7+]
+    Leão da Tribo de Judá
+
+ [Em7]          [F#7(5-)]
+Rei dos Reis reina para sempre
+
+[Bm]           [C7M]
+   Leão da Tribo de Judá
+ [Em7]          [F#7(5-)]
+Rei dos Reis reina para sempre
+[Bm]           [C7+]
+   Leão da Tribo de Judá
+ [Em7]          [F#7(5-)]         [Bm]  [G]/[B]
+Rei dos Reis reina para sempre 
+[D]/[A]  [A]/[C#]           [Bm]  [G]/[B]  [D]/[A]
+    Reina para sempre
+ [A]/[C#]           [G]
+Reina para sempre
+
+ [D]    [D]/[F#]  [G]
+Deus já    tem        
+Um caminho aberto pelas  águas
+ [G]   [A]  [Bm]
+Faz romper muitas fontes em meio
+      [A]/[C#] 
+Ao deserto
+
+[D] [D]/[F#] [G]
+Ha_ve__rá nuvens que trazem
+Chuvas de bênçãos
+[G]    [A]  [Bm]
+Ouça a voz
+                          [A]/[C#]
+Deus te dá escape e livramento`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
