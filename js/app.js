@@ -1118,73 +1118,73 @@ Interlúdio: | [A] | [B] | [G#m] | [C#m7] |`,
                 artista: 'IECP Central',
                 tom: 'A',
                 letra: `
-  A         F#m          D         E
+  [A]         [F#m]          [D]         [E]
 Aclame ao Senhor toda a Terra e cantemos
-   A       F#m        D         E
+   [A]       [F#m]        [D]         [E]
 Poder, majestade e louvores ao Rei
-   F#m       F#m/E       D
+   [F#m]       [F#m]/[E]       [D]
 Montanhas se prostrem e rujam os mares
-    E  D/F#   E/G#
+    [E]  [D]/[F#]   [E]/[G#]
 Ao som de teu nome
-  A       F#m       D             E
+  [A]       [F#m]       [D]             [E]
 Alegre Te louvo por Teus grandes feitos
-    A       F#m         D      E
+    [A]       [F#m]         [D]      [E]
 Firmado estarei, sempre te amarei
-F#m   F#m/E        D            E    A    D9 E 
+[F#m]   [F#m]/[E]        [D]            [E]    [A]    [D9] [E] 
 Incomparáveis são as promessas do Senhor
                 
-A            E
+[A]          [E]
  Meu Jesus, Salvador
-F#m     E       D
+[F#m]     [E]       [D]
 Outro igual não há
-         A/C#  D       A/E
+         [A]/[C#]  [D]       [A]/[E]
 Todos os dias quero louvar
-   F#m        G  D/F#  E
+   [F#m]        [G]  [D]/[F#]  [E]
 As maravilhas de Teu amor
 
-A        E
+[A]        [E]
  Consolo, abrigo
-F#m       E            D
+[F#m]       [E]            [D]
 Refúgio e Força é o Senhor
-              A/C#
+              [A]/[C#]
 Com todo o meu ser
-     D         A/E
+     [D]         [A]/[E]
 Com tudo o que sou 
-F#m         G   D/F#    E
+[F#m]         [G]   [D]/[F#]    [E]
 Sempre te ado  - ra -  rei
 
-  A         F#m          D         E
+  [A]         [F#m]          [D]         [E]
 Aclame ao Senhor toda a Terra e cantemos
-   A       F#m        D         E
+   [A]       [F#m]        [D]         [E]
 Poder, majestade e louvores ao Rei
-   F#m       F#m/E       D
+   [F#m]       [F#m]/[E]       [D]
 Montanhas se prostrem e rujam os mares
-    E  D/F#   E/G#
+    [E]  [D]/[F#]   [E]/[G#]
 Ao som de teu nome
-  A       F#m       D             E
+  [A]       [F#m]       [D]             [E]
 Alegre Te louvo por Teus grandes feitos
-    A       F#m         D      E
+    [A]       [F#m]         [D]      [E]
 Firmado estarei, sempre te amarei
-F#m   F#m/E        D            E    F#m E  D E
+[F#m]   [F#m]/[E]       [D]            [E]  || [F#m] [E] | [D] [E] ||
 Incomparáveis são as promessas do Senhor
 
-  A         F#m          D         E
+  [A]         [F#m]          [D]         [E]
 Aclame ao Senhor toda a Terra e cantemos
-   A       F#m        D         E
+   [A]       [F#m]        [D]         [E]
 Poder, majestade e louvores ao Rei
-   F#m       F#m/E       D
+   [F#m]       [F#m]/[E]       [D]
 Montanhas se prostrem e rujam os mares
-    E  D/F#   E/G#
+    [E]  [D]/[F#]   [E]/[G#]
 Ao som de teu nome
-  A       F#m       D             E
+  [A]       [F#m]       [D]             [E]
 Alegre Te louvo por Teus grandes feitos
-    A       F#m         D      E
+    [A]       [F#m]         [D]      [E]
 Firmado estarei, sempre te amarei
-F#m   F#m/E        D            E    F#m
+[F#m]   [F#m]/[E]       [D]            [E]    [F#m] 
 Incomparáveis são as promessas do Senhor
-      F#m/E        D            E    F#m
+      [F#m]/[E]        [D]            [E]    [F#m]
 Incomparáveis são as promessas do Senhor
-      F#m/E        D            E    A  | D9 E | A | D9 E | A ||
+      [F#m]/[E]        [D]            [E]    [A]  | [D9] [E] | [A] | [D9] [E] | [A] ||
 Incomparáveis são as promessas para mim`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -1429,10 +1429,7 @@ Eu me alegrarei em Ti`,
                 titulo: 'Algo Novo',
                 artista: 'Lukas Agustinho',
                 tom: 'C',
-                letra: `Intro: |4/4 o] Am7  F  C  G
-        Am7  F  C  G
-
-[Primeira Parte]
+                letra: `Intro: |:4/4 Am7  F | C  :||
 
    C
 Vem me visitar hoje aqui
@@ -1456,8 +1453,6 @@ Espírito, vem, Espírito, vem
           C9   G4
 Espírito Santo
 
-[Refrão]
-
 Am7             F9       C9
     Eu quero viver algo novo
 Am7              F9           C9
@@ -1477,10 +1472,8 @@ Am7              F9           C9
 Fazendo todo medo desaparecer
                 C9
 Trazendo sobre mim um novo amanhecer
-
-[Segunda Parte]
-
-( Am7  F9  C9  G4 )
+Am7             F9       C9
+    Eu quero viver algo novo
 
 Am7             F9        C9
     Vem me visitar hoje aqui
@@ -1494,10 +1487,6 @@ Espírito Santo
 Espírito, vem, Espírito, vem
           C9
 Espírito Santo
-
-( Am7  F9  C9)
-
-[Refrão]
 
 Am7             F9       C9
     Eu quero viver algo novo
@@ -1516,7 +1505,7 @@ Am7              F9           C9
 Fazendo todo medo desaparecer
                 C9
 Trazendo sobre mim um novo amanhecer
-Am7                       F
+|  Am7   |     G     |       F    |    %   |
 Oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh,oh
 
 Am7
@@ -1546,8 +1535,6 @@ G4
    Santo Espírito, desce como fogo
 F9
    Incendeia, incendeia
-
-[Refrão]
 
 Am7             F       C  G
     Eu quero viver algo novo
@@ -1775,16 +1762,16 @@ Quero voltar, Senhor
 Para os Teus rios
 Voltar, Senhor, para os Teus rios
 
-    F7M(9)    Em7(13-)  Dm7(11)
+    F7+(9)    Em7(13-)  Dm7(11)
 Me molha, me lava, me ensina
-             F7M(9)   Em7(13-)
+             F7+(9)   Em7(13-)
 Me inspira e arde outra vez
         Dm7(11)
 No meu coração
 
-    F7M(9)    Em7(13-)  Dm7(11)
+    F7+(9)    Em7(13-)  Dm7(11)
 Me molha, me lava, me ensina
-             F7M(9)   Em7(13-)
+             F7+(9)   Em7(13-)
 Me inspira e arde outra vez
         Am7(9)
 No meu coração
@@ -1826,38 +1813,38 @@ Quero voltar, Senhor
 Para os Teus rios
 Voltar, Senhor, para os Teus rios
 
-    F7M(9)   Em7(13-)   Dm7(11)
+    F7+(9)   Em7(13-)   Dm7(11)
 Me lava, me molha, me ensina
-             F7M(9)      Em7(13-)
+             F7+(9)      Em7(13-)
 Me inspira e arde outra vez
         Dm7(11)
 No meu coração
 
-    F7M(9)    Em7(13-)  Dm7(11)
+    F7+(9)    Em7(13-)  Dm7(11)
 Me molha, me lava, me ensina
-             F7M(9)      Em7(13-)
+             F7+(9)      Em7(13-)
 Me inspira e arde outra vez
      Dm7(11)
 Com fogo, com fogo!
 
-    F7M(9)    Em7(13-)
+    F7+(9)    Em7(13-)
 Me molha, me lava
          Dm7(11)
 A glória          da segunda casa Deus
 
-         F7M(9)  Em7(13-)     Dm7(11)
+         F7+(9)  Em7(13-)     Dm7(11)
 A glória                   me molha
 
- F7M(9)  Em7(13-)  Dm7(11)
+ F7+(9)  Em7(13-)  Dm7(11)
 Deus,              Deus
 
-  F7M(9)  Em7(13-)      Dm7(11)
+  F7+(9)  Em7(13-)      Dm7(11)
 E arde outra vez no meu coração
-  F7M(9)  Em7(13-)      Dm7(11)
+  F7+(9)  Em7(13-)      Dm7(11)
 E arde outra vez no meu coração
-  F7M(9)  Em7(13-)      Dm7(11)
+  F7+(9)  Em7(13-)      Dm7(11)
 E arde outra vez no meu coração
-  F7M(9)  Em7(13-)      Am7(9)
+  F7+(9)  Em7(13-)      Am7(9)
 E arde outra vez no meu coração`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -1976,7 +1963,7 @@ Quero ouvir o som do céu
                 titulo: 'Basta uma Palavra do meu Deus',
                 artista: 'Comunidade Evangélica Internacional da Zona Sul',
                 tom: 'F',
-                letra: `Intro: |4/4 ] F  F/A  A#
+                letra: `Intro: |4/4 F | A# | Dm | C |
         
         F                          A#
 Basta uma palavra do meu Deus
@@ -1985,14 +1972,14 @@ Para um milagre acontecer
     F                            A#
 O tempo e a distância não vão resistir
  Dm                      C
-Se Ele falou, Ele vai cumprir ! 2x
+Se Ele falou, Ele vai cumprir!  2x
 
 A#                               C
 Ele falou ao mar e o mar se acalmou
 A#                                Dm
 "Haja luz !” – E a luz passou a existir!
 A#                                     C
-"Levanta e anda” – E o paralítico andou !
+"Levanta e anda” – E o paralítico andou!
    Gm             A#              C
 E tem falado que o melhor está por vir
 
@@ -2043,107 +2030,101 @@ Se Ele falou, Ele vai cumprir`,
                 titulo: 'Bem-Aventurado',
                 artista: 'Aline Barros',
                 tom: 'F',
-                letra: `Intro: |:4/4 C/Bb  Bb | C/Bb  Bb | C/F  F | C/F  F :| 
+                letra: `Intro: |:4/4 [C]/[Bb]  [Bb] | [C]/[Bb]  [Bb] | [C]/[F]  [F] | [C]/[F]  [F] :| 
 
-         C/Bb            Bb9  C/Bb Bb
+         [C]/[Bb]            [Bb9]  [C]/[Bb] [Bb]
 Bem aventurado é o que está
-Bb             C/F F  C/F
+[Bb]             [C]/[F] [F]  [C]/[F]
 Firmado em tua ca__sa
-F              C/Bb Bb  Gm7
+[F]              [C]/[Bb] [Bb]  [Gm7]
 Aqueles que te lou__vam
-          C4          C     F
+          [C]                [F]
 Cujo coração está no nosso Deus
 
-Interlúdio: | F | C | Dm7 | A# | F/A | C | Dm7 | A# |
+Interlúdio: | [F] | [C] | [Dm7] | [A#] | [F]/[A] | [C] | [Dm7] | [A#] |
 
-         C/Bb            Bb9  C/Bb Bb
+         [C]/[Bb]            [Bb9]  [C]/[Bb] [Bb]
 Bem aventurado é o que está
-Bb             C/F F  C/F
+[Bb]             [C]/[F] [F]  [C]/[F]
 Firmado em tua ca__sa
-F              C/Bb Bb  Gm7
+[F]              [C]/[Bb] [Bb]  [Gm7]
 Aqueles que te lou__vam
-          C4          C     F
+          [C]                [F]
 Cujo coração está no nosso Deus
 
-          C/A#        A# C/A#
+         [C]/[Bb]           [Bb9]  [C]/[Bb]
 Bem aventurado é quem tem
-A#           C/F     F   C/F
-A sede da Justiça de Deus
-F               C/A#      A# Gm7
+[A#]         [C]/[F]     [F]   [C]/[F]
+Sede da Justiça de Deus
+[F]               [C]/[Bb]      [Bb] [Gm7]
 Aqueles que são filhos da luz
-            C            F
+            [C]            [F]
 Cuja força vem do nosso Deus
 
-                 A#          C
+                [Bb]          [C]
 Que o teu reino venha sobre nós
-             A#/D          C/E
+             [Bb]/[D]          [C]/[E]
 Queremos tua glória sobre nós
 
-F         C          Dm        A#
+[F]         [C]          [Dm]        [A#]
 Ouve, oh Deus, nossa oração, Altíssimo
-F/A              C
-    Sara essa nação
-        Dm            A#
+[F]/[A]            [C]
+   Sara essa nação
+       [Dm]            [Bb]
 É o clamor da igreja que te adora
 
-Intro: | C/Bb  Bb | C/Bb  Bb | C/F  F | C/F  F :| 
+Intro: | [C]/[Bb]  [Bb] | [C]/[Bb]  [Bb] | [C]/[F]  [F] | [C]/[F]  [F] :| 
 
-          C/A#        A# C/A#
+         [C]/[Bb]           [Bb9]  [C]/[Bb]
 Bem aventurado é quem tem
-A#           C/F     F   C/F
-A sede da Justiça de Deus
-F               C/A#      A# Gm7
+[A#]         [C]/[F]     [F]   [C]/[F]
+Sede da Justiça de Deus
+[F]               [C]/[Bb]      [Bb] [Gm7]
 Aqueles que são filhos da luz
-            C            F
+            [C]            [F]
 Cuja força vem do nosso Deus
 
-                A#           C
+                [Bb]          [C]
 Que o teu reino venha sobre nós
-             A#/D          C/E
+             [Bb]/[D]          [C]/[E]
 Queremos tua glória sobre nós
 
-F         C          Dm        A#
+[F]         [C]          [Dm]        [A#]
 Ouve, oh Deus, nossa oração, Altíssimo
-F/A              C
-    Sara essa nação
-        Dm            A#      C
-É o clamor da igreja que te adora
-F         C           Dm          A#
-Ouve, oh Deus, nossa o__ração, Altíssimo
-F/A              C
-    Sara essa nação
-        Dm            A#
+[F]/[A]            [C]
+   Sara essa nação
+       [Dm]            [Bb]
 É o clamor da igreja que te adora
 
-F              C/E
+[F]              [C]/[E]
  Só tu és Santo,  só tu és Santo
-Dm7                    A#
+[Dm7]                   [Bb]
    Só tu és Santo, Senhor
-F              C/E
+[F]              [C]/[E]
  Só tu és Santo,  só tu és Santo
-Dm7                    A#
+[Dm7]                   [Bb]
    Só tu és Santo, Senhor
-F              C/E
+[F]              [C]/[E]
  Só tu és Santo,  só tu és Santo
-Dm7                    A#
+[Dm7]                   [Bb]
    Só tu és Santo, Senhor
-F              C/E
+[F]              [C]/[E]
  Só tu és Santo,  só tu és Santo
-Dm7                    A#
+[Dm7]                   [Bb]
    Só tu és Santo, Senhor
 
-F         C          Dm        A#
+[F]         [C]          [Dm]        [A#]
 Ouve, oh Deus, nossa oração, Altíssimo
-F/A              C
-    Sara essa nação
-        Dm7           A#      C
+[F]/[A]            [C]
+   Sara essa nação
+       [Dm]            [Bb]
 É o clamor da igreja que te adora
 
-F         C          Dm        A#
+[F]         [C]          [Dm]        [A#]
 Ouve, oh Deus, nossa oração, Altíssimo
-F/A              C
-    Sara essa nação
-        Dm            A#2
+[F]/[A]            [C]
+   Sara essa nação
+       [Dm]            [Bb]
 É o clamor da igreja que te adora`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -2335,7 +2316,7 @@ Mostra pra esse povo
                 titulo: 'Caminho de Milagres',
                 artista: 'Aline Barros',
                 tom: 'C',
-                letra: `Intro: |4/4 C  G/B | Am  G | [F] [G/F] | [F] [G/F] | [F] [G] | [Am] ||
+                letra: `Intro: |4/4 [C]  [G]/[B] | [Am]  [G] | [F] [G/F] | [F] [G/F] | [F] [G] | [Am] ||
 
         [F]   [G/F]     [F] [G/F]
  Tudo o que eu fiz foi acreditar
@@ -2587,7 +2568,7 @@ Sobre o trono do céu
    Louvores ao Rei dos reis
 [C9]                
    És tudo para mim
-  [G]             | D | Am7 | C9 | G |
+  [G]             | [D] | [Am7] | [C9] | [G] |
 E eu Te adorarei
 
 [D]           [Am7]
@@ -2613,7 +2594,7 @@ E eu Te adorarei
    Louvores ao Rei dos reis
 [C9]                
    És tudo para mim
-  [G]             | D | Am7 | C9 | G |
+  [G]             | [D] | [Am7] | [C9] | [G] |
 E eu Te adorarei
 
 [D]           [Am7]
@@ -2643,7 +2624,7 @@ E eu Te adorarei
    Louvores ao Rei dos reis
 [C9]                
    És tudo para mim
-  [G]             | D | Am7 | C9 | G |
+  [G]             | [D] | [Am7] | [C9] | [G] |
 E eu Te adorarei`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -2654,7 +2635,168 @@ E eu Te adorarei`,
                 titulo: 'Clamo Jesus',
                 artista: 'Paulo Cesar Baruk',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [E]  [E4]  [E]  [E7+] | [C#m]  [C#m5+]  [C#m7]  [C#m7(9)] | [A]  [A9]  [A]  [A4+] |  
+
+   [E]         [E4]           [E]
+Jesus, quero declarar Teu nome
+ [C#m]      [C#m7(5+)]    [C#m7]
+Sobre toda mente e coração
+      [A]
+Pois sei que existe 
+[A9]
+Paz em Tua presença
+        [E]    [E4]  [E]  [E7+]
+Clamo: Jesus
+
+   [E]         [E4]           [E]
+Jesus, quero declarar Teu nome
+   [C#m]            [C#m7(5+)]  [C#m7]
+Quebrando os vícios dessa geração
+   [A]
+Declaro que há esperança e liberdade
+        [E]   
+Clamo: Jesus
+
+           [B]
+Teu nome é cura
+   [E]/[G#]  [A]
+É pode__roso
+           [E]
+Teu nome é vida
+          [B]
+Destrói cadeias
+  [E]/[G#]     [A]
+Dissipa as trevas
+       [E]
+Vem incendiar
+
+   [E]         [E4]           [E] 
+Jesus, quero declarar Teu nome
+[C#m]       [C#m7(5+)]      [C#m7]
+Sobre toda alma em depressão
+  [A]
+Ansiedade e medo saiam agora
+        [E]
+Clamo: Jesus
+
+           [B]
+Teu nome é cura
+   [E]/[G#]  [A]
+É pode__roso
+           [E]
+Teu nome é vida
+          [B]
+Destrói cadeias
+  [E]/[G#]     [A]
+Dissipa as trevas
+       [E]
+Vem incendiar
+
+           [B]
+Teu nome é cura
+   [E]/[G#]  [A]
+É pode__roso
+           [E]
+Teu nome é vida
+          [B]
+Destrói cadeias
+  [E]/[G#]     [A]
+Dissipa as trevas
+       [E]    [E4] [E]
+Vem incendiar
+
+   [E]                 [E4]        [E]
+Declare pelas ruas o nome de Jesus
+[C#m]            
+Sobre a escuridão
+          [C#m7(5+)]  [C#m7]
+Ele vai trazer a sua luz
+[A]
+Sobre sua família
+                     [E]
+Clame o Santo Nome: Jesus
+Oh-oh-oh-oh 
+
+   [E]                 [E4]        [E]
+Declare pelas ruas o nome de Jesus
+[C#m]            
+Sobre a escuridão
+          [C#m7(5+)]  [C#m7]
+Ele vai trazer a sua luz
+[A]
+Sobre sua família
+                     [E]
+Clame o Santo Nome: Jesus
+
+           [B]
+Teu nome é cura
+   [E]/[G#]  [A]
+É pode__roso
+           [E]
+Teu nome é vida
+          [B]
+Destrói cadeias
+  [E]/[G#]     [A]
+Dissipa as trevas
+       [E]    [E4] [E]
+Vem incendiar
+
+           [B]
+Teu nome é cura
+   [E]/[G#]  [A]
+É pode__roso
+           [E]
+Teu nome é vida
+          [B]
+Destrói cadeias
+  [E]/[G#]     [A]
+Dissipa as trevas
+       [E]    [E4] [E]
+Vem incendiar
+
+   [E]         [E4]           [E] 
+Jesus, quero declarar Teu nome
+[C#m]       [C#m7(5+)]      [C#m7]
+Sobre toda alma em depressão
+  [A]
+Ansiedade e medo saiam agora
+        [E]
+Clamo: Jesus
+
+   [E]                 [E4]        [E]
+Declare pelas ruas o nome de Jesus
+[C#m]            
+Sobre a escuridão
+          [C#m7(5+)]  [C#m7]
+Ele vai trazer a sua luz
+[A]
+Sobre sua família
+                     [E]
+Clame o Santo Nome: Jesus
+
+   [E]                 [E4]        [E]
+Declare pelas ruas o nome de Jesus
+[C#m]            
+Sobre a escuridão
+          [C#m7(5+)]  [C#m7]
+Ele vai trazer a sua luz
+[A]
+Sobre sua família
+                     [E]
+Clame o Santo Nome: Jesus
+
+   [E]                     
+Declare pelas ruas 
+  [E4]        [D#m7(5-)]  [G#7(13-)]
+O nome de Jesus
+[C#m]            
+Sobre a escuridão
+         [C#m7(5+)]    [Bm7]  [E7]
+Ele vai trazer a sua luz
+[A]
+Sobre sua família
+[F#m7]               [E]
+Clame o Santo Nome: Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -3091,21 +3233,21 @@ Te abençoo, meu irmão
     Eb                   C
 Preciosa é a nossa comunhão
 
-      F                        F7M
+      F                        F7+
 Somos corpo, e, assim, bem ajustados
              Bb      Gm       Eb
 Totalmente ligados, unidos, vivendo em
   Eb         C
 Vivendo em amor
 
-      F                         F7M
+      F                         F7+
 Uma família, sem qualquer falsidade
              Bb          Gm
 Vivendo a verdade, expressando
    Eb           C
 A Glória do Senhor
 
-     F                      F7M
+     F                      F7+
 Uma família, vivendo o compromisso
                   Bb
 Do grande amor de Cristo
@@ -3132,20 +3274,20 @@ Te abençoo, meu irmão
     Eb                   C
 Preciosa é a nossa comunhão
 
-      F                        F7M
+      F                        F7+
 Somos corpo, e, assim, bem ajustados
              Bb      Gm       Eb
 Totalmente ligados, unidos, vivendo em
   Eb         C
 Vivendo em amor
 
-      F                         F7M
+      F                         F7+
 Uma família, sem qualquer falsidade
              Bb          Gm
 Vivendo a verdade, expressando
    Eb           C
 A Glória do Senhor
-     F                      F7M
+     F                      F7+
 Uma família, vivendo o compromisso
                   Bb
 Do grande amor de Cristo
@@ -3213,94 +3355,89 @@ E ao primeiro amor voltar`,
                 titulo: 'Creio em Ti',
                 artista: 'Gabriela Rocha',
                 tom: 'F',
-                letra: `Intro: ||:4/4 Dm  C |  A# :| 
+                letra: `Intro: ||:4/4 [Dm]  [C] |  [A#] :| 
 
-     Dm     C             A# 
+     [Dm]     [C]             [A#] 
 Teu sangue faz o surdo ouvir agora
-     Dm      C          A# 
+     [Dm]      [C]          [A#] 
 Teu sangue quebra maldição agora
-     Dm     C         A# 
+     [Dm]     [C]         [A#] 
 Teu sangue cura toda dor agora
-     Dm     C           A#         
+     [Dm]     [C]           [A#]         
 Teu sangue liberta o cativo agora
 
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-         F            C/E 
+         [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-                    F         C/E 
+                   [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-     Dm     C           A# 
+     [Dm]     [C]             [A#]
 Teu sangue sara os corações agora
-     Dm        C          A# 
+     [Dm]     [C]             [A#] 
 Teu sangue me leva a perdoar agora
-     Dm          C             A# 
+     [Dm]     [C]             [A#] 
 Teu sangue transforma a minha mente agora
-     Dm          C        A#          
+     [Dm]     [C]             [A#]     
 Teu sangue faz o morto reviver agora
 
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-         F            C/E 
+         [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-                    F         C/E 
+                   [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-         F            C/E 
+         [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-                    F         C/E 
+                   [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-        A#         C 
+       [A#]          [C] 
 Não há nada que resista ao Teu poder
-       A#                     C 
+      [A#]                      [C] 
 Nem pecado, nem o mal, livre sou
 
-        A#         C 
+        [A#]          [C]  
 Não há nada que resista ao Teu poder
-      A#/D                   C/E 
+      [A#]/[D]                   [C]/[E] 
 Nem pecado, nem o mal, livre sou
 
-        A#         C 
+       [A#]          [C] 
 Não há nada que resista ao Teu poder
-       A#                     C 
+      [A#]                      [C] 
 Nem pecado, nem o mal, livre sou
 
-        A#         C 
+        [A#]          [C]  
 Não há nada que resista ao Teu poder
-      A#/D                   C/E 
+      [A#]/[D]                   [C]/[E] 
 Nem pecado, nem o mal, livre sou
 
-  A#         C 
-Não há nada que resista ao Teu poder
-       A#                     C 
-Nem pecado, nem o mal, livre sou
-
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-         F            C/E 
+         [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-                    F         C/E 
+                   [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-         F            C/E 
+         [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  Gm         A# 
+  [Gm]         [A#] 
 E eu creio que
-                    F         C/E 
+                   [F]         [C]/[E] 
 Teu sangue é o que basta pra mim`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -3310,91 +3447,89 @@ Teu sangue é o que basta pra mim`,
                 titulo: 'Creio que Tu és a Cura',
                 artista: 'Gabriela Rocha',
                 tom: 'E',
-                letra: `Intro: ||:4/4 E | E A9 | C#m7 | C#m A9 :||
+                letra: `Intro: ||:4/4 [E] | [E] [A9] | [C#m7] | [C#m] [A9] :||
 
-      E
+     [E]
 Me escutas quando clamo
-    A9      B4     E
+    [A]       [B]     [E]
 E acalma o meu pensar
-          B4/D#  C#m7
+        [B7]/[D#]  [C#m7]
 Me levas pelo   fogo
-   A9             B4
+  [A9]             [B]
 Curando todo meu ser
-    F#m7(11)  E/G#  A9 
-Confio        em   Ti
-    F#m7(11)  A9  B4
-Confio        em Ti
+   [F#m7]  [E]/[G#]  [A9] 
+Confio    em   Ti
+  [F#m7] [A]  ]B9] 
+Confio em Ti
 
-E
+[E]
   Creio que Tu és a cura
-C#m7                    B4   A9  
-     Creio que és tudo para mim
-E
+[C#m7]                [B]    [A9]  [B] [A]/[C#} [B]/[D#]  
+  Creio que és tudo para mim
+[E]
   Creio que tu és a vida
-C#m7                           B4    A9  B4
-     Creio que não há outro igual a Ti
-   A9/C#      B/D#    E
+[C#m7]                       [B]     [A9]  [B]
+  Creio que não há outro igual a Ti
+  [A]/[C#]      [B]/[D#]     [E]
 Jesus, eu preciso de Ti
 
-      E
+     [E]
 Me escutas quando clamo
-    A9      B4     E
+    [A]       [B]     [E]
 E acalma o meu pensar
-          B4/D#  C#m7
+        [B7]/[D#]  [C#m7]
 Me levas pelo   fogo
-   A9             B4
+  [A9]             [B]
 Curando todo meu ser
-    F#m7(11)  E/G#  A9 
-Confio        em   Ti
-    F#m7(11)  A9  B4
-Confio        em Ti
+   [F#m7]  [E]/[G#]  [A9] 
+Confio    em   Ti
+  [F#m7] [A]  ]B9] 
+Confio em Ti
 
-E
+[E]
   Creio que Tu és a cura
-C#m7                    B4   A9  B4  A9/C#  B/D#
-     Creio que és tudo para mim
-E
+[C#m7]                [B]    [A9]  [B] [A]/[C#} [B]/[D#]  
+  Creio que és tudo para mim
+[E]
   Creio que tu és a vida
-C#m7                           B4    A9  B4
-     Creio que não há outro igual a Ti
-   A9/C#      B/D#    A9  B4 
+[C#m7]                       [B]     [A9]  [B]
+  Creio que não há outro igual a Ti
+  [A]/[C#]      [B]/[D#]     [A]  [B]
 Jesus, eu preciso de Ti
-     A9/C#      B/D#  A9
-Não há outro igual a ti
+    [A]/[C#]      [B]/[D#]  [A9] [B] [A]/[C#] [B]/[D#]
+Não há outro igual a Ti
 
- C#m7  B/D#  E
+[C#m7]  [B]/[D#]   [E]
 Nada é impossível para Ti
- C#m7  B/D#  E
+[C#m7]  [B]/[D#]   [E]
 Nada é impossível
- C#m7  B/D#  E          A9
+[C#m7]  [B]/[D#]   [E]         [A9]
 Nada é impossível para Ti
-                          B4
-Tens o meu mundo em tuas mãos     
+           [C#m]               [B]
+Tens o meu mundo em Tuas mãos     
 
- C#m7  B/D#  E
+[C#m7]  [B]/[D#]   [E]
 Nada é impossível para Ti
- C#m7  B/D#  E
+[C#m7]  [B]/[D#]   [E]
 Nada é impossível
- C#m7  B/D#  E     E/G#  A9
-Nada é impossível para  Ti   
-     C#m                  B
-Tens o meu mundo em tuas mãos
+[C#m7]  [B]/[D#]   [E]         [A9]
+Nada é impossível para Ti
+           [C#m]               [B]
+Tens o meu mundo em Tuas mãos 
 
-E
+[E]
   Creio que Tu és a cura
-C#m7                    B4   A9  B4
-     Creio que és tudo para mim
-    A9/C#      B/D#
-(Jesus, eu preciso de Ti)
-E
+[C#m7]                [B]    [A9]  [B] [A]/[C#} [B]/[D#]  
+  Creio que és tudo para mim
+[E]
   Creio que tu és a vida
-C#m7                           B4    A9  B9
-     Creio que não há outro igual a Ti
-   A9/C#      B/D#    A9  B4 
+[C#m7]                       [B]     [A9]  [B]
+  Creio que não há outro igual a Ti
+  [A]/[C#]      [B]/[D#]     [A7+]  [B]
 Jesus, eu preciso de Ti
-     A9/C#      B/D#  F#m7  E/G#
-Não há outro igual a ti
-   A9         B4      A9  E
+    [A]/[C#]      [B]/[D#]  [A7+] [B] 
+Não há outro igual a Ti
+  [A]/[C#]      [B]/[D#]   [A7+]  [B] [A]/[C#]  [B]/[D#] [A9]
 Jesus, eu preciso de Ti`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -4144,7 +4279,121 @@ O Deus do impossível`,
                 titulo: 'Deus é Deus',
                 artista: 'Delino Marçal',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [F]  [C]/[E] | [Dm7]  [C] | [A#] [F]/[A] | [Gm7] ||
+
+      F9             C/E
+Minha fé não está firmada
+             Dm7           C/E
+Nas coisas que podes fazer
+         F9         A#          C4  C
+Eu aprendi a Te adorar pelo que és
+
+      Gm7   A#/F     C/E
+Dele vem o sim e o amém
+         F9     C/E      Dm7
+Somente dele e mais ninguém
+C  A#       C4    A#
+A Deus seja o louvor
+
+           F9         C/E
+Se Deus fizer, Ele é Deus
+          Dm7        C
+Se não fizer, Ele é Deus
+              A#         F/A
+Se a porta abrir, Ele é Deus
+           Gm7                 C
+Mas se fechar, continua sendo Deus
+
+              F9         C/E
+Se a doença vier, Ele é Deus
+              Dm7        C
+Se curado eu for, Ele é Deus
+             A#           F/A
+Se tudo der certo, Ele é Deus
+            Gm7                 C
+Mas se não der, continua sendo Deus
+
+       F9             C/E
+Minha fé não está firmada
+             Dm7           C/E
+Nas coisas que podes fazer
+         F9         A#          C4  C
+Eu aprendi a Te adorar pelo que és
+
+      Gm7   A#/F     C/E
+Dele vem o sim e o amém
+         F9     C/E      Dm7
+Somente dele e mais ninguém
+C  A#       C4    A#
+A Deus seja o louvor
+
+           F9         C/E
+Se Deus fizer, Ele é Deus
+          Dm7        C
+Se não fizer, Ele é Deus
+              A#         F/A
+Se a porta abrir, Ele é Deus
+           Gm7                 C
+Mas se fechar, continua sendo Deus
+
+              F9         C/E
+Se a doença vier, Ele é Deus
+              Dm7        C
+Se curado eu for, Ele é Deus
+             A#           F/A
+Se tudo der certo, Ele é Deus
+            Gm7                 C   F/A
+Mas se não der, continua sendo Deus
+
+        A#                F/A
+Não o adoro pelo que Ele faz
+       Gm7              Dm7
+Eu o adoro pelo que Ele é
+               A#
+Haja o que houver
+ C           A#  C  F/A
+Sempre será Deus
+
+        A#                F/A
+Não o adoro pelo que Ele faz
+       Gm7              Dm7
+Eu o adoro pelo que Ele é
+               A#
+Haja o que houver
+ C           A#  C
+Sempre será Deus
+
+           F9         C/E
+Se Deus fizer, Ele é Deus
+          Dm7        C
+Se não fizer, Ele é Deus
+              A#         F/A
+Se a porta abrir, Ele é Deus
+           Gm7                 C
+Mas se fechar, continua sendo Deus
+
+             F9          C/E
+Se a doença vier, Ele é Deus
+      C#º     Dm7  G7/B        Cm7
+Se curado eu for,        Ele é Deus
+    F/A      A#           F/A
+Se tudo der certo, Ele é Deus
+            Gm7                 C
+Mas se não der, continua sendo Deus
+
+ A#
+Deus é Deus
+ Dm7
+Deus é Deus
+ A#         C
+Deus é Deus
+
+ A#
+Deus é Deus
+ Dm7
+Deus é Deus
+ A#         C4
+Deus é Deus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4153,7 +4402,122 @@ O Deus do impossível`,
                 titulo: 'Diante da Cruz',
                 artista: 'Aline Barros',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 D A/C# | Bm D/F# | G | A | G
+
+D/F# G        A  Bm
+  Ó Deus, me sondas
+D/F# G     A
+  Conheces-me
+D/F#     G     A  Bm
+  Mesmo quando falho
+G          A
+Eu sei, me amas
+D/F# G     A  Bm
+  Estás presente
+D/F# G     A
+  A me cercar
+D/F# G    A  Bm
+  Em todo tempo
+G          A
+Eu sei, me amas
+G          A    G/A
+Eu sei, me amas
+
+D               A/C#    Bm
+  Prostro-me diante da cruz
+             D/F#  G
+Vejo o sangue de Jesus
+                 A
+Nunca houve amor assim
+D              A/C#   Bm
+  Sobre a morte já venceu
+             D/F#   G
+Sua glória o céu encheu
+               A
+Nada irá me separar
+
+D/F# G       A Bm
+  Tu és meu guia
+D/F#   G    A
+  Meu protetor
+D/F#   G      A Bm
+  Tua mão me firma
+G          A
+Eu sei, me amas
+G          A
+Eu sei, me amas
+
+D               A/C#    Bm
+  Prostro-me diante da cruz
+             D/F#  G
+Vejo o sangue de Jesus
+                 A
+Nunca houve amor assim
+D              A/C#   Bm
+  Sobre a morte já venceu
+             D/F#   G
+Sua glória o céu encheu
+               A
+Nada irá me separar
+
+D               A/C#    Bm
+  Prostro-me diante da cruz
+             D/F#  G
+Vejo o sangue de Jesus
+                 A
+Nunca houve amor assim
+D              A/C#   Bm
+  Sobre a morte já venceu
+             D/F#   G
+Sua glória o céu encheu
+               A
+Nada irá me separar
+
+         G         A      Bm
+O véu rasgou, o caminho abriu
+      G   Bm     A
+Tudo consumado está
+          G        A       Bm
+O véu rasgou, o caminho abriu
+      G   Bm     A
+Tudo consumado está
+
+D/F# G     A Bm
+  E quando tudo
+D/F# G  A
+  Se acabar
+D/F#   G    A Bm
+  Estarei seguro
+ G           A
+Pois sei, me amas
+G            A
+Pois sei, me amas
+
+D               A/C#    Bm
+  Prostro-me diante da cruz
+             D/F#  G
+Vejo o sangue de Jesus
+                 A
+Nunca houve amor assim
+D              A/C#   Bm
+  Sobre a morte já venceu
+             D/F#   G
+Sua glória o céu encheu
+               A
+Nada irá me separar
+
+D               A/C#    Bm
+  Prostro-me diante da cruz
+             D/F#  G
+Vejo o sangue de Jesus
+                 A
+Nunca houve amor assim
+D              A/C#   Bm
+  Sobre a morte já venceu
+             D/F#   G
+Sua glória o céu encheu
+               A
+Nada irá me separar`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4162,7 +4526,106 @@ O Deus do impossível`,
                 titulo: 'Digno é o Senhor',
                 artista: 'Aline Barros',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [F]/[A]  [A#] | [C] | [F]/[A] [Bb] | [C] |
+
+              [A#]     [F]/[A]
+Graças eu te dou pai
+            [A#]  [C] [F]
+Pelo preço que pagou
+           [Dm]
+Sacrifício de amor
+    [C]      [A#]    [Gm]   [F]/[A]   [C4]
+Que me comprou ungido do Senhor
+
+             [A#]       [F]/[A]
+Pelos cravos em suas mãos
+              [A#] [C]         [F]
+Graças eu te dou ó meu Senhor
+                    [Dm]
+Lavou minha mente e coração
+    [C]      [A#]  
+Me deu perdão
+       [Gm]       [F]/[A]  [C4]
+Restaurou-me a comunhão
+
+ [F]          [C]/[E]
+Digno é o Senhor
+[Gm]      [F]/[A]     [A#]
+Sobre o trono está
+ [C]   [C]/[A#] [F]/[A]  [A#]  
+Soberano, criador
+     [Gm]       [F]   [C]
+Vou sempre te adorar
+  [F]           [C]/[E] 
+Elevo minhas mãos
+     [Gm]     [F]/[A]   [A#]
+Ao Cristo que venceu
+    [C]       [C]/[A#] 
+Cordeiro de Deus
+    [F]/[A]     [A#] [C]
+Morreu por mim
+           [Gm]   [F]/[A]  [A#]
+Mas ressuscitou
+          [Gm]    [F]/[A]  [C]
+Digno é o Senhor
+
+             [A#]       [F]/[A]
+Pelos cravos em suas mãos
+              [A#] [C]         [F]
+Graças eu te dou ó meu Senhor
+                    [Dm]
+Lavou minha mente e coração
+    [C]      [A#]  
+Me deu perdão
+       [Gm]       [F]/[A]  [C4]
+Restaurou-me a comunhão
+
+ [F]          [C]/[E]
+Digno é o Senhor
+[Gm]      [F]/[A]     [A#]
+Sobre o trono está
+ [C]   [C]/[A#] [F]/[A]  [A#]  
+Soberano, criador
+     [Gm]       [F]   [C]
+Vou sempre te adorar
+  [F]           [C]/[E] 
+Elevo minhas mãos
+     [Gm]     [F]/[A]   [A#]
+Ao Cristo que venceu
+    [C]       [C]/[A#] 
+Cordeiro de Deus
+    [F]/[A]     [A#] [C]
+Morreu por mim
+           [Gm]   [F]/[A]  [A#]
+Mas ressuscitou
+          [Gm]    [F]/[A]  [C]
+Digno é o Senhor
+
+  [F]           [C]/[E] 
+Elevo minhas mãos
+     [Gm]     [F]/[A]   [A#]
+Ao Cristo que venceu
+    [C]       [C]/[A#] 
+Cordeiro de Deus
+    [F]/[A]     [A#] [C]
+Morreu por mim
+           [Gm]   [F]/[A]  [A#]
+Mas ressuscitou
+          [Gm]    [F]/[A]  [C]
+Digno é o Senhor
+
+           [Gm]   [F]/[A]  [A#]
+Mas ressuscitou
+          [Gm]    [F]/[A]  [C]
+Digno é o Senhor
+           [Gm]   [F]/[A]  [A#]
+Mas ressuscitou
+          [Gm]    [F]/[A]  [C]
+Digno é o Senhor
+           [Gm]   [F]/[A]  [A#]
+Mas ressuscitou
+          [Gm]    [F]/[A]  [C]
+Digno é o Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4171,7 +4634,89 @@ O Deus do impossível`,
                 titulo: 'Diz',
                 artista: 'Ana Nóbrega',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 F | Am | Dm | Bb |
+                
+F                          Am                   Dm    Bb
+Luto contra vozes que me dizem que eu não sou capaz
+F                            Am                   Dm   Bb
+Contra enganos que me dizem que eu não vou chegar lá
+F                          Am              Dm   Bb
+Meus altos e baixos nunca vão medir meu valor
+F                        Am                 Dm  Bb
+A Tua voz me lembra e me diz quem realmente sou
+
+               F
+Diz que amado sou
+                      Am
+Sem que eu me sinta assim
+              Dm
+Diz que forte sou
+                      Bb
+Quando há fraqueza em mim
+
+                F                  Am
+E que seguro estou se frágil me sentir
+                 Dm                   Bb
+E que não estou só pois eu pertenço a ti
+
+          F          Am
+Eu creio sim, creio sim
+            Dm
+No que diz sobre mim
+Bb        F
+Eu creio sim
+
+F                      Am                   Dm  Bb
+Tudo que importa agora é o que a Tua voz me diz
+F                        Am                 Dm  Bb
+A minha identidade e o valor só encontro em Ti
+
+              F
+Diz que amado sou
+                     Am
+Sem que eu me sinta assim
+              Dm
+Diz que forte sou
+                      Bb
+Quando há fraqueza em mim
+
+                F                  Am
+E que seguro estou se frágil me sentir
+                 Dm                   Bb
+E que não estou só pois eu pertenço a Ti
+
+          F         Am
+Eu creio sim,creio sim
+              Dm
+Em que diz sobre mim
+Bb       F
+Eu creio sim
+
+F                       Am                       Dm    Bb
+Tudo que eu tenho rendo aos Teus pés e a mais ninguém
+F                             Am                 Dm    Bb
+Te dei meus fracassos e as vitórias Te darei também
+
+              F
+Diz que amado sou
+                    Am
+Sem que eu me sinta assim
+              Dm
+Diz que forte sou
+                       Bb
+Quando há fraqueza em mim
+
+               F                  Am
+E que seguro estou se frágil me sentir
+                 Dm                   Bb
+E que não estou só pois eu pertenço a ti
+
+          F          Am
+Eu creio sim, creio sim
+                Dm
+No que diz sobre mim
+Bb         F
+Eu creio sim`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4180,7 +4725,82 @@ O Deus do impossível`,
                 titulo: 'Dono do Mundo',
                 artista: 'Fernandinho',
                 tom: 'B',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4  [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | 
+        
+[B]               
+  Dono do mundo
+[E]             [E9]     
+  Dono do meu coração
+[B]    
+  És soberano
+[E]                       [C#m7]
+  O domínio está em Tuas mãos
+            [G#m7]    [F#]/[A#]    [B]
+Não há nada que eu possa  fazer
+           [F#]    [C#m7]
+Sem Tua presença
+           [G#m7]    [F#]/[A#]  [B]
+És a minha força, o meu refúgio
+       [F#]
+Libertador
+
+      [B]       [F#]/[B]
+Grandioso vencedor
+       [G#m7] [F#]   [E9]
+Em Teu nome há poder
+     [B]        [F#]/[B]
+Glorioso, Majestoso
+      [G#m7] [F#9]   [E9]
+Minha vida eu Te dou
+
+Intro: |:4/4  [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] |
+
+[B]               
+  Dono do mundo
+[E]             [E9]     
+  Dono do meu coração
+[B]    
+  És soberano
+[E]                       [C#m7]
+  O domínio está em Tuas mãos
+            [G#m7]    [F#]/[A#]    [B]
+Não há nada que eu possa  fazer
+           [F#]    [C#m7]
+Sem Tua presença
+           [G#m7]    [F#]/[A#]  [B]
+És a minha força, o meu refúgio
+       [F#]
+Libertador
+
+      [B]       [F#]/[B]
+Grandioso vencedor
+       [G#m7] [F#]   [E9]
+Em Teu nome há poder
+     [B]        [F#]/[B]
+Glorioso, Majestoso
+      [G#m7] [F#9]   [E9]
+Minha vida eu Te dou
+
+           [B]       [F#]/[B]
+Grandioso vencedor
+       [G#m7] [F#]   [E9]
+Em Teu nome há poder
+     [B]        [F#]/[B]
+Glorioso, Majestoso
+      [G#m7] [F#9]   [E9]
+Minha vida eu Te dou
+
+[Enterlúdio] | [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] ||
+
+      [B]       [F#]/[B]
+Grandioso vencedor
+       [G#m7] [F#]   [E9]
+Em Teu nome há poder
+     [B]        [F#]/[B]
+Glorioso, Majestoso
+      [G#m7] [F#9]   [E9]
+Minha vida eu Te dou
+[Intro] | [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] ||`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4189,7 +4809,39 @@ O Deus do impossível`,
                 titulo: 'E Ele Vem',
                 artista: 'David Quilan',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 [E] | [B9] | [A] | [B] :| 
+   [E]                 [B9]
+O tempo de cantar chegou
+   [A]                 [B]
+O tempo de dançar chegou
+   [E]                 [B9]
+O tempo de cantar chegou
+   [A]                 [B]
+O tempo de dançar chegou
+
+       [E]          [B9]                  [A]  
+E Ele vem, e Ele vem saltando pelos montes
+       [E]          [B9]                  [A]  
+E Ele vem, e Ele vem saltando pelos montes
+            [E]                [B9]                      
+E os seus cabelos, os seus cabelos são brancos como a 
+  [A] 
+neve
+            [E]                [B9]                     
+E os seus cabelos, os seus cabelos são brancos como a 
+[A]
+neve
+           [E]                 [B9]       [A]     [B]
+E nos seus olhos, e nos seus olhos há fogo
+
+      [E]                 [B]
+Incendeia Senhor a sua noiva
+     [A]                   [B]
+Incendeia Senhor a sua igreja
+      [E]                [B9]
+Incendeia Senhor a sua casa
+          [A] [E]/[G#] [F#m]
+Vem me incen_di__ar`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4198,7 +4850,112 @@ O Deus do impossível`,
                 titulo: 'Eis-me Aqui',
                 artista: 'Fernandinho',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 Bm7 | G9 | D/F# | A/C# :|
+
+Bm7          G           Bm7  A
+    Quero morrer pra mim mes__mo
+D           G           Bm7  A
+    Quero levar a minha cruz
+G          D/F#         Em7  D/F#
+    Coisas velhas já passa___ram
+G          D/F#          A
+    Vou seguir ao meu Jesus
+
+Bm7          G           Bm7  A
+    Quero morrer pra mim mes__mo
+D           G           Bm7  A
+    Quero levar a minha cruz
+G           D/F#        Em7  D/F#
+    Coisas velhas já passa___ram
+G          D/F#          A
+    Vou seguir ao meu Jesus
+
+         Bm7
+Eis me aqui
+         G           D/F#           A
+Eu quero ser afim de Deus, afim de Deus
+         Bm7
+Eis me aqui
+         G           D/F#           A/C#
+Eu quero ser afim de Deus, afim de Deus
+
+         Bm7
+Eis me aqui
+         G           D/F#           A
+Eu quero ser afim de Deus, afim de Deus
+         Bm7
+Eis me aqui
+         G           D/F#           A/C#
+Eu quero ser afim de Deus, afim de Deus
+
+           F#m     Bm7                F#m   Bm7
+Arder em tua    presença, de dia e de no___ite
+  G        A           |: Bm7 | G9 | D/F# | A/C# :|
+Estar a serviço do meu Rei!
+
+Bm7          G           Bm7  A
+    Quero morrer pra mim mes__mo
+D           G           Bm7  A
+    Quero levar a minha cruz
+G          D/F#         Em7  D/F#
+    Coisas velhas já passa___ram
+G          D/F#          A
+    Vou seguir ao meu Jesus
+
+Bm7          G           Bm7  A
+    Quero morrer pra mim mes__mo
+D           G           Bm7  A
+    Quero levar a minha cruz
+G           D/F#        Em7  D/F#
+    Coisas velhas já passa___ram
+G          D/F#          A
+    Vou seguir ao meu Jesus
+
+         Bm7
+Eis me aqui
+         G           D/F#           A
+Eu quero ser afim de Deus, afim de Deus
+         Bm7
+Eis me aqui
+         G           D/F#           A/C#
+Eu quero ser afim de Deus, afim de Deus
+
+         Bm7
+Eis me aqui
+         G           D/F#           A
+Eu quero ser afim de Deus, afim de Deus
+         Bm7
+Eis me aqui
+         G           D/F#           A/C#
+Eu quero ser afim de Deus, afim de Deus
+
+           F#m     Bm7                F#m   Bm7
+Arder em tua    presença, de dia e de no___ite
+G9        A              D  A
+Estar a serviço do meu Rei!
+
+         Bm7
+Eis me aqui
+         G           D/F#           A
+Eu quero ser afim de Deus, afim de Deus
+         Bm7
+Eis me aqui
+         G           D/F#           A/C#
+Eu quero ser afim de Deus, afim de Deus
+
+         Bm7
+Eis me aqui
+         G           D/F#           A
+Eu quero ser afim de Deus, afim de Deus
+         Bm7
+Eis me aqui
+         G           D/F#           A/C#
+Eu quero ser afim de Deus, afim de Deus
+
+           F#m     Bm7                F#m   Bm7
+Arder em tua    presença, de dia e de no___ite
+  G        A          (Bm7  G9  D/F#  A/C#)
+Estar a serviço do meu Rei!`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4207,7 +4964,85 @@ O Deus do impossível`,
                 titulo: 'Ele é Exaltado',
                 artista: 'Ademar de Barros',
                 tom: 'E',
-                letra: `Intro: |6/8 `,
+                letra: `Intro: ||:6/8 E | E/G# | A | F#m  B/D# :|
+
+E                   
+Ele é exaltado
+   E/G#               A
+O rei é exaltado nos céus
+      A/C#  B/D#
+Eu o louva_rei
+E                    E/G#             
+Ele é exaltado, pra sempre exaltado
+       A  B  A/C#  B/D# C#/F
+O seu no__me lou___va___rei
+
+F#m F#m/E   B/D# C#m B   
+Ele é o Senhor
+        E        E/G#      A  E/G#
+Sua verdade vai sempre reinar
+ F#m F#m/E B/D# C#m B   
+Ter_ra e  céus
+      E         E/D  C#4 C#/F
+Glorificam seu santo no__me
+F#m7       F#m/E  
+Ele é exaltado
+   D        B        E   
+O rei é exaltado nos céus
+
+E                   
+Ele é exaltado
+   E/G#               A
+O rei é exaltado nos céus
+      A/C#  B/D#
+Eu o louva_rei
+E                    E/G#             
+Ele é exaltado, pra sempre exaltado
+       A  B  A/C#  B/D# C#/F
+O seu no__me lou___va___rei
+
+F#m F#m/E   B/D# C#m B   
+Ele é o Senhor
+        E        E/G#      A  E/G#
+Sua verdade vai sempre reinar
+ F#m F#m/E B/D# C#m B   
+Ter_ra e  céus
+      E         E/D  C#4 C#/F
+Glorificam seu santo no__me
+F#m7       F#m/E  
+Ele é exaltado
+   D        B        E   
+O rei é exaltado nos céus
+
+F#m F#m/E   B/D# C#m B   
+Ele é o Senhor
+        E        E/G#      A  E/G#
+Sua verdade vai sempre reinar
+ F#m F#m/E B/D# C#m B   
+Ter_ra e  céus
+      E         E/D  C#4 C#/F
+Glorificam seu santo no__me
+F#m7       F#m/E  
+Ele é exaltado
+   D        B        E   
+O rei é exaltado nos céus
+
+F#m7       F#m/E 
+Ele é exaltado
+   D        B        E    C#m B   
+O rei é exaltado nos céus
+   C#m  B
+Aleluia
+F#m7       F#m/E 
+Ele é exaltado
+   D        B        E    C#m B   
+O rei é exaltado nos céus
+   C#m  B
+Aleluia
+F#m7       F#m/E
+Ele é exaltado
+   D        A/B       C#m  B/D# E
+O rei é exaltado nos céus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -4216,7 +5051,115 @@ O Deus do impossível`,
                 titulo: 'Em Teus Braços',
                 artista: 'Laura Souguellis',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 F7+ | % | C7+  | % :|
+
+F7+
+  Seguro estou nos braços
+                      C7+
+Daquele que nunca me deixou
+F7+
+  Seu amor perfeito sempre esteve
+              C7+
+Repousado em mim
+
+         G/B  Am
+E se eu pas__sar pelo vale
+            F7+           G
+Acharei conforto em Teu amor
+                Em7
+Pois eu sei que és aquele
+                    F7+   G
+Que me guarda, me guardas
+
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+
+F7+
+  Seguro estou nos braços
+                         C7+
+Daquele que nunca me deixou
+F7+
+  Seu amor perfeito sempre esteve
+              C7+
+Repousado em mim
+
+         G/B  Am
+E se eu pas__sar pelo vale
+            F7+           G
+Acharei conforto em Teu amor
+                Em7
+Pois eu sei que és aquele
+                    F7+   G
+Que me guarda, me guardas
+
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+
+F7+
+  Recaio em Tua graça
+C7+
+  Recaio de novo em Tuas mãos
+F7+
+  Recaio em Tua graça
+C7+
+  Recaio de novo em Tuas mãos
+
+F7+
+  Recaio em Tua graça
+C7+
+  Recaio de novo em Tuas mãos
+F7+
+  Recaio em Tua graça
+C7+
+  Recaio de novo em Tuas mãos
+
+         G/B  Am
+E se eu pas__sar pelo vale
+            F7+           G
+Acharei conforto em Teu amor
+                Em7
+Pois eu sei que és aquele
+                    F7+   G
+Que me guarda, me guardas
+
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso
+               F7+
+Em Teus braços é meu descanso
+               C7+
+Em Teus braços é meu descanso`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
