@@ -586,7 +586,7 @@ body {
 
 /* ==================== Print Styles ==================== */
 @media print {
-   /* body {
+    body {
         background: white;
         color: black;
     }
@@ -633,7 +633,6 @@ body {
     color: black;
   }
 }
-@media print {
   .cifra-content {
     page-break-inside: auto;
   }
