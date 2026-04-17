@@ -586,27 +586,37 @@ body {
 
 /* ==================== Print Styles ==================== */
 @media print {
-  body * {
-    visibility: hidden;
-  }
-
-  .cifra-content, .cifra-content * {
-    visibility: visible;
-  }
-
-  .cifra-content {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: white;
-    color: black;
-  }
-}
- pre {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
+    body {
+        background: white;
+        color: black;
+    }
+    
+    .header,
+    .search-section,
+    .cifras-section,
+    .modal-header,
+    .transpose-controls,
+    .btn,
+    .btn-close {
+        display: none !important;
+    }
+    
+    .modal-content {
+        box-shadow: none;
+        max-width: 100%;
+        background: white;
+    }
+    
+    .cifra-content {
+        background: white;
+        color: black;
+        padding: 0;
+    }
+    
+    .chord {
+        color: #000;
+        font-weight: bold;
+    }
 }
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
