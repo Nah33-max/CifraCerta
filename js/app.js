@@ -245,7 +245,7 @@ Final: [Cm]  [Bb]  [Gm]`,
                 titulo: 'A Alegria está no Coração',
                 artista: 'Corinhos Evangélicos',
                 tom: 'A',
-                letra: `Intro: |4/4 Intro: |4/4 [A] | [D] | [A] [G] [D]|| [A] | [B] [E] | [A] | [A]/[G] | [E] | [F] | [A] [E] | [A] [G] [D] |
+                letra: `Intro: |4/4 [A] | [D] | [A] [G] [D]|| [A] | [B] [E] | [A] | [A]/[G] | [E] | [F] | [A] [E] | [A] [G] [D] |
    
 [A]            
 A alegria está no coração
@@ -6238,7 +6238,152 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Eu me Rendo',
                 artista: 'Renascer Praise',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 G2 | G7M(9) | C9 | D4 |
+
+G2                 G7M 
+   A Ti eu vou clamar
+           C9     
+Pois tudo vem de Ti
+          C
+E tudo está em Ti
+G2                  G7M 
+   Por Ti vou caminhar
+         C9 
+Tu és a direção
+         C       G/B
+O sol a me guiar
+
+Am7               D/F#  
+     Tudo pode passar
+        G     G/B    C      G/B
+O teu amor jamais me deixará
+Am7                   D/F# 
+     Sempre há de existir
+          G 
+Novo amanhã
+      G/B     C  C5-
+Preparado pra mim
+               C  D
+Preparado pra mim
+
+G2                  G7M(9)
+   A Ti  eu vou clamar
+           C9/E        
+Pois tudo vem de Ti
+          C
+E tudo está em Ti
+G2                  G7M(9)
+   Por Ti vou caminhar
+         C/E   
+Tu és a direção
+         C       G/B
+O sol a me guiar
+Am7               D/F#
+     Tudo pode passar
+        G     G/B    C      G/B
+O Teu amor jamais me deixará
+Am7                   D/F#     
+     Sempre há de existir
+          G2      
+Novo amanhã
+      G/B     C  C5-
+Preparado pra mim
+               C  C5-
+Preparado pra mim
+               C  D
+Preparado pra mim
+         G
+A Ti Senhor
+
+G2                  G7M 
+   A Ti  eu vou clamar
+           C9     
+Pois tudo vem de Ti
+          C
+E tudo está em Ti
+G2                  G7M 
+   Por Ti vou caminhar
+         C9 
+Tu és a direção
+         C       
+O sol a me guiar
+Am7               D/F#  
+     Tudo pode passar
+        G     G/B    C      G/B
+O teu amor jamais me deixará
+Am7                   D/F# 
+     Sempre há de existir
+          G      
+Novo amanhã
+      G/B     C  C5-
+Preparado pra mim
+               C  C5-
+Preparado pra mim
+               C  D
+Preparado pra mim
+
+       G              D
+Eu me rendo aos Teus pés
+            Em          C
+És tudo que eu preciso pra viver
+       G               D
+Eu me lanço aos Teus braços
+        Em           C
+Onde encontro, meu refúgio
+
+       G              D
+Eu me rendo aos Teus pés
+            Em          C
+És tudo que eu preciso pra viver
+       G               D
+Eu me lanço aos Teus braços
+        Em           C
+Onde encontro, meu refúgio
+
+   G  G7M 
+Jesus
+          Em7  C9
+Eis-me aqui
+   G  G7M  
+Jesus
+          Em7  C9
+Eis-me aqui
+
+       G              D
+Eu me rendo aos Teus pés
+            Em          C9
+És tudo que eu preciso pra viver
+       G               D
+Eu me lanço aos Teus braços
+        Em           C9
+Onde encontro, meu refúgio
+
+       G              D/F#
+Eu me rendo aos Teus pés
+            Em          C
+És tudo que eu preciso pra viver
+       G               D/F#
+Eu me lanço aos Teus braços
+        Em           C
+Onde encontro, meu refúgio
+
+   G  D/F# 
+Jesus
+          Em7  C9
+Eis-me aqui
+   G  D/F#  
+Jesus
+          Em7  C9
+Eis-me aqui
+
+   G  D/F# 
+Jesus
+          Em7  C9
+Eis-me aqui
+   G  D/F#  
+Jesus
+          Em7  C9  G    
+Eis-me aqui`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6247,7 +6392,53 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Eu Navegarei',
                 artista: 'Gabriela Rocha',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Am7 | % | G | % | F | Dm7 | E | % |
+
+          Am7
+Eu navegarei
+                G6
+No oceano do Espírito
+            F7M  Dm7
+E ali adorarei
+                 E  E4  E
+Ao Deus do meu amor
+
+             Am7
+Espírito, Espírito
+                G6
+Que desce como fogo
+                  F7M   Dm7
+Vem como em pentecostes
+               E  E4  E
+E enche-me de novo
+
+
+         Am7
+Eu adorarei
+                  G6
+Ao Deus da minha vida
+                F7M  Dm7
+Que me compreendeu
+                    E  E4  E
+Sem nenhuma explicação
+
+             Am7
+Espírito, Espírito
+                G6
+Que desce como fogo
+                  F7M(9)  Dm7
+Vem como em pentecostes
+               E  E4  E
+E enche-me de novo
+
+             Am7
+Espírito, Espírito
+                G6
+Que desce como fogo
+                  F7M(9)  Dm7
+Vem como em pentecostes
+               E  E4  E
+E enche-me de novo`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6256,7 +6447,53 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Eu Quero Ser Santo',
                 artista: 'Eyshila',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 G9  D9 | Em7 | C9 | G9  D9 | Em7  C9 | D9 |
+
+G9    D9
+Alvo mais que a
+ Em7   D9
+Neve quero ser
+  C9    G9    C9
+Pra te honrar
+       D4     D9
+Pra te agradar
+G9    D9
+E em santidade
+Em7       D9
+Eu vou viver
+C9      G/B   C9
+Em todo o tempo
+        B4    B/D#
+Pois sou teu templo
+ Em7    D9
+Renuncio tudo o
+   C9    B
+Que é impuro
+ Em7    D9
+Renuncio minha carne
+ C9      D4 B/D#
+Renuncio o mundo
+  Em7        D9
+E os sonhos que não
+ C9      G/B
+Te glorificam, Senhor
+C9    G9     D4   D9
+Eu renuncio por amor
+
+        G9    D9
+Eu quero ser santo
+ C9 B4  B/D#
+Santo, santo
+ Em7     D9  C9    D9
+Como Santo És, Senhor
+        G9    D9
+Eu quero ser santo
+ C9 B4     B/D#
+Santo, santo
+ Em7     D9
+Como Santo És
+ C9   D4   D9      G9
+Como santo És, Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6265,7 +6502,31 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Eu Sou Livre',
                 artista: 'Ronaldo Bezerra',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 D | G7+ | Bm | A | D |
+                
+                D
+Os cegos verão por ti
+
+Os mudos cantarão
+G
+Os mortos viverão
+
+Os povos te adorarão
+Bm            A
+As trevas fugirão
+
+Por ti eu grito
+        D
+Eu sou livre!
+
+      D
+Livre pra correr
+      G
+Livre pra dançar
+      Bm              A
+Livre pra viver por ti
+       D
+Eu sou livre!`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6274,7 +6535,160 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Eu vou Construir',
                 artista: 'Juliano Son',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4  A  | D7+ | A/C# | D |
+
+
+A                 D7+
+  Digno desta canção só Tu és Senhor
+A/C#                  D7+
+     Digno do meu louvor só Tu és Senhor
+A/C#                 D7+
+  Digno da minha vida Tu és Senhor
+           A/C#  D7+
+Oh eu sou Teu
+
+A                   D7+
+  Nome que é sobre todos é o Teu Jesus
+A/C#                D7+
+     Fonte da salvação só Tu és Jesus
+A                 D7+
+  Digno da minha vida Tu és Jesus
+          A/C#            D9
+Oh eu sou Teu   oh eu sou Teu
+
+ D
+Santo
+          Bm7
+És incomparável
+         A/E
+És inigualável
+            D/F#
+Abre os meus olhos, Senhor
+
+ D
+Mostra quem Tu és
+  Bm7             A/E                   
+E enche o meu coração do amor 
+          D/F#
+Que faz mudar o mundo
+
+Interlúdio: | A | D7+ | A/C# | D |
+
+A                 D7+
+  Digno desta canção só Tu és Senhor
+A/C#                  D7+
+     Digno do meu louvor só Tu és Senhor
+A/C#                 D7+
+  Digno da minha vida Tu és Senhor
+           A/C#  D7+
+Oh eu sou Teu
+
+A                   D7+
+  Nome que é sobre todos é o Teu Jesus
+A/C#                D7+
+     Fonte da salvação só Tu és Jesus
+A                 D7+
+  Digno da minha vida Tu és Jesus
+          A/C#            D9
+Oh eu sou Teu   oh eu sou Teu
+
+ D
+Santo
+          Bm7
+És incomparável
+         A/E
+És inigualável
+            D/F#
+Abre os meus olhos, Senhor
+
+ D
+Mostra quem Tu és
+  Bm7             A/E                   
+E enche o meu coração do amor 
+          D/F#
+Que faz mudar o mundo
+
+ D
+Santo
+          Bm7
+És incomparável
+         A/E
+És inigualável
+            D/F#
+Abre os meus olhos, Senhor
+
+ D
+Mostra quem Tu és
+  Bm7             A/E                   
+E enche o meu coração do amor 
+          D/F#
+Que faz mudar o mundo
+
+Interlúdio: | D | E | F#m | A/C# |
+
+
+D             E               F#m
+Eu vou construir minha vida em Ti
+          A/C#
+Tu és meu fundamento
+D           E            F#m
+Eu vou confiar somente em Ti
+           A/C#
+Não vou ser abalado
+
+D             E               F#m
+Eu vou construir minha vida em Ti
+          A/C#
+Tu és meu fundamento
+D           E            F#m
+Eu vou confiar somente em Ti
+           A/C#
+Não vou ser abalado
+
+D             E               F#m
+Eu vou construir minha vida em Ti
+          A/C#
+Tu és meu fundamento
+D           E            F#m
+Eu vou confiar somente em Ti
+           A/C#
+Não vou ser abalado
+
+ D
+Santo
+          Bm7
+És incomparável
+         A/E
+És inigualável
+            D/F#
+Abre os meus olhos, Senhor
+
+ D
+Mostra quem Tu és
+  Bm7             A/E                   
+E enche o meu coração do amor 
+          D/F#
+Que faz mudar o mundo
+
+Interlúdio: | D | E | F#m | A/C# |
+
+D             E               F#m
+Eu vou construir minha vida em Ti
+          A/C#
+Tu és meu fundamento
+D           E            F#m
+Eu vou confiar somente em Ti
+           A/C#
+Não vou ser abalado
+
+D             E               F#m
+Eu vou construir minha vida em Ti
+          A/C#
+Tu és meu fundamento
+D           E            F#m
+Eu vou confiar somente em Ti
+           A/C#      D
+Não vou ser abalado`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6283,7 +6697,119 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Faz Chover',
                 artista: 'Trazendo a Arca',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Am9 | F | C | G4  G |
+
+    Am
+Eu vejo uma pequena nuvem
+      F
+Do tamanho da mão de um homem
+    C
+Mas este é o sinal
+            G
+Que a tua chuva vai descer
+
+    Am
+Eu vejo uma pequena nuvem
+      F
+Do tamanho da mão de um homem
+    C
+Mas este é o sinal
+            G
+Que a tua chuva vai descer
+
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+
+    Am
+Eu vejo uma pequena nuvem
+      F
+Do tamanho da mão de um homem
+    C
+Mas este é o sinal
+            G
+Que a tua chuva vai descer
+
+    Am
+Eu vejo uma pequena nuvem
+      F
+Do tamanho da mão de um homem
+    C
+Mas este é o sinal
+            G
+Que a tua chuva vai descer
+
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+
+      Am             F
+Se pedirmos Jesus virá
+       C         G
+Como chuva descerá
+      Am             F
+Se pedirmos Jesus virá
+        C
+Então clame, então grite
+        G
+Então chame por ele
+
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+
+      Am             F
+Se pedirmos Jesus virá
+       C         G
+Como chuva descerá
+      Am             F
+Se pedirmos Jesus virá
+      C/G
+Então clame, então grite
+        G
+Então chame por ele
+
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+        Am          F
+Faz chover, faz chover
+C                       G
+Abre as comportas dos céus
+       Am
+Faz chover`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6292,7 +6818,43 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Faz Chover',
                 artista: 'Fernandinho',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Bm G | D  A9 | Bm G | D | A9 |
+
+   D                  A9      Bm
+Assim como a corça anseia por água
+ G        D/F#     Em       A9
+Como terra seca precisa da chuva
+     G  A/G     D/F#    G
+Meu coração tem sede de Ti
+     D          A9
+Rei meu e Deus meu
+
+   D                  A9      Bm
+Assim como a corça anseia por água
+ G        D/F#     Em       A9
+Como terra seca precisa da chuva
+     G  A/G     D/F#    G
+Meu coração tem sede de Ti
+     D          A9
+Rei meu e Deus meu
+
+        Bm  G     D     A9
+Faz chover,   Senhor Jesus
+          Bm  G          A9
+Derrama chuva   neste lugar
+             Bm  G     D     A9
+Vem com teu rio    Senhor Jesus
+     Bm  G          A9
+Inundar  o meu coração
+
+        Bm  G     D     A9
+Faz chover,   Senhor Jesus
+          Bm  G          A9
+Derrama chuva   neste lugar
+             Bm  G     D     A9
+Vem com teu rio    Senhor Jesus
+     Bm  G          A9
+Inundar  o meu coração`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6301,7 +6863,134 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Fidelidade',
                 artista: 'Danielle Cristina',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 Dm | Bb | F | C9 :| Dm  C/E  F  Gm |2/4 Am  C |4/4 Dm C/E  F  Gm |2/4 Am  C |4/4 Dm | 
+
+Dm                         Bb     
+   Oh! Deus de Israel, eu sei
+         C9            
+Que não vim a este mundo
+        Gm 
+Pra adorar outro Rei
+Dm                   Bb  
+   Os leões estão rugindo sem parar
+        C9 
+Meu louvor incomodou
+          Gm              Am 
+A todos que estão contra Ti
+        Dm 
+Oh! Jeová
+
+Solo: | Dm  C/E  F  Gm |2/4 Am  C |4/4 Dm C/E  F  Gm |2/4 Am  C |4/4 Dm | 
+
+Nada pode intercalar
+Bb
+    O louvor do meu coração
+C9                        
+   Dos manjares eu abro mão
+Gm                     Am  C9
+   Os palácios não quero, não
+Dm
+   Eis-me aqui como Daniel
+F/C                           
+    Com os olhos focados no céu
+Bb                     
+   Com o risco de morrer
+ Gm                        A/C#   
+Pois o que importa é Lhe obedecer
+
+ Dm                  Bb
+Senhor, não vou dividir
+            F 
+Minha adoração
+          C9           Dm                
+Exclusivo é o meu coração
+             Bb                 F
+Vivo só pra Ti, não abro mão do céu
+               C9       A/C#       Dm  F  C
+Até diante da morte prefiro ser fiel
+
+Dm                   
+   Nada pode intercalar
+Bb
+    O louvor do meu coração
+C9                        
+   Dos manjares eu abro mão
+Gm                     Am  C9
+   Os palácios não quero, não
+Dm
+   Eis-me aqui como Daniel
+F/C                           
+    Com os olhos focados no céu
+Bb                     
+    Com o risco de morrer
+ Gm                        A/C#
+Pois o que importa é Lhe obedecer
+
+ Dm                  Bb
+Senhor, não vou dividir
+            F 
+Minha adoração
+          C9           Dm                
+Exclusivo é o meu coração
+             Bb                 F
+Vivo só pra Ti, não abro mão do céu
+                 C9       A/C#    | Dm | Bb | F | C9 | 
+Mesmo diante da morte prefiro ser fiel
+
+   Dm                        
+Aquele que habita no esconderijo do Altíssimo
+C/E  
+    À sombra do Onipotente descansará
+Gm 
+   Direi do Senhor: Ele é o meu Deus
+   A7
+O meu refúgio, a minha fortaleza
+Dm                
+Ele me livra do laço do passarinheiro
+C9/E 
+     E da peste perniciosa
+Gm               
+Ele me cobre com Suas penas
+     A7 
+E debaixo de Suas asas estarei seguro
+Bb                           
+Eu não temo o espanto noturno
+Gm
+   Nem seta que voe de dia
+ Dm
+Nem peste que ande na escuridão
+ C 
+Nem mortandade que assole ao meio-dia
+ Gm                                
+Não importa quantos caiam do meu lado
+   F/A 
+Direita, esquerda, eu sou protegido
+ Bb                                         
+Se eu for fiel eu moverei o céu
+C                            Dm 
+Ele envia anjos para me guardar
+
+ Dm                  Bb
+Senhor, não vou dividir
+            F 
+Minha adoração
+          C9           Dm                
+Exclusivo é o meu coração
+             Bb                 F
+Vivo só pra Ti, não abro mão do céu
+               C9       A/C#       Dm
+Até diante da morte prefiro ser fiel
+
+ Dm                  Bb
+Senhor, não vou dividir
+            F 
+Minha adoração
+          C9           Dm                
+Exclusivo é o meu coração
+             Bb                 F
+Vivo só pra Ti, não abro mão do céu
+               C9       A/C#     | Dm | Bb | F | C9 | Dm ||
+Até diante da morte prefiro ser fiel`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6310,7 +6999,68 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Filho de Davi',
                 artista: 'David Quilan',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 D9 | % | C9 | % | G | % | D | E/D D |
+                D9                       C9
+Sei que estás aqui, posso sentir o teu calor
+             G                            D   E/D D
+Vem me envolver, me constranger com teu amor
+                D9                       C9
+Sei que estás aqui, posso sentir o teu calor
+             G                            D   E/D D
+Vem me envolver, me constranger com teu amor
+
+           D9                  C9
+Filho de Davi tem compaixão de mim
+              G                      D
+Toca nos meus olhos faz as escamas caírem
+           D9                  C9
+Filho de Davi tem compaixão de mim
+              G                        D  E/D D
+Toca nos meus olhos, pois eu quero te ver
+
+                D9                       C9
+Sei que estás aqui, posso sentir o teu calor
+             G                            D   E/D D
+Vem me envolver, me constranger com teu amor
+                D9                       C9
+Sei que estás aqui, posso sentir o teu calor
+             G                            D   E/D D
+Vem me envolver, me constranger com teu amor
+
+           D9                  C9
+Filho de Davi tem compaixão de mim
+              G                      D
+Toca nos meus olhos faz as escamas caírem
+           D9                  C9
+Filho de Davi tem compaixão de mim
+              G                        D 
+Toca nos meus olhos, pois eu quero te ver
+                D4            D        D9            C9
+Te ver, quero te ver, Te ver, quero Te ver, quero Te ver
+              G                     D9
+Toca nos meus olhos, pois quero Te ver
+
+                D9                       C9
+Sei que estás aqui, posso sentir o teu calor
+             G                            D   E/D D
+Vem me envolver, me constranger com teu amor
+                D9                       C9
+Sei que estás aqui, posso sentir o teu calor
+             G                            D   E/D D
+Vem me envolver, me constranger com teu amor
+
+           D9                  C9
+Filho de Davi tem compaixão de mim
+              G                      D
+Toca nos meus olhos faz as escamas caírem
+           D9                  C9
+Filho de Davi tem compaixão de mim
+              G                        D 
+Toca nos meus olhos, pois eu quero te ver
+                D4            D        D9            C9
+Te ver, quero te ver, Te ver, quero Te ver, quero Te ver
+              G                     D9
+Toca nos meus olhos, pois quero Te ver!`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6319,7 +7069,87 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Fogo consumidor',
                 artista: 'Fernandinho',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4  A9  A4  A :|
+
+A9              A4
+Fogo consumidor
+A9
+Venha arder em nós
+            Bm7
+Aquecer a chama
+               F#m
+Que um dia queimou por Ti
+A9                  A4
+Homens se desviaram
+A9                   A4
+Profetas se venderam
+Bm7                 F#m           A9
+Mas existem aqueles que não se dobraram
+                E   
+De ante outros deuses
+Bm7                 F#m           A9
+Mas existem aqueles que não se dobraram
+               E       D9
+De ante outros deuses
+
+A9                           E/G#
+Deus está levantando um novo povo
+                         F#m
+Deus está sacudindo toda terra
+                             D
+Deus está separando seus profetas
+A9                Em
+Um novo dia amanhecer
+                         Bm
+Uma nova história se cumprir
+                    D9
+O choro já durou a noite
+                 A9    E  
+É chegado o amanhecer
+            F#m    D
+É chegado o amanhecer
+
+A9              A4
+Fogo consumidor
+A9
+Venha arder em nós
+            Bm7
+Aquecer a chama
+               F#m
+Que um dia queimou por Ti
+A9                  A4
+Homens se desviaram
+A9                   A4
+Profetas se venderam
+Bm7                 F#m           A9
+Mas existem aqueles que não se dobraram
+               E/G#
+De ante outros deuses
+Bm7                 F#m           A9
+Mas existem aqueles que não se dobraram
+               E       D9
+De ante outros deuses
+
+A9                           E/G#
+Deus está levantando um novo povo
+                         F#m
+Deus está sacudindo toda terra
+                             D
+Deus está separando seus profetas
+A9                G
+Um novo dia amanhecer
+                         Bm
+Uma nova história se cumprir
+                    D9
+O choro já durou a noite
+                  A9  E
+É chegado o amanhecer
+            F#m    D
+É chegado o amanhecer
+            A      G
+É chegado o amanhecer
+            Bm     D        A  A4 A9
+É chegado o amanhecer`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6328,7 +7158,124 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Galileu',
                 artista: 'Fernandinho',
                 tom: 'C#',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 A#m | F# | A#m F# :|
+
+C#            F#9
+  Deixou Sua glória
+         C#            F#9
+Foi por amor, foi por amor
+A#m         F#9         A#m
+   E o seu sangue, derramou
+            F#9
+Que grande amor
+
+D#m7        F#      C#
+    Naquela via dolorosa
+        G#
+Se entregou
+D#m7         F#
+    Eu não mereço
+         C#           G#
+Mas Sua graça me alcançou
+
+     D#m7           F#
+Eu me rendo ao seu amor
+       C#            G#
+Eu me rendo ao seu amor
+       D#m7         F#
+Eu me rendo ao seu amor
+      A#m
+Eu me rendo
+       G#
+Eu me rendo
+
+A#m
+Deus Emanuel
+  F#
+Estrela da Manhã
+ C#
+Cordeiro de Deus
+G#
+Pão da Vida
+A#m
+Príncipe da Paz
+  F#
+O grande El Shaddai
+C#
+Santo de Israel
+G#
+Luz do Mundo
+
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    A#m     G#
+Galileu, Jesus, Jesus
+
+Intro: | A#m | F#7M | A#m | F#7M |
+
+     D#m7           F#
+Eu me rendo ao seu amor
+       C#            G#
+Eu me rendo ao seu amor
+       D#m7         F#
+Eu me rendo ao seu amor
+      A#m
+Eu me rendo
+       G#
+Eu me rendo
+
+A#m
+Deus Emanuel
+  F#
+Estrela da Manhã
+ C#
+Cordeiro de Deus
+G#
+Pão da Vida
+A#m
+Príncipe da Paz
+  F#
+O grande El Shaddai
+C#
+Santo de Israel
+G#
+Luz do Mundo
+
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    A#m     G#
+Galileu, Jesus, Jesus
+
+F#7+
+Oh, oh, oh, oh
+G#4
+   Oh, oh, oh, oh
+A#m               C#
+    Oh, oh, oh, oh
+
+F#7+
+Oh, oh, oh, oh
+G#4
+   Oh, oh, oh, oh
+A#m               C#
+    Oh, oh, oh, oh
+
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    C#     G#
+Galileu, Jesus, Jesus
+D#m  F#    A#m     G#  F#
+Galileu, Jesus, Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6337,7 +7284,45 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Grande é o Senhor',
                 artista: 'Adhemar de Campos',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [A] | [D]/[A]
+
+A9           D9     
+Grande é o Senhor
+      E9          A9
+E mui digno de louvor
+    D9              E/G#
+Na cidade do nosso Deus
+           F#m7
+Seu Santo monte
+E                Bm  C#m  D  E
+Alegria de toda terra
+
+A9            D9
+Grande é o Senhor
+            E9        A9
+Em quem nós temos a vitória
+     D9
+Que nos ajuda
+ E/G#      F#m7
+Contra o inimigo
+    E
+Por isso diante Dele
+          Bm  C#m  D  E
+Nos prostramos
+
+    A9                      C#m  F#7(9b)
+Queremos o Teu nome engrandecer
+D9       C#m     
+E agradecer-Te
+        G               E
+Por tua obra em nossas vidas
+     A9                    C#m  F#7(9b)
+Confiamos em Teu infinito amor
+     D9         C#m
+Pois só Tu és o Deus eterno
+G          E       A9   D9  E
+Sobre toda terra e Céus
+`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6346,7 +7331,86 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Hosana',
                 artista: 'Mariana Valadão',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Solo Bateria ||: C#m | E | F#m7 | G#m7 :||
+
+E
+ Eu vejo o Rei da Glória
+C#m7
+Vindo com Seu poder
+        F#m7       G#m  | C#m7 | C#m |
+A terra vai estremecer
+E
+ Eu vejo a Sua graça
+C#m7
+Os pecados perdoar
+        F#m7         B9  
+A terra vai então cantar
+
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          C#m  B9
+Hosana nas altu___ras
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          B9   C#m7
+Hosana nas altu___ras
+
+E
+ Eu vejo um povo eleito
+C#m7
+Assumindo o seu lugar
+        F#m7       G#m
+Pra sua fé compartilhar
+E
+ Eu vejo um avivamento
+C#m7
+Quando o Teu povo orar
+        F#m7         B9
+E Te buscar, e Te buscar
+
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          C#m  B9
+Hosana nas altu___ras
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          B9    E
+Hosana nas altu___ras
+
+Solo: || C#m | E | F#m7 | G#m7 | C#m | E | F#m7 | G#m7 ||
+
+A               B9
+Limpa o meu coração
+G#m                      C#m7
+Abre os meus olhos que eu possa ver
+A                     B9       C#m7
+Com amor que tens por mim, Te amo!
+A                 B9
+Quero ser igual a Ti
+G#m                  C#m7
+Tudo o que sou é pra Teu louvor
+A                     B9          C#m7
+Pois contigo eu vou viver, pra sempre
+
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          C#m  B9
+Hosana nas altu___ras
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          B9   E
+Hosana nas altu___ras
+
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          C#m  B9
+Hosana nas altu___ras
+  E/G#  A     B9  C#m
+Hosa____na, hosa__na
+  A          B9   C#m
+Hosana nas altu___ras
+  A          B9   E
+Hosana nas altu___ras`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6355,7 +7419,110 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Há um Lugar',
                 artista: 'Heloísa Rosa',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 C9 | % | G | % | 
+
+         C9
+Há um lugar de descanso em Ti
+         G
+Há um lugar de refrigério em Ti
+         C9            D/F#
+Há um lugar onde a verdade
+   Em        C9           G
+Reina, esse lugar é no Senhor
+
+         C9
+Há um lugar onde as pessoas 
+
+Não me influenciam
+         G
+Há um lugar onde 
+
+Eu ouço o Teu espírito
+         C9       D                
+Há um lugar de vitória 
+            Em
+Em meio a guerra
+        C9           G
+Esse lugar é no Senhor
+
+                    C9
+Esse lugar é no Senhor
+                    G
+Esse lugar é no Senhor
+                    C9
+Esse lugar é no Senhor
+        C9       G
+Esse lugar é no Senhor
+
+         C9
+Há um lugar onde 
+
+A inconstância não me domina
+         G
+Há um lugar onde minha fé
+
+É fortalecida
+         C9         D
+Há um lugar onde a paz
+          Em
+É quem governa
+        C9          G
+Esse lugar é no Senhor
+
+         C9
+Há um lugar onde 
+
+Os sonhos não se abortam
+         G
+Há um lugar 
+
+Onde os medos não te dominam
+         C9
+Há um lugar que quando
+    D              Em
+Se perde é que  se ganha
+       C9         G
+Esse lugar é no Senhor
+
+                    C9
+Esse lugar é no Senhor
+                    G
+Esse lugar é no Senhor
+                    C9
+Esse lugar é no Senhor
+                    G
+Esse lugar é no Senhor
+
+                    C9
+Esse lugar é no Senhor
+                    G
+Esse lugar é no Senhor
+                    C9
+Esse lugar é no Senhor
+                    G
+Esse lugar é no Senhor
+
+[Solo] C9  G  C9  G
+
+    C9
+És tudo o que eu preciso, Jesus!
+    G
+És tudo o que eu preciso, Jesus!
+    C9
+És tudo o que eu preciso, Jesus!
+G
+  Oh, meu amado
+
+      C9
+Tu És tudo o que eu preciso, Jesus!
+      G
+Tu És tudo o que eu
+
+Mais preciso, Jesus!
+    C9
+És tudo o que eu preciso
+       G
+Jesus!`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6364,7 +7531,112 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Há um Rio',
                 artista: 'Fernandinho',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4  Am  F  E  Am
+
+Am        F        C          G     Am
+   Há um rio cujas águas são limpas
+       F         C          G     Am
+Há um rio cujas fontes não cessam
+       F       C        
+Há um rio que corre 
+     G       Am  F  C  G
+Do trono de Deus
+
+Am        F          C           G    
+   Há um rio que desceu de Sua glória
+Am        F          C         G  Am
+   Há um rio que morreu numa cruz
+          F         C            
+Mas esse rio ao terceiro dia 
+ G       Am  F  C  G
+Ressuscitou
+
+            Am  F  C
+Eu vou mergulhar      
+ G       Am  F  C  
+Nos Teus rios
+    G        Am  F  C
+Eu vou mergulhar   
+ G       Am    F  C  
+Nas Tuas fontes
+
+            Am  F  C
+Eu vou mergulhar      
+ G       Am  F  C  
+Nos Teus rios
+    G        Am  F  C
+Eu vou mergulhar   
+ G       Am    F  C  
+Nas Tuas fontes
+
+Am        F        C          G     Am
+   Há um rio cujas águas são limpas
+       F         C          G     Am
+Há um rio cujas fontes não cessam
+       F       C    
+Há um rio que corre 
+     G       A5  F5  C5  G5  Am
+Do trono de Deus
+
+       F          C           G    Am
+Há um rio que desceu de Sua glória
+       F          C         G  Am
+Há um rio que morreu numa cruz
+          F         C         G  
+Mas esse rio ao terceiro dia 
+ G       A5  F5  C5  G5 
+Ressuscitou
+
+            Am  F  C
+Eu vou mergulhar      
+ G       Am  F  C  
+Nos Teus rios
+    G        Am  F  C
+Eu vou mergulhar   
+ G       Am    F  C  
+Nas Tuas fontes
+            Am  F  C
+Eu vou mergulhar      
+ G       Am  F  C  
+Nos Teus rios
+    G        Am  F  C
+Eu vou mergulhar   
+ G       Am    F  C  
+Nas Tuas fontes
+
+    Am        F        C
+Me limpa, me sara, me cura 
+      G          Am      F       C  G
+Transforma e restaura o meu coração
+    Am        F        C
+Me limpa, me sara, me cura 
+    G            Am      F       C  G
+Restaura e transforma o meu coração
+    Am        F        C
+Me limpa, me sara, me cura 
+    G            Am      F       C  G
+Restaura e transforma o meu coração
+    Am        F        C
+Me limpa, me sara, me cura 
+      G          Am      F       C  G
+Transforma e restaura o meu coração
+
+            Am  F  C
+Eu vou mergulhar      
+ G       Am  F  C  
+Nos Teus rios
+    G        Am  F  C
+Eu vou mergulhar   
+ G       Am    F  C  
+Nas Tuas fontes
+            Am  F  C
+Eu vou mergulhar      
+ G       Am  F  C  
+Nos Teus rios
+    G        Am  F  C
+Eu vou mergulhar   
+ G       Am    F  C  
+Nas Tuas fontes`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -6373,7 +7645,90 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Incendeia-nos',
                 artista: 'Fred Arrais',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||4/4 Bm | A/C# G D/F# | Em | D A/C# A |  Bm | A/C# G D/F# | Em | D Em ||
+
+       Bm
+Socorro Deus
+Me salve agora
+Me salve agora
+De mim mesmo
+
+Interlúdio: | Bm | A/C# G D/F# | Em | D A/C# A |
+
+        Bm
+Me dá Teus olhos 
+Tua visão 
+Eu quero ser aqui
+As Tuas mãos
+
+Interlúdio: | Bm | A/C# G D/F# | Em | D A/C# A |
+
+       Bm
+Socorro Deus
+Me salve agora
+Me salve agora
+De mim mesmo
+
+Interlúdio: | Bm | A/C# G D/F# | Em | D A/C# A |
+
+        Bm
+Me dá teus olhos 
+Tua visão 
+Eu quero ser aqui
+As tuas mãos
+
+Interlúdio: | Bm | A/C# G D/F# | Em | D A/C# A |
+
+               Bm
+Pros perdidos uma luz
+               D
+Pros caídos uma mão 
+              A
+Acende um fogo em mim
+             Em
+Em minha geração 
+             Bm
+Pros perdidos uma luz
+             D
+Pros caídos uma mão 
+             A
+Acende um fogo em mim
+            Em
+Em minha geração
+
+          Bm
+Este fogo nunca apaga
+          D
+Este fogo nunca apaga
+          A
+Este fogo nunca apaga
+         Em
+Este fogo nunca apaga
+          Bm
+Este fogo nunca apaga
+          D
+Este fogo nunca apaga
+          A
+Este fogo nunca apaga
+         Em
+Este fogo nunca apaga
+
+            Bm
+Incendeia-nos 
+            D
+Incendeia-nos 
+            A
+Não iremos nos calar
+            Em
+Não iremos nos envergonhar 
+            Bm
+Incendeia-nos 
+            D
+Incendeia-nos 
+            A
+Não iremos nos calar
+            Em
+Não iremos nos envergonhar`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -7735,7 +9090,7 @@ Final: |: [C#m]  [E]/[G#] | [A]  [F#m][E][B]/[D#] |[E]||`,
                 titulo: 'Vem me Buscar',
                 artista: 'Jefferson e Suellen',
                 tom: 'G',
-                letra: `Intro: |4/4 [|Em] | [D] | [C] | [Am} |
+                letra: `Intro: |4/4 [Em] | [D] | [C] | [Am] |
 
 [Em]                  [D]
   És adorado entre nós
