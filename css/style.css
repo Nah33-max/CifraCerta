@@ -585,39 +585,6 @@ body {
 }
 
 /* ==================== Print Styles ==================== */
-/*@media print {
-    body {
-        background: white;
-        color: black;
-    }
-    
-    .header,
-    .search-section,
-    .cifras-section,
-    .modal-header,
-    .transpose-controls,
-    .btn,
-    .btn-close {
-        display: none !important;
-    }
-    
-    .modal-content {
-        box-shadow: none;
-        max-width: 100%;
-        background: white;
-    }
-    
-    .cifra-content {
-        background: white;
-        color: black;
-        padding: 0;
-    }
-    
-    .chord {
-        color: #000;
-        font-weight: bold;
-    }
-} */
 @media print {
     body {
         background: white;
@@ -711,6 +678,13 @@ body {
         max-height: none !important;
         overflow: visible !important;
         box-shadow: none !important;
+    }
+}
+@media print {
+    .container {
+        padding: 0 !important;
+        margin: 0 !important;
+        max-width: 100% !important;
     }
 }
 /* ==================== Responsive ==================== */
