@@ -676,6 +676,12 @@ body {
         overflow: visible !important;
     }
 }
+@media print {
+    .modal.active {
+        align-items: flex-start !important;
+        justify-content: flex-start !important;
+    }
+}
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
     .header-content {
