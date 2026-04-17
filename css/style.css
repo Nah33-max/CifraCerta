@@ -654,6 +654,28 @@ body {
         display: none !important;
     }
 }
+@media print {
+    html, body {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .modal {
+        position: static !important;
+        display: block !important;
+        height: auto !important;
+        overflow: visible !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .modal-content {
+        margin: 0 !important;
+        padding: 0 !important;
+        max-height: none !important;
+        overflow: visible !important;
+    }
+}
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
     .header-content {
