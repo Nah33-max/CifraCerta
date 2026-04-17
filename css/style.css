@@ -586,13 +586,13 @@ body {
 
 /* ==================== Print Styles ==================== */
 @media print {
-    body {
+ /*   body {
         background: white;
         color: black;
         font-size: 12pt;
     }
 
-    /* Corrige o BUG da repetição */
+  
     .modal {
         position: static !important;
         height: auto !important;
@@ -611,7 +611,7 @@ body {
         min-height: auto !important;
     }
 
-    /* Remove coisas desnecessárias */
+  
     .header,
     .search-section,
     .cifras-section,
@@ -662,7 +662,6 @@ body {
         min-height: auto !important;
         overflow: visible !important;
 
-        /* 🔥 ESSENCIAL */
         padding: 0 !important;
         margin: 0 !important;
         background: transparent !important;
@@ -696,6 +695,45 @@ body {
 @media print {
     .main-content {
         min-height: auto !important;
+    }
+} */
+    @media print {
+
+    html, body {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .header,
+    .search-section,
+    .cifras-section {
+        display: none !important;
+    }
+
+    .container {
+        padding: 0 !important;
+        margin: 0 !important;
+        max-width: 100% !important;
+    }
+
+    .main-content {
+        min-height: auto !important;
+    }
+
+    .modal {
+        position: static !important;
+        height: auto !important;
+        overflow: visible !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .modal-content {
+        max-height: none !important;
+        overflow: visible !important;
+        box-shadow: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
     }
 }
 /* ==================== Responsive ==================== */
