@@ -726,6 +726,14 @@ body {
         overflow: visible !important;
         padding: 0 !important;
         margin: 0 !important;
+    .header,
+    .search-section,
+    .cifras-section,
+    .transpose-controls,
+    .btn,
+    .btn-close {
+        display: none !important;
+    }
     }
 
     .modal-content {
