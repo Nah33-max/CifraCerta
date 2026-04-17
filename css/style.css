@@ -636,6 +636,12 @@ body {
     color: black;
   }
 }
+@media print {
+  pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+}
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
     .header-content {
