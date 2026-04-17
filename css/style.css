@@ -654,11 +654,12 @@ body {
         display: none !important;
     }
 }
+
     html, body {
         margin: 0 !important;
         padding: 0 !important;
     }
-
+@media print {
     .modal {
         position: static !important;
         display: block !important;
@@ -673,6 +674,11 @@ body {
         padding: 0 !important;
         max-height: none !important;
         overflow: visible !important;
+    }
+}
+@media print {
+    .modal.active {
+        display: block !important;
     }
 }
 /* ==================== Responsive ==================== */
