@@ -586,9 +586,10 @@ body {
 
 /* ==================== Print Styles ==================== */
 @media print {
- /*   body {
+    body {
         background: white;
         color: black;
+        visibility: hidden;
     }
     
     .header,
@@ -600,34 +601,13 @@ body {
     .btn-close {
         display: none !important;
     }
-    
-    .modal-content {
-        box-shadow: none;
-        max-width: 100%;
-        background: white;
-    }
-    
-    .cifra-content {
-        background: white;
-        color: black;
-        padding: 0;
-    }
-    
-    .chord {
-        color: #000;
-        font-weight: bold;
-    }
-} */
-    body * {
-    visibility: hidden;
-  }
 
   .cifra-content, .cifra-content * {
     visibility: visible;
   }
 
   .cifra-content {
-    position: static; /* 🔥 ESSENCIAL */
+    position: static;
     width: 100%;
     background: white;
     color: black;
