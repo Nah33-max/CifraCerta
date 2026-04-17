@@ -586,7 +586,7 @@ body {
 
 /* ==================== Print Styles ==================== */
 @media print {
-    body {
+   /* body {
         background: white;
         color: black;
     }
@@ -617,6 +617,30 @@ body {
         color: #000;
         font-weight: bold;
     }
+} */
+    body * {
+    visibility: hidden;
+  }
+
+  .cifra-content, .cifra-content * {
+    visibility: visible;
+  }
+
+  .cifra-content {
+    position: static; /* 🔥 ESSENCIAL */
+    width: 100%;
+    background: white;
+    color: black;
+  }
+}
+@media print {
+  .cifra-content {
+    page-break-inside: auto;
+  }
+
+  p, pre, div {
+    page-break-inside: avoid;
+  }
 }
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
