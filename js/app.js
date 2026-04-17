@@ -36,8 +36,7 @@ const elements = {
     btnSaveCifra: document.getElementById('btnSaveCifra'),
     btnCloseViewModal: document.getElementById('btnCloseViewModal'),
     btnFavorite: document.getElementById('btnFavorite'),
-    btnPrint: document.getElementById("btnPrint").addEventListener("click", () => {
-    window.print(),
+    btnPrint: document.getElementById('btnPrint'),
     btnEdit: document.getElementById('btnEdit'),
     btnDelete: document.getElementById('btnDelete'),
     btnTransposeUp: document.getElementById('btnTransposeUp'),
