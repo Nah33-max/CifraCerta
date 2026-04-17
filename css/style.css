@@ -682,6 +682,37 @@ body {
         justify-content: flex-start !important;
     }
 }
+@media print {
+
+    html, body {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .modal {
+        position: static !important;
+        height: auto !important;
+        min-height: auto !important;
+        overflow: visible !important;
+
+        /* 🔥 ESSENCIAL */
+        padding: 0 !important;
+        margin: 0 !important;
+        background: transparent !important;
+    }
+
+    .modal.active {
+        display: block !important;
+    }
+
+    .modal-content {
+        margin: 0 !important;
+        padding: 0 !important;
+        max-height: none !important;
+        overflow: visible !important;
+        box-shadow: none !important;
+    }
+}
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
     .header-content {
