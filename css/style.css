@@ -687,6 +687,12 @@ body {
         max-width: 100% !important;
     }
 }
+@media print {
+    .header {
+        display: none !important;
+        position: static !important;
+    }
+}
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
     .header-content {
