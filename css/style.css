@@ -586,39 +586,6 @@ body {
 
 /* ==================== Print Styles ==================== */
 @media print {
-    body {
-        background: white;
-        color: black;
-    }
-    
-    .header,
-    .search-section,
-    .cifras-section,
-    .modal-header,
-    .transpose-controls,
-    .btn,
-    .btn-close {
-        display: none !important;
-    }
-    
-    .modal-content {
-        box-shadow: none;
-        max-width: 100%;
-        background: white;
-    }
-    
-    .cifra-content {
-        background: white;
-        color: black;
-        padding: 0;
-    }
-    
-    .chord {
-        color: #000;
-        font-weight: bold;
-    }
-}
-@media print {
   body * {
     visibility: hidden;
   }
