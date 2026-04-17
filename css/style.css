@@ -603,8 +603,7 @@ body {
     color: black;
   }
 }
-@media print {
-  pre {
+ pre {
     white-space: pre-wrap;
     word-wrap: break-word;
   }
