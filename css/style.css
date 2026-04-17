@@ -585,7 +585,7 @@ body {
 }
 
 /* ==================== Print Styles ==================== */
-@media print {
+/*@media print {
     body {
         background: white;
         color: black;
@@ -616,6 +616,42 @@ body {
     .chord {
         color: #000;
         font-weight: bold;
+    }
+} */
+@media print {
+    body {
+        background: white;
+        color: black;
+        font-size: 12pt;
+    }
+
+    /* Corrige o BUG da repetição */
+    .modal {
+        position: static !important;
+        height: auto !important;
+        overflow: visible !important;
+        display: block !important;
+        padding: 0 !important;
+    }
+
+    .modal-content {
+        max-height: none !important;
+        overflow: visible !important;
+        box-shadow: none;
+    }
+
+    .main-content {
+        min-height: auto !important;
+    }
+
+    /* Remove coisas desnecessárias */
+    .header,
+    .search-section,
+    .cifras-section,
+    .transpose-controls,
+    .btn,
+    .btn-close {
+        display: none !important;
     }
 }
 /* ==================== Responsive ==================== */
