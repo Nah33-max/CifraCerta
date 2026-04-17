@@ -585,7 +585,7 @@ body {
 }
 
 /* ==================== Print Styles ==================== */
-/*@media print {
+@media print {
     body {
         background: white;
         color: black;
@@ -617,7 +617,7 @@ body {
         color: #000;
         font-weight: bold;
     }
-}*/
+}
 @media print {
   body * {
     visibility: hidden;
