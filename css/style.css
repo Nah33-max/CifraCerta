@@ -585,7 +585,7 @@ body {
 }
 
 /* ==================== Print Styles ==================== */
-@media print {
+/*@media print {
     body {
         background: white;
         color: black;
@@ -617,8 +617,25 @@ body {
         color: #000;
         font-weight: bold;
     }
-}
+}*/
+@media print {
+  body * {
+    visibility: hidden;
+  }
 
+  .cifra-content, .cifra-content * {
+    visibility: visible;
+  }
+
+  .cifra-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+    color: black;
+  }
+}
 /* ==================== Responsive ==================== */
 @media (max-width: 768px) {
     .header-content {
