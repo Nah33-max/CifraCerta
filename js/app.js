@@ -1207,13 +1207,13 @@ Que flui do Teu grande amor
 
  [D]                [Em]/[D]
 Por onde o rio passar
-[Bm7]              [A4]  [A]  
+[Bm7]              [A]  [A]  
 Tudo vai transformar
       [G]             [D]/[F#]
 Pois leva a vida do próprio Deus
         [G]    [Em7]   
 E este rio está  
-[A4]         [G]/[B]  [A]/[C#]
+[A]         [G]/[B]  [A]/[C#]
 Neste lugar
 
  [D]                  [G]      [D]  [D]/[F#]
@@ -1224,7 +1224,7 @@ Sacia minha sede, lava o meu interior
 Eu quero fluir em Tuas águas
    [Bm7]     [F#m7] Pausa  [G]
 Eu quero beber da Tua fonte
-               [A4]   [A]
+               [A]   [A]
 Fonte de águas vivas
         [G]/[A]       [D]
 Tu és a fonte, Senhor
@@ -1242,13 +1242,13 @@ Que flui do Teu grande amor
 
  [D]                [Em]/[D]
 Por onde o rio passar
-[Bm7]              [A4]  [A]  
+[Bm7]              [A]  [A]  
 Tudo vai transformar
       [G]             [D]/[F#]
 Pois leva a vida do próprio Deus
         [G]    [Em7]   
 E este rio está  
-[A4]         [G]/[B]  [A]/[C#]
+[A]         [G]/[B]  [A]/[C#]
 Neste lugar
 
  [D]                  [G]      [D]  [D]/[F#]
@@ -1259,7 +1259,7 @@ Sacia minha sede, lava o meu interior
 Eu quero fluir em Tuas águas
    [Bm7]     [F#m7] Pausa  [G]
 Eu quero beber da Tua fonte
-               [A4]   [A]
+               [A]   [A]
 Fonte de águas vivas
         [G]/[A]       [D]  | [Em]/[D]
 Tu és a fonte, Senhor
@@ -2635,7 +2635,7 @@ E eu Te adorarei`,
                 titulo: 'Clamo Jesus',
                 artista: 'Paulo Cesar Baruk',
                 tom: 'E',
-                letra: `Intro: |4/4 [E]  [E4]  [E]  [E7+] | [C#m]  [C#m5+]  [C#m7]  [C#m7(9)] | [A]  [A9]  [A]  [A4+] |  
+                letra: `Intro: |4/4 [E]  [E4]  [E]  [E7+] | [C#m]  [C#m5+]  [C#m7]  [C#m7(9)] | [A]  [A9]  [A]  [A+] |  
 
    [E]         [E4]           [E]
 Jesus, quero declarar Teu nome
@@ -6256,15 +6256,15 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Eu me Rendo',
                 artista: 'Renascer Praise',
                 tom: 'C',
-                letra: `Intro: |4/4 G2 | G7+(9) | C9 | D4 |
+                letra: `Intro: |4/4 G | G7+(9) | C9 | D4 |
 
-G2                 G7+ 
+G                 G7+ 
    A Ti eu vou clamar
            C9     
 Pois tudo vem de Ti
           C
 E tudo está em Ti
-G2                  G7+ 
+G                  G7+ 
    Por Ti vou caminhar
          C9 
 Tu és a direção
@@ -6284,13 +6284,13 @@ Preparado pra mim
                C  D
 Preparado pra mim
 
-G2                  G7+(9)
+G                  G7+(9)
    A Ti  eu vou clamar
            C9/E        
 Pois tudo vem de Ti
           C
 E tudo está em Ti
-G2                  G7+(9)
+G                  G7+(9)
    Por Ti vou caminhar
          C/E   
 Tu és a direção
@@ -6302,7 +6302,7 @@ Am7               D/F#
 O Teu amor jamais me deixará
 Am7                   D/F#     
      Sempre há de existir
-          G2      
+          G      
 Novo amanhã
       G/B     C  C5-
 Preparado pra mim
@@ -6313,13 +6313,13 @@ Preparado pra mim
          G
 A Ti Senhor
 
-G2                  G7+ 
+G                  G7+ 
    A Ti  eu vou clamar
            C9     
 Pois tudo vem de Ti
           C
 E tudo está em Ti
-G2                  G7+ 
+G                  G7+ 
    Por Ti vou caminhar
          C9 
 Tu és a direção
@@ -7087,9 +7087,9 @@ Toca nos meus olhos, pois quero Te ver!`,
                 titulo: 'Fogo consumidor',
                 artista: 'Fernandinho',
                 tom: 'A',
-                letra: `Intro: |:4/4  A9  A4  A :|
+                letra: `Intro: |:4/4  A9  A  A :|
 
-A9              A4
+A9              A
 Fogo consumidor
 A9
 Venha arder em nós
@@ -7097,9 +7097,9 @@ Venha arder em nós
 Aquecer a chama
                F#m
 Que um dia queimou por Ti
-A9                  A4
+A9                  A
 Homens se desviaram
-A9                   A4
+A9                   A
 Profetas se venderam
 Bm7                 F#m           A9
 Mas existem aqueles que não se dobraram
@@ -7127,7 +7127,7 @@ O choro já durou a noite
             F#m    D
 É chegado o amanhecer
 
-A9              A4
+A9              A
 Fogo consumidor
 A9
 Venha arder em nós
@@ -7135,9 +7135,9 @@ Venha arder em nós
 Aquecer a chama
                F#m
 Que um dia queimou por Ti
-A9                  A4
+A9                  A
 Homens se desviaram
-A9                   A4
+A9                   A
 Profetas se venderam
 Bm7                 F#m           A9
 Mas existem aqueles que não se dobraram
@@ -7166,7 +7166,7 @@ O choro já durou a noite
 É chegado o amanhecer
             A      G
 É chegado o amanhecer
-            Bm     D        A  A4 A9
+            Bm     D        A  A A9
 É chegado o amanhecer`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -8388,7 +8388,127 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Lugar Secreto',
                 artista: 'Gabriela Rocha',
                 tom: 'Bb',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 [Eb] [Gm] | [F] :||
+
+[Eb]       [Gm]                  [F]
+   Tu és tudo o que eu mais quero
+[Eb]       [Gm]         [F]
+   O meu fôlego, Tu és
+[Eb]          [Gm]         [F] 
+   Em Teus braços, é o meu lugar
+        [Eb]     [Gm]    [F]
+Estou aqui,  estou aqui
+
+[Eb]        [Gm]          [F]
+  Pai, eu amo Sua presença
+[Eb]      [Gm]              [F]
+  Teu sorriso é vida em mim
+[Eb]     [Gm]            [F]
+  Eu seguro em Suas mãos
+          [Eb]     [Gm]      [F]
+Confio em Ti,  confio em Ti
+
+               [Eb]
+Quero ir mais fundo
+             [Cm]
+Leva-me mais perto
+             [Gm]
+Onde eu Te encontro
+           [Dm7]
+No lugar secreto
+                  [Eb]
+Aos Teus pés, me rendo
+            [Cm]          [Gm]  [F]
+Pois a Tua glória quero ver
+
+Interlúdio: ||: [Eb] | [Cm | [Gm] | [Dm7] :||
+
+[Eb]        [Gm]          [F]
+  Pai, eu amo Sua presença
+[Eb]      [Gm]              [F]
+  Teu sorriso é vida em mim
+[Eb]     [Gm]            [F]
+  Eu seguro em Suas mãos
+          [Eb]     [Gm]      [F]
+Confio em Ti,  confio em Ti
+
+               [Eb]
+Quero ir mais fundo
+             [Cm]
+Leva-me mais perto
+             [Gm]
+Onde eu Te encontro
+           [Dm7]
+No lugar secreto
+                  [Eb]
+Aos Teus pés, me rendo
+            [Cm]          [Gm]  [F]
+Pois a Tua glória quero ver
+
+               [Eb]
+Quero ir mais fundo
+             [Cm]
+Leva-me mais perto
+             [Gm]
+Onde eu Te encontro
+           [Dm7]
+No lugar secreto
+                  [Eb]
+Aos Teus pés, me rendo
+            [Cm]          [Gm]  [F]
+Pois a Tua glória quero ver
+
+                    [Eb]
+Tudo o que eu mais quero é Te ver
+                    [Cm]
+Me envolva com Tua glória e poder
+         [Gm]
+Tua majestade é real
+         [Dm7]
+Tua voz ecoa em meu ser
+
+                    [Eb]
+Tudo o que eu mais quero é Te ver
+                    [Cm]
+Me envolva com Tua glória e poder
+         [Gm]
+Tua majestade é real
+         [Dm7]
+Tua voz ecoa em meu ser
+
+                    [Eb]
+Tudo o que eu mais quero é Te ver
+                    [Cm]
+Me envolva com Tua glória e poder
+         [Gm]
+Tua majestade é real
+         [Dm7]
+Tua voz ecoa em meu ser
+
+                    [Eb]
+Tudo o que eu mais quero é Te ver
+                    [Cm]
+Me envolva com Tua glória e poder
+         [Gm]
+Tua majestade é real
+         [F]
+Tua voz ecoa em meu ser
+
+               [Eb]
+Quero ir mais fundo
+             [Cm]
+Leva-me mais perto
+             [Gm]
+Onde eu Te encontro
+           [Dm7]
+No lugar secreto
+                  [Eb]
+Aos Teus pés, me rendo
+            [Cm]          [Gm]  [F]
+Pois a Tua glória quero ver
+
+Final: ||: [Eb] | [Cm | [Gm] | [Dm7] :||`
+       
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8397,7 +8517,97 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Lugar Seguro',
                 artista: 'Aline Barros',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 [Dm]  [Bb] | [F] :|
+                
+ Dm    Bb   F   Dm    Bb  F
+Vem o temporal, vem o dia mau
+  F            Dm
+Mas Deus me faz assim
+             Bb              F      C
+Pés sobre a rocha, Ele cuida bem de mim
+ Dm
+Guarda a minha saída
+ Bb
+Guarda a minha entrada
+F
+Ele é minha sombra
+   C
+Mão direita que não falha
+ Dm         Bb                F   C
+Durante o dia o sol não pode me ferir
+  Dm                Bb           C
+Com Ele à noite eu posso até sorrir
+
+     F
+Estou olhando para os montes
+
+O meu socorro vem de Deus
+     Dm
+Não paro de olhar pros montes
+                             C
+Ele não descansa, Ele é o guarda de Israel
+     Bb                         F
+Rei da Terra e é também Dono do Céu
+
+ Dm   Bb    F   Dm    Bb  F
+Vem o temporal, vem o dia mau
+  F             Dm
+Mas Deus me faz assim
+          Bb                    F      C
+Pés sobre a rocha, Ele cuida bem de mim
+ Dm
+Guarda a minha saída
+ Bb
+Guarda a minha entrada
+F
+Ele é minha sombra
+   C
+Mão direita que não falha
+ Dm         Bb               F   C
+Durante o dia o sol não pode me ferir
+  Dm               Bb            C
+Com Ele à noite eu posso até sorrir
+
+     F
+Estou olhando para os montes
+
+O meu socorro vem de Deus
+         Dm
+Não paro de olhar pros montes
+                           C
+Ele não descansa, Ele é o guarda de Israel
+      Bb                         F
+Rei da Terra e é também Dono do Céu
+
+Dm       Bb
+Eu confio Nele
+
+     F
+Estou olhando para os montes
+
+O meu socorro vem de Deus
+         Dm
+Não paro de olhar pros montes
+                           C
+Ele não descansa, Ele é o guarda de Israel
+     Bb                         F
+Rei da Terra e é também Dono do Céu
+
+ F                C
+Meu lugar seguro, minha proteção
+ Dm                   Bb
+Todo poderoso, Deus da minha salvação
+
+     F
+Estou olhando para os montes
+
+O meu socorro vem de Deus
+          Dm
+Não paro de olhar pros montes
+                          C
+Ele não descansa, Ele é o guarda de Israel
+     Bb                      F
+Rei da Terra e é também Dono do Céu`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8406,7 +8616,104 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Mais Alto',
                 artista: 'Fernandinho',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Am7  F9  C  G
+
+Am7                F9     
+   Leva-me a tua glória    
+Am7                   F9
+   Leva- me aos teus rios
+     C          Em7          
+Eu quero muito mais de Ti
+Am7                F9     
+   Leva- me aos cativos      
+Am7                 F9
+   Me leva aos oprimidos
+    C        Em7                 
+Eu vou anunciar o Teu amor 
+    Am7      G
+Eu vou anunciar o Teu perdão
+
+         Am7                   F9
+Eu quero ir mais alto, preciso ir bem mais alto
+ C                      Em7
+Leva-me ao Teu grande amor
+       Am7                  F9
+E receber Teu abraço, e sentir Teu perfume
+ C                           Em7
+Beija-me com Teus beijos Senhor
+
+         Am7                   F9
+Eu quero ir mais alto, preciso ir bem mais alto
+ C                      Em7
+Leva-me ao Teu grande amor
+       Am7                  F9
+E receber Teu abraço, e sentir Teu perfume
+ C                           Em7
+Beija-me com Teus beijos Senhor
+
+                F9
+Eu quero muito mais de Ti
+            G
+E menos de mim
+              F9
+Anseio muito mais de Ti
+            G
+E menos de mim
+               F9
+Preciso muito mais de Ti
+            G
+E menos de mim
+
+Am7                F9     
+   Leva-me a tua glória    
+Am7                   F9
+   Leva- me aos teus rios
+     C          Em7          
+Eu quero muito mais de Ti
+Am7                F9     
+   Leva- me aos cativos      
+Am7                 F9
+   Me leva aos oprimidos
+    C        Em7                 
+Eu vou anunciar o Teu amor 
+    Am7      G
+Eu vou anunciar o Teu perdão
+
+         Am7                   F9
+Eu quero ir mais alto, preciso ir bem mais alto
+ C                      Em7
+Leva-me ao Teu grande amor
+       Am7                  F9
+E receber Teu abraço, e sentir Teu perfume
+ C                           Em7
+Beija-me com Teus beijos Senhor
+
+         Am7                   F9
+Eu quero ir mais alto, preciso ir bem mais alto
+ C                      Em7
+Leva-me ao Teu grande amor
+       Am7                  F9
+E receber Teu abraço, e sentir Teu perfume
+ C                           Em7
+Beija-me com Teus beijos Senhor
+
+         Bm7                   G9
+Eu quero ir mais alto, preciso ir bem mais alto
+ D                      F#m7
+Leva-me ao Teu grande amor
+       Bm7                      G9
+E receber Teu abraço, poder sentir Teu perfume
+ D                           F#m7
+Beija-me com Teus beijos Senhor
+
+         Bm7                   G9
+Eu quero ir mais alto, preciso ir bem mais alto
+ D                      F#m7
+Leva-me ao Teu grande amor
+       Bm7                      G9
+E receber Teu abraço, poder sentir Teu perfume
+ E4                          A
+Beija-me com Teus beijos Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8415,7 +8722,137 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Maranata',
                 artista: 'Ministério Avivah',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Bm7 | G | D | A |
+
+
+Bm7
+    Tu és a minha luz
+G
+  A minha salvação
+     D          A
+E a Ti me renderei
+
+Bm7
+    Se ao teu lado estou
+G
+  Seguro em tuas mãos
+    D        A
+Eu nada temerei
+
+G  A  Bm7       D           A
+Ô, ô,  ô, Tu és Santo, ó Senhor
+G  A  Bm7       D           A
+Ô, ô,  ô, Tu és digno de louvor
+
+ G              D
+Só em Ti confiarei
+             Bm7
+Eu nada temerei
+               A
+Em frente eu irei
+                        G
+Pois eu sei que vivo estás
+               Bm7
+E um dia voltarás
+                   D
+Do céu pra nos buscar
+                 A      G
+Pra sempre reinarás, aleluia
+
+Interlúdio: | Bm7 | G | D | A |
+
+Bm7
+    Tu és a minha luz
+G
+  A minha salvação
+     D          A
+E a Ti me renderei
+
+Bm7
+    Se ao teu lado estou
+G
+  Seguro em tuas mãos
+    D        A
+Eu nada temerei
+
+G  A  Bm7       D           A
+Ô, ô,  ô, Tu és Santo, ó Senhor
+G  A  Bm7       D           A
+Ô, ô,  ô, Tu és digno de louvor
+
+ G              D
+Só em Ti confiarei
+             Bm7
+Eu nada temerei
+               A
+Em frente eu irei
+                        G
+Pois eu sei que vivo estás
+               Bm7
+E um dia voltarás
+                   D
+Do céu pra nos buscar
+                 A      
+Pra sempre reinarás, aleluia
+
+ G              D
+Só em Ti confiarei
+             Bm7
+Eu nada temerei
+               A
+Em frente eu irei
+                        G
+Pois eu sei que vivo estás
+               Bm7
+E um dia voltarás
+                   D
+Do céu pra nos buscar
+                 A
+Pra sempre reinarás, aleluia
+
+Interlúdio: | G9 | A | Bm7 | A |
+
+       G          A
+Vem Jesus, vem Jesus
+     Bm                     A
+Maranata ora, vem Senhor Jesus
+       G          A
+Vem Jesus, vem Jesus
+     Bm                     A
+Maranata ora, vem Senhor Jesus
+       G          A
+Vem Jesus, vem Jesus
+     Bm                     A
+Maranata ora, vem Senhor Jesus
+       G          A
+Vem Jesus, vem Jesus
+     Bm                     A
+Maranata ora, vem Senhor Jesus
+       G          A
+Vem Jesus, vem Jesus
+     Bm                     A
+Maranata ora, vem Senhor Jesus
+       G          A
+Vem Jesus, vem Jesus
+     Bm                     A
+Maranata ora, vem Senhor Jesus
+
+ G              D
+Só em Ti confiarei
+             Bm7
+Eu nada temerei
+               A
+Em frente eu irei
+                        G
+Pois eu sei que vivo estás
+               Bm7
+E um dia voltarás
+                   D
+Do céu pra nos buscar
+                 A
+Pra sempre reinarás, aleluia
+
+Interlúdio: |: Bm7 | G | D | A :|`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8424,7 +8861,123 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Marca da Promessa (Bonus Track)',
                 artista: 'Trazendo a Arca',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Intro: C#m | A | E | B 
+
+C#m 
+   Se tentam destruir-me 
+A    
+Zombando da minha fé 
+    E                B 
+E até tramam contra mim 
+
+      C#m 
+Querem entulhar meus poços 
+        A 
+Querem frustrar meus sonhos 
+E                B 
+E me fazer desistir 
+
+               C#m 
+Mas quem vai apagar 
+                 F#m 
+O selo que há em mim 
+               E 
+A marca da promessa 
+            B 
+Que ele me fez 
+  
+                  C#m 
+E quem vai me impedir 
+              F#m 
+Se decidido estou 
+                 E/G# 
+Pois quem me prometeu 
+               B 
+É fiel pra cumprir 
+  
+E             B      C#m 
+O meu Deus nunca falhará 
+            A            E 
+Eu sei que chegará minha vez 
+       B           C#m 
+Minha sorte ele mudará 
+                A     B/A A A
+Diante dos meus olhos 
+
+C#m 
+   Se tentam destruir-me 
+A    
+Zombando da minha fé 
+    E                B 
+E até tramam contra mim 
+
+      C#m 
+Querem entulhar meus poços 
+        A 
+Querem frustrar meus sonhos 
+E                B 
+E me fazer desistir 
+
+               C#m 
+Mas quem vai apagar 
+                 F#m 
+O selo que há em mim 
+               E 
+A marca da promessa 
+            B 
+Que ele me fez 
+  
+                  C#m 
+E quem vai me impedir 
+              F#m 
+Se decidido estou 
+                 E/G# 
+Pois quem me prometeu 
+               B 
+É fiel pra cumprir 
+  
+E             B      C#m 
+O meu Deus nunca falhará 
+            A            E 
+Eu sei que chegará minha vez 
+       B           C#m 
+Minha sorte ele mudará 
+                A     B/A A A
+Diante dos meus olhos 
+
+C#m            A 
+Prepara-me uma mesa 
+      E                 B 
+Na presença dos meus inimigos 
+C#m         A 
+Unge-me a cabeça 
+        E                  B 
+E o meu cálice faz transbordar
+C#m            A 
+Prepara-me uma mesa 
+      E                 B 
+Na presença dos meus inimigos 
+C#m         A 
+Unge-me a cabeça 
+        E                  B 
+E o meu cálice faz transbordar
+
+E             B      C#m 
+O meu Deus nunca falhará 
+            A            E 
+Eu sei que chegará minha vez 
+       B           C#m 
+Minha sorte ele mudará 
+                A     
+Diante dos meus olhos
+E             B      C#m 
+O meu Deus nunca falhará 
+            A            E 
+Eu sei que chegará minha vez 
+       B           C#m 
+Minha sorte ele mudará 
+                A     B/A A A | B/A A A
+Diante dos meus olhos`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8433,7 +8986,125 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Me Ama',
                 artista: 'Diante do Trono',
                 tom: 'A',
-                letra: `Intro: |6/8 `,
+                letra: `Intro: |6/8 A | F#m | A/E | D9 |
+
+ A
+Tem ciúmes de mim
+F#m
+O Seu amor é como um furacão
+  E             
+E eu me rendo 
+                       D9
+Ao vento de Sua misericórdia
+   A                
+Então, de repente 
+                          F#m
+Não vejo mais minhas aflições
+
+Eu só vejo á glória
+      E
+E percebo quão maravilhoso Ele é
+     D9
+E o tanto que Ele me quer
+
+A           F#m
+Ô, Ele me amou
+          E
+Ô, Ele me ama
+         D9
+Ele me amou
+
+ A
+Tem ciúmes de mim
+F#m
+O Seu amor é como um furacão
+  E             
+E eu me rendo 
+                       D9
+Ao vento de Sua misericórdia
+   A                
+Então, de repente 
+                          F#m
+Não vejo mais minhas aflições
+
+Eu só vejo a glória
+      E
+E percebo quão maravilhoso Ele é
+     D9
+E o tanto que Ele me quer
+
+A           F#m
+Ô, Ele me amou
+          E
+Ô, Ele me ama
+         D9
+Ele me amou
+
+   A           F#m
+Me ama, Ele me ama
+       E           D9
+Ele me ama, Ele me ama
+   A           F#m
+Me ama, Ele me ama
+       E           D9
+Ele me ama, Ele me ama
+
+ A
+Somos sua herança 
+
+E Ele é o nosso galardão
+ F#m
+Seu olhar de graça 
+
+Nos atrai à redenção
+       E        
+Se a graça é um oceano 
+            D9
+Estamos afogando
+
+   A
+O céu se une à terra 
+
+Como um beijo apaixonado
+     F#m
+Meu coração dispara 
+
+Em meu peito, acelerado
+     E
+Não tenho tempo pra perder 
+
+Com ressentimentos
+        D9
+Quando penso que Ele
+
+   A           F#m
+Me ama, Ele me ama
+       E           D9
+Ele me ama, Ele me ama
+   A           F#m
+Me ama, Ele me ama
+       E           D9
+Ele me ama, Ele me ama
+
+   A           F#m
+Me ama, Ele me ama
+       E           D9
+Ele me ama, Ele me ama
+   A           F#m
+Me ama, Ele me ama
+       E           D9
+Ele me ama, Ele me ama
+
+A            F#m 
+Oh, Ele me amou
+           E             D9
+Oh, Ele me ama, Ele me amou
+A            F#m 
+Oh, Ele me amou
+           E
+Oh, Ele me ama
+         D9
+Ele me amou`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8442,7 +9113,85 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Me Derramar',
                 artista: 'Ministério Vineyard',
                 tom: 'G',
-                letra: `Intro: |6/8 `,
+                letra: `Intro: |6/8 G | D/F# | Em | C |
+
+       G    D/F#
+Eis-me aqui outra vez
+  Em                 C
+Diante de Ti abro o meu coração
+      G          D/F#
+Meu clamor Tu escutas
+   Em               C
+E fazes cair as barreiras em mim
+
+     G              D/F#
+És fiel, Senhor, e dizes
+   Em                   C
+Palavras de amor e esperança sem fim
+    G      D/F#
+Ao sentir Teu toque
+     Em             C
+Por Tua bondade, libertas meu ser
+      Am7    Bm7  C7M       
+No calor deste lugar
+
+D         G              D/F#
+Eu venho me derramar, dizer que Te amo
+ Em             C
+Me derramar, dizer: Te preciso
+ G              D/F#
+Me derramar, dizer que sou grato
+ Em             C
+Me derramar, dizer que és formoso
+
+Interlúdio: |G | D/F# | Em | C |
+
+       G    D/F#
+Eis-me aqui outra vez
+  Em                 C
+Diante de Ti abro o meu coração
+      G          D/F#
+Meu clamor Tu escutas
+   Em               C
+E fazes cair as barreiras em mim
+
+     G              D/F#
+És fiel, Senhor, e dizes
+   Em                   C
+Palavras de amor e esperança sem fim
+    G      D/F#
+Ao sentir Teu toque
+     Em             C
+Por Tua bondade, libertas meu ser 
+      Am7    Bm7  C7M       
+No calor deste lugar
+
+D         G              D/F#
+Eu venho me derramar, dizer que Te amo
+ Em             C
+Me derramar, dizer: Te preciso
+ G              D/F#
+Me derramar, dizer que sou grato
+ Em             C
+Me derramar, dizer que és formoso
+
+ G              D/F#     
+Me derramar, dizer que Te amo
+ Em             C         
+Me derramar, dizer: Te preciso
+ G              D/F#
+Me derramar, dizer que sou grato
+ Em             C
+Me derramar, dizer que és formoso
+
+ G              D/F#
+Me derramar, dizer que Te amo 
+ Em             C
+Me derramar, dizer: Te preciso 
+ G              D/F#
+Me derramar, dizer que sou grato
+ Em             C               G
+Me derramar, dizer que és formoso`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8451,7 +9200,108 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Meu Alvo',
                 artista: 'Kleber Lucas',
                 tom: 'Bb',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Bb | Eb | Gm | Eb |
+
+
+         Bb                 Gm
+Estou subindo pra um lugar mais alto
+                  Bb
+Eu ja queimei as pontes com o passado
+          Gm
+E os meus olhos
+     Eb                   Ebm7
+Vejo um futuro tudo novo se fez
+              Bb
+Tudo novo se faz
+         F     F4  F
+E dessa estrada.......eu não
+        Gm
+Me desvio nunca mais
+         F/A
+Estou firme eu não
+           Eb
+Me desvio nunca mais
+
+ Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Meu alvo é Cristo
+ Eb
+Meu alvo é Cristo
+ Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Meu alvo é Cristo
+ Eb
+Meu alvo é Cristo
+
+       Bb                       Gm
+Estou subindo pra um lugar mais alto
+             Bb
+Eu já desisti de andar sozinho
+        Gm
+Cristo vive em mim
+          Eb             Ebm7                 Bb
+E os meus pés estão no caminho, estão no caminho
+        F      F4  F             Gm
+E dessa estrada.......eu não me desvio nunca mais
+       F/A               Eb
+Estou firme eu não me desvio nunca mais
+
+ Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Meu alvo é Cristo
+ Eb
+Meu alvo é Cristo
+ Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Meu alvo é Cristo
+ Eb
+Meu alvo é Cristo
+
+ Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Meu alvo é Cristo
+ Eb
+Meu alvo é Cristo
+ Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Cristo
+ Eb
+Meu alvo é Cristo
+
+Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Meu alvo é Cristo
+ Eb
+Meu alvo é Cristo
+ Bb
+Vou avançar eu vou crescer
+ F/A
+Ninguem vai me deter
+ Gm
+Cristo
+ Eb
+Meu alvo é Cristo`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8460,7 +9310,92 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Meu Respirar',
                 artista: 'Ministério Vineyard',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 G | C | G | C |
+
+G               C
+   Este é o meu respirar
+G               C
+   Este é o meu respirar
+G      D/F#    Em   D
+   Teu Santo Espírito
+   C   Em     D4
+Vivendo     em mim
+
+G        C
+   E este é o meu pão
+G        C
+   E este é o meu pão
+G   D/F#  Em  D
+   Tua vontade
+ C   Em     D4  D
+Feita     em mim
+
+  G  D/F#  Em  D
+E eu
+         C        Em  D
+Eu nada sou sem Ti
+  G  D/F#  Em  D
+E eu
+           C        Em  D
+Perdido estou sem Ti
+
+G               C
+  Este é o meu respirar
+G               C
+  Este é o meu respirar
+G      D/F#    Em   D
+  Teu Santo Espírito
+   C   Em     D
+Vivendo     em mim
+
+G        C
+  E este é o meu pão
+G        C
+  E este é o meu pão
+G   D/F#  Em  D
+  Tua vontade
+ C   Em     D4  D
+Feita     em mim
+
+  G  D/F#  Em  D
+E eu
+         C        Em  D
+Eu nada sou sem Ti
+  G  D/F#  Em  D
+E eu
+           C        Em  D
+Perdido estou sem Ti
+
+  G  D/F#  Em  D
+E eu
+         C        Em  D
+Eu nada sou sem Ti
+  G  D/F#  Em  D
+E eu
+           C        Em  D
+Perdido estou sem Ti
+
+  G  D/F#  Em  D
+E eu
+         C        Em  D4  D
+Eu nada sou sem Ti
+  G  D/F#  Em  D
+E eu
+           C        Em  D
+Perdido estou sem Ti
+           C        Em  D4
+Perdido estou sem Ti
+           C        Em  D4
+Perdido estou sem Ti
+           C        Em  D
+Perdido estou sem Ti
+           C   Em     D
+Pai, eu te amo,     preciso de Ti
+
+G               C
+  Este é o meu respirar
+G               C   G
+  Este é o meu respirar`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -8469,7 +9404,44 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Meu Salvador',
                 artista: 'Jason Lee Jones',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 D/F#  G  A
+
+D            A/C#             Bm
+Eu não mereço Tua misericórdia
+ A         G
+Mas Tu vieste
+D       A/C#      Bm
+De longe escutei Tua voz
+    A         G   Em  D  A 
+Chamando meu nome
+
+              Em D/F# A4  A
+Deixou tudo o que tinha
+               Em  D/F#    A G/B A/C#
+Para perdoar o mundo pecador
+
+D           A/C#
+Meu Salvador
+          Em7   A
+Meu Resgatador
+D        A/C#
+Redentor
+          Em7    A
+Livraste a mim
+
+   Em        D/F#     G
+Me prostro aos teus pés
+   Em        D/F#      G  A 
+Minha vida a Ti entrego 
+
+Interlúdio: | Bm | A | G |
+
+D       A/C#         Bm
+Eu não mereço Tua misericórdia
+     A        G
+Mas Tu vieste
+
+Interlúdio: | Bm | A | G |`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -8478,7 +9450,120 @@ Faz em mim o Teu querer, Senhor`,
                 titulo: 'Milagre',
                 artista: 'André Valadão',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [F#m7] | [E]/[G#] | [A]  [A]/[C#] | [D9] | [F#m7] | [E]/[G#] || [D9] | [Bm7] ||
+
+
+        [F#m7]             [F#m7]/[E]
+Posso crer que em minha vida
+          [D9]        [A]
+O milagre vai acontecer
+      [F#m7]     [F#m7]/[E]
+Posso ver as promessas
+          [D9]          [A]/[C#]
+Sendo liberadas sobre mim
+          [Bm7]         [E4]  [E]
+Sendo liberadas sobre mim
+
+        [F#m7]             [F#m7]/[E]
+Posso crer que em minha vida
+          [D9]        [A]
+O milagre vai acontecer
+      [F#m7]     [F#m7]/[E]
+Posso ver as promessas
+          [D9]          [A]/[C#]
+Sendo liberadas sobre mim
+          [Bm7]         [E4]  [E]
+Sendo liberadas sobre mim
+
+             [D9]    [E]      [F#m7]
+Hoje o meu milagre vai chegar
+                 [D9]  [E]   [F#m7]
+Eu vou crer, não vou duvidar
+ [A]/[C#]           [D9]    [E]     [F#m7]
+O preço que foi pago ali na cruz
+  [E]/[G#] [D]/[F#]        [E]
+Me dá vitória nesta hora
+
+             [F#m7]  [E]/[G#]  [A]
+Hoje o meu milagre vai chegar
+                 [D9]  [E]   [F#m7]
+Eu vou crer, não vou duvidar
+ [A]/[C#]           [D9]    [E]     [F#m7]
+O preço que foi pago ali na cruz
+  [E]/[G#] [D]/[F#]        [E]
+Me dá vitória nesta hora
+
+Interlúdio: || [D] | [E4] | [D]/[F#] | [E]/[G#] || [Bm7] [A]/[C#] | [D]  [E] | [F#m7] [E]/[G#] ||
+
+    [F#m7]       [F#m7]/[E]
+Tua morte, tua cruz
+                [D9]         [A]
+Teu sangue derramado no calvário
+      [F#m7]          [F#m7]/[E]
+Está selado, foi consumado eu vivo
+     [D9]         [A]/[C#]
+Hoje livre do pecado
+          [Bm7]          [E4]  [E]
+Vivo as promessas dos mila_gres
+
+    [F#m7]       [F#m7]/[E]
+Tua morte, tua cruz
+                [D9]         [A]
+Teu sangue derramado no calvário
+      [F#m7]          [F#m7]/[E]
+Está selado, foi consumado eu vivo
+     [D9]         [A]/[C#]
+Hoje livre do pecado
+          [Bm7]          [E4]  [E]
+Vivo as promessas dos mila_gres
+
+             [D9]    [E]      [F#m7]
+Hoje o meu milagre vai chegar
+                 [D9]  [E]   [F#m7]
+Eu vou crer, não vou duvidar
+ [A]/[C#]           [D9]    [E]     [F#m7]
+O preço que foi pago ali na cruz
+  [E]/[G#] [D]/[F#]        [E]/[G#]
+Me dá vitória nesta hora
+  [E]/[G#] [D]/[A]        [E]
+Me dá vitória nesta hora
+
+INterlúdio ||: G9 | E4  E :||
+
+
+ [F#m7] [E]/[G#] [A]   [C#m] [E]      [D9]    [E]      [F#m7]
+Hoje  o   meu (o  meu) milagre vai chegar
+                 [D9]  [E]   [F#m7]
+Eu vou crer não vou duvidar
+                 [D9]  [E]   [F#m7]
+Eu vou crer, não vou duvidar
+ [A]/[C#]           [D9]    [E]     [F#m7]
+O preço que foi pago ali na cruz
+  [E]/[G#] [D]/[F#]        [E]/[G#]
+Me dá vitória nesta hora
+
+             [F#m7]  [E]/[G#]  [A] [A]/[C#]
+Hoje o meu milagre vai chegar
+                 [D9]  [E]   [F#m7]
+Eu vou crer, não vou duvidar
+ [A]/[C#]           [D9]    [E]     [F#m7]
+O preço que foi pago ali na cruz
+  [E]/[G#] [D]/[F#]        [E]/[G#]
+Me dá vitória nesta hora
+         [D]/[A]         [E]
+Me dá vitória nesta hora
+         [D]/[F#]        [E]/[G#]
+Me dá vitória nesta hora
+         [D]/[A]         [E]
+Me dá vitória nesta hora
+         [D]/[F#]        [E]/[G#]
+Me dá vitória nesta hora
+         [D]/[A]        [E]
+Me dá vitória nesta hora
+         [D]/[F#]        [E]/[G#]
+Me dá vitória nesta hora
+         [G9]    [F]  [A]
+Me dá vitória!`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
