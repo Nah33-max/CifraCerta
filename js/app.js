@@ -8174,7 +8174,121 @@ Sim, eu sei, sim, eu sei`,
                 titulo: 'Jesus em Tua Presença',
                 artista: 'Morada',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [A7+] [B] | [C#m] [G#m] | [A7+] [B9] | [F#] ||
+                
+  [E]/[G#]          [A9]
+Jesus em Tua presença 
+    [B]         [C#m]
+Reunimo-nos aqui
+        [E]/[G#]      [A9]
+Contemplamos Tua face 
+     [B]           [E]  [B]/[D#]
+E rendemo-nos a Ti
+
+        [C#m]     [E]/[G#]
+Pois um dia Tua morte 
+       [A9]            [E]
+Trouxe vida a todos nós
+      [E]/[G#]          [A9]
+E nos deu completo acesso 
+   [B]           [E]  [B]/[D#]
+Ao coração do Pai
+
+  [C#m]         [E]/[G#] 
+O véu que separava 
+   [A9]    [B9]   [C#m]
+Já não separa mais
+  [C#m7]           [E]/[G#]
+A luz que outrora apagada
+ [A9]  
+Agora brilha 
+  [B9]              [F#7(11)]
+E cada dia brilha mais
+
+[A9]     [B9]    [C#m]
+Só pra te adorar
+[E]/[G#]     [A9]      [B9]    [C#m] 
+     E fazer Teu nome grande
+[A9]    [B9]      [C#m]  [B9]     [F#7(11)]
+E Te dar o louvor que é devido
+  [A9]    [B9]    [E9]
+Estamos nós aqui
+
+  [E]/[G#]          [A9]
+Jesus em Tua presença 
+    [B]         [C#m]
+Reunimo-nos aqui
+        [E]/[G#]      [A9]
+Contemplamos Tua face 
+     [B]           [E]  [B]/[D#]
+E rendemo-nos a Ti
+
+        [C#m]     [E]/[G#]
+Pois um dia Tua morte 
+       [A9]            [E]
+Trouxe vida a todos nós
+      [E]/[G#]          [A9]
+E nos deu completo acesso 
+   [B]           [E]  [B]/[D#]
+Ao coração do Pai
+
+  [C#m]         [E]/[G#] 
+O véu que separava 
+   [A9]    [B9]   [C#m]
+Já não separa mais
+  [C#m7]           [E]/[G#]
+A luz que outrora apagada
+ [A9]  
+Agora brilha 
+  [B9]              [F#7(11)]
+E cada dia brilha mais
+
+[A9]     [B9]    [C#m]
+Só pra te adorar
+[E]/[G#]     [A9]      [B9]    [C#m] 
+     E fazer Teu nome grande
+[A9]    [B9]      [C#m]  [B9]     [F#7(11)]
+E Te dar o louvor que é devido
+  [A9]    [B9]    [E9]
+Estamos nós aqui
+
+[A9]     [B9]    [C#m]
+Só pra te adorar
+[E]/[G#]     [A9]      [B9]    [C#m] 
+     E fazer Teu nome grande
+[A9]    [B9]      [C#m]  [B9]     [F#7(11)]
+E Te dar o louvor que é devido
+  [A9]    [B9]    [E9]
+Estamos nós aqui
+
+
+  [C#m]         [E]/[G#] 
+O véu que separava 
+   [A9]    [B9]   [C#m]
+Já não separa mais
+  [C#m7]           [E]/[G#]
+A luz que outrora apagada
+ [A9]  
+Agora brilha 
+  [B9]              [F#7(11)]
+E cada dia brilha mais
+
+[A9]    
+Só pra te adorar
+(Só as vozes)
+E fazer Teu nome grande
+
+E Te dar o louvor  que é devido
+
+Estamos nós aqui
+
+Só pra te adorar
+
+E fazer Teu nome grande
+
+E Te dar o louvor  que é devido
+
+Estamos nós aqui`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
