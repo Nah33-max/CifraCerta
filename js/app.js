@@ -8507,7 +8507,7 @@ Aos Teus pés, me rendo
             [Cm]          [Gm]  [F]
 Pois a Tua glória quero ver
 
-Final: ||: [Eb] | [Cm | [Gm] | [Dm7] :||`
+Final: ||: [Eb] | [Cm | [Gm] | [Dm7] :||`,
        
                 favorite: false,
                 createdAt: Date.now() - 172200000
