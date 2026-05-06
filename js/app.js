@@ -6019,7 +6019,7 @@ Rei dos Reis reina para sempre
  [Em7]          [F#7(5-)]
 Rei dos Reis reina para sempre
 
-[Bm]           [C7M]
+[Bm]           [C7+]
    Leão da Tribo de Judá
  [Em7]          [F#7(5-)]
 Rei dos Reis reina para sempre
@@ -6256,15 +6256,15 @@ De eternidade em eternidade Deus me ama, Deus me ama
                 titulo: 'Eu me Rendo',
                 artista: 'Renascer Praise',
                 tom: 'C',
-                letra: `Intro: |4/4 G2 | G7M(9) | C9 | D4 |
+                letra: `Intro: |4/4 G2 | G7+(9) | C9 | D4 |
 
-G2                 G7M 
+G2                 G7+ 
    A Ti eu vou clamar
            C9     
 Pois tudo vem de Ti
           C
 E tudo está em Ti
-G2                  G7M 
+G2                  G7+ 
    Por Ti vou caminhar
          C9 
 Tu és a direção
@@ -6284,13 +6284,13 @@ Preparado pra mim
                C  D
 Preparado pra mim
 
-G2                  G7M(9)
+G2                  G7+(9)
    A Ti  eu vou clamar
            C9/E        
 Pois tudo vem de Ti
           C
 E tudo está em Ti
-G2                  G7M(9)
+G2                  G7+(9)
    Por Ti vou caminhar
          C/E   
 Tu és a direção
@@ -6313,13 +6313,13 @@ Preparado pra mim
          G
 A Ti Senhor
 
-G2                  G7M 
+G2                  G7+ 
    A Ti  eu vou clamar
            C9     
 Pois tudo vem de Ti
           C
 E tudo está em Ti
-G2                  G7M 
+G2                  G7+ 
    Por Ti vou caminhar
          C9 
 Tu és a direção
@@ -6358,11 +6358,11 @@ Eu me lanço aos Teus braços
         Em           C
 Onde encontro, meu refúgio
 
-   G  G7M 
+   G  G7+ 
 Jesus
           Em7  C9
 Eis-me aqui
-   G  G7M  
+   G  G7+  
 Jesus
           Em7  C9
 Eis-me aqui
@@ -6416,7 +6416,7 @@ Eis-me aqui`,
 Eu navegarei
                 G6
 No oceano do Espírito
-            F7M  Dm7
+            F7+  Dm7
 E ali adorarei
                  E  E4  E
 Ao Deus do meu amor
@@ -6425,7 +6425,7 @@ Ao Deus do meu amor
 Espírito, Espírito
                 G6
 Que desce como fogo
-                  F7M   Dm7
+                  F7+   Dm7
 Vem como em pentecostes
                E  E4  E
 E enche-me de novo
@@ -6435,7 +6435,7 @@ E enche-me de novo
 Eu adorarei
                   G6
 Ao Deus da minha vida
-                F7M  Dm7
+                F7+  Dm7
 Que me compreendeu
                     E  E4  E
 Sem nenhuma explicação
@@ -6444,7 +6444,7 @@ Sem nenhuma explicação
 Espírito, Espírito
                 G6
 Que desce como fogo
-                  F7M(9)  Dm7
+                  F7+(9)  Dm7
 Vem como em pentecostes
                E  E4  E
 E enche-me de novo
@@ -6453,7 +6453,7 @@ E enche-me de novo
 Espírito, Espírito
                 G6
 Que desce como fogo
-                  F7M(9)  Dm7
+                  F7+(9)  Dm7
 Vem como em pentecostes
                E  E4  E
 E enche-me de novo`,
@@ -7233,7 +7233,7 @@ Galileu, Jesus, Jesus
 D#m  F#    A#m     G#
 Galileu, Jesus, Jesus
 
-Intro: | A#m | F#7M | A#m | F#7M |
+Intro: | A#m | F#7+ | A#m | F#7+ |
 
      D#m7           F#
 Eu me rendo ao seu amor
@@ -7850,7 +7850,110 @@ Jesus`,
                 titulo: 'Isaías 9',
                 artista: 'Rodolfo Abrantes',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 C  G/B | Am | C  G/B | Am | C  G/B | Am | C  B° | Am |
+
+C     G/B   Am
+Um menino nasceu
+         C     G/B  Am
+Como um filho se nos deu
+                 C
+Ele é o próprio Deus
+   G/B   Am
+E vive em mim
+                C
+Debaixo de suas asas
+    G/B   Am
+Eu me escondi
+
+[Pré-refrão]
+
+F7+          Em    Dm             C/E
+    E o Seu nome é    Maravilhoso
+F7+             Am         G
+    Glória ao Príncipe da Paz
+
+C     G/B   Am
+Um menino nasceu
+         C     G/B  Am
+Como um filho se nos deu
+                 C
+Ele é o próprio Deus
+   G/B   Am
+E vive em mim
+                C
+Debaixo de suas asas
+    G/B   Am
+Eu me escondi
+
+F7+          Am    Dm
+    E o seu nome é    Maravilhoso
+F7+             Am         G
+    Glória ao Príncipe da Paz
+
+   Am                Em
+O céu começa a se abrir
+       Am                 F
+Toda a terra se dobrou a Ti
+  C             Em
+Cristo, Rei dos Reis
+             F
+Veio nos buscar
+
+ Am               Em
+Leva-nos em tuas mãos
+       Am            F
+Pelas portas da cidade
+ C             Em
+Na nova Jerusalém
+                  F
+Tua noiva vai entrar
+
+   Am                Em
+O céu começa a se abrir
+       Am                 F
+Toda a terra se dobrou a Ti
+  C             Em
+Cristo, Rei dos Reis
+             F
+Veio nos buscar
+
+ Am               Em
+Leva-nos em tuas mãos
+       Am            F
+Pelas portas da cidade
+ C             Em
+Na nova Jerusalém
+                  F
+Tua noiva vai entrar
+
+Interlúdio: | Am | Em | Am | F | C | Em | F |
+
+   Am                Em
+O céu começa a se abrir
+       Am                 F
+Toda a terra se dobrou a Ti
+  C             Em
+Cristo, Rei dos Reis
+             F
+Veio nos buscar
+
+ Am               Em
+Leva-nos em tuas mãos
+       Am            F
+Pelas portas da cidade
+ C             Em
+Na nova Jerusalém
+                  F
+Tua noiva vai entrar
+
+      Am     Em     Am           F
+Tu és Santo, Santo, Santo é o Senhor
+      Am     Em     Am           F
+Tu és Santo, Santo, Santo é o Senhor
+      Am     Em     Am           F
+Tu és Santo, Santo, Santo é o Senhor
+      Am     Em     Am           F
+Tu és Santo, Santo, Santo é o Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -7859,7 +7962,22 @@ Jesus`,
                 titulo: 'Já Estou Crucificado',
                 artista: 'Fernandinho',
                 tom: 'E',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 E | B/D# | C#m | A |
+
+                 E        B/D#
+Já estou crucificado com Cristo
+                C#m    A
+Agora vivo não mais eu
+
+                E      B/D#
+Cristo vive em mim aleluia
+               C#m       A
+Cristo vive em mim aleluia
+
+                E      B/D#
+Cristo vive em mim aleluia
+               C#m       A
+Cristo vive em mim aleluia`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -7868,7 +7986,186 @@ Jesus`,
                 titulo: 'Jeová Jireh',
                 artista: 'Aline Barros',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [C9] | [Am7] [D] | [Em7] | [D] |  [C9] | [Am7] [D] | [Em7] | [D] |
+
+                [G]
+O fogo não me queima
+              [G9]
+Nas águas não vou afundar
+        [C9]
+Pois estás comigo
+       [C]
+Não estou sozinho
+
+              [G]
+Eu estou guardado
+          [G9]
+No esconderijo
+       [C9]
+Não estou sozinho
+      [C]
+Tu estás comigo
+
+[C9]
+   Temer por quê?
+[D]              [Em7]
+   Se eu estou     guardado
+               [Bm7]
+Por quem nunca perdeu batalhas
+[C9]
+   Seu nome é
+[D9] 
+   Jeová Jireh
+      [G]    
+Irás prover de novo
+   [G7+(9)]  
+Eu creio em Ti
+
+[C9]
+Haja o que houver
+[D9]
+Venha o que vier
+      [G4]       [G] 
+Irás prover de novo
+    [G9]      [G] 
+Eu creio em Ti
+
+        [C9]
+Eu não vivo do que vejo
+[D9]
+Vivo do que creio
+      [G4]       [G] 
+Irás prover de novo
+    [G9]      [G] 
+Eu creio em Ti
+
+Interlúdio: ||: [G] [G7+] [G5] :| 
+
+                [G]
+O fogo não me queima
+                  [Gsus4]    
+Nas águas não vou afundar
+[G]/[B]    [C9]
+Pois estás comigo
+    [C]
+Não estou sozinho
+             [Em7]
+Eu estou guardado
+      [D] 
+No esconderijo
+[G]/[B]   [C9]
+Não estou sozinho
+     [Am7]
+Tu estás comigo
+
+[C9]
+   Temer por quê?
+[D]              [Em7]
+   Se eu estou     guardado
+               [Bm7]
+Por quem nunca perdeu batalhas
+[C9]
+   Seu nome é
+[D9] 
+   Jeová Jireh
+      [G]    
+Irás prover de novo
+   [G7+(9)]  
+Eu creio em Ti
+
+[C9]
+Haja o que houver
+[D9]
+Venha o que vier
+      [G4]       [G] 
+Irás prover de novo
+    [G9]      [G] 
+Eu creio em Ti
+
+        [C9]
+Eu não vivo do que vejo
+[D9]
+Vivo do que creio
+      [G4]       [G] 
+Irás prover de novo
+    [G9]      [G] 
+Eu creio em Ti
+
+Interlúdio: |: C  D | Em7  G :|
+
+[C9]
+   A tempestade
+[D9]
+   E o Vento Forte
+[Em7]                        [Bm7]
+    Não vão roubar a minha fé
+Em Ti meu Deus
+
+[C9]
+   A tempestade
+[D9]
+   E o Vento Forte
+[Em7]                        [Bm7]
+    Não vão roubar a minha fé
+Em Ti meu Deus
+[C9]
+   A tempestade
+[D9]
+   E o Vento Forte
+[Em7]                        [Bm7]
+    Não vão roubar a minha fé
+Em Ti meu Deus
+[C9]
+   A tempestade
+[D9]
+   E o Vento Forte
+[Em7]                        [Bm7]
+    Não vão roubar a minha fé
+          [C9]
+Em Ti meu Deus
+           [D9]
+Em Ti meu Deus
+          [Em7]  [Bm7]
+Em Ti meu Deus
+
+[C9]
+   Temer por quê?
+[D]              [Em7]
+   Se eu estou     guardado
+               [Bm7]
+Por quem nunca perdeu batalhas
+[C9]
+   Seu nome é
+[D9] 
+   Jeová Jireh
+      [G]    
+Irás prover de novo
+   [G7+(9)]  
+Eu creio em Ti
+
+[C9]
+Haja o que houver
+[D9]
+Venha o que vier
+      [G4]       [G] 
+Irás prover de novo
+    [G9]      [G] 
+Eu creio em Ti
+
+        [C9]
+Eu não vivo do que vejo
+[D9]
+Vivo do que creio
+      [G4]       [G] 
+Irás prover de novo
+    [G9]      [G] 
+Eu creio em Ti
+[C9]              [D9(11)]
+   Eu creio em Ti
+         [Em7]
+Irás prover de novo
+         [G]               [C9]  [C]
+Sim, eu sei, sim, eu sei`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
