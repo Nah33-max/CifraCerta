@@ -7593,7 +7593,7 @@ Am        F        C          G     Am
 Há um rio cujas fontes não cessam
        F       C    
 Há um rio que corre 
-     G       A5  F5  C5  G5  Am
+     G       Am  F9  C5  G  Am
 Do trono de Deus
 
        F          C           G    Am
@@ -7602,7 +7602,7 @@ Há um rio que desceu de Sua glória
 Há um rio que morreu numa cruz
           F         C         G  
 Mas esse rio ao terceiro dia 
- G       A5  F5  C5  G5 
+ G       Am  F9  C5  G 
 Ressuscitou
 
             Am  F  C
@@ -8039,7 +8039,7 @@ Irás prover de novo
     [G9]      [G] 
 Eu creio em Ti
 
-Interlúdio: ||: [G] [G7+] [G5] :| 
+Interlúdio: ||: [G] [G7+] [G] :| 
 
                 [G]
 O fogo não me queima
@@ -10012,7 +10012,112 @@ Final: | Bm7  A/B | A/B  Bm7 | G  A/G | A/G G D/F# | Em7 | D/F# | Bm |`,
                 titulo: 'O Carpinteiro',
                 artista: 'Alessandro Vilas Boas',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 Am | G | F9 |
+                
+             Am7                G
+Esconda-me em ti, esconda-me em ti
+                  F9
+Nas asas do teu amor
+              Am7                G
+Esconda-me em ti, esconda-me em ti
+                  F9
+Nas asas do teu amor
+
+             Am7                G
+Esconda-me em ti, esconda-me em ti
+                  F9
+Nas asas do teu amor
+             Am7                G
+Esconda-me em ti, esconda-me em ti
+                  F9
+Nas asas do teu amor
+
+Am7                      
+   Como eu amo seu nome
+G
+   Tens o nome mais lindo que eu conheço
+F9
+   Como eu amo seu nome 
+Am7                      
+   Como eu amo seu nome
+G                                       F9
+  Tens o nome mais lindo que eu conheço
+
+             Am7                G
+Esconda-me em ti, esconda-me em ti
+                  F9  
+Nas asas do teu amor
+             Am7                G
+Esconda-me em ti, esconda-me em ti
+                  F9  
+Nas asas do teu amor
+
+Am7                      
+   Como eu amo seu nome
+G
+   Tens o nome mais lindo que eu conheço
+F9
+   Como eu amo seu nome 
+Am7                      
+   Como eu amo seu nome
+G                                       F9
+  Tens o nome mais lindo que eu conheço
+
+  Am
+Qual é o som, qual é o som
+        G
+Quando Deus desce na terra?
+  F9
+Qual é o som, qual é o som?
+
+  Am
+Qual é o som, qual é o som
+        G
+Quando Deus desce na terra?
+  F9
+Qual é o som, qual é o som?
+
+  Am
+Qual é o som, qual é o som
+        G
+Quando Deus desce na terra?
+  F9
+Qual é o som, qual é o som? 
+
+            Am7
+E esse é o som
+                         G4
+O carpinteiro batendo a porta
+                         F9
+O carpinteiro batendo a porta
+
+            Am7
+E esse é o som
+                         G/B
+O carpinteiro batendo a porta
+                         F9
+O carpinteiro batendo a porta
+
+            Am7
+E esse é o som
+                             G4
+Do lado de dentro eu abro a porta
+                             F
+Do lado de dentro eu abro a porta 
+
+              Am7
+E este é meu som
+                             G4
+Do lado de dentro eu abro a porta
+                             F9
+Do lado de dentro eu abro a porta 
+
+              Am7
+E este é meu som
+                             G4
+Do lado de dentro eu abro a porta
+                             F9
+Do lado de dentro eu abro a porta `,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -10021,7 +10126,93 @@ Final: | Bm7  A/B | A/B  Bm7 | G  A/G | A/G G D/F# | Em7 | D/F# | Bm |`,
                 titulo: 'O Grande Eu Sou',
                 artista: 'Nazareno Central Music',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [D] | [Em] [A]/[C#] | [D] | [Em] [A]/[C#] | [Bm7] | [Em] [A]/[C#] | [D] | [Em] | [A] | [D] |
+
+        [Em] [A]/[C#]      [D]               [Em]   [A]/[C#]      [G]/[B]
+Quero viver perto de Ti, Sei que és real e vives em mim
+        [Em]  [A]/[C#]      [D]                [Em]
+Quero ouvir, anjos cantarem, em uma só voz
+
+[A]/[C#]  [Bm]              [G]        [D]                 [A]
+A - leluia, Santo, Santo, Poderoso, O Grande Eu Sou
+        [Bm]         [G]           [D]                 [A]   
+Que é Digno Não há outro, Poderoso, O Grande Eu Sou 
+    [Bm]  [F#m7]       [G7+] 
+(Ele é o Grande Eu Sou)
+              [A]   [Bm]  [F#m7]  [G]
+O Grande Eu Sou
+
+[D]        [Em] [A]/[C#]      [D]           [Em]     [A]/[C#]    [Bm]
+ Quero estar perto de Ti, o mundo amar sem nele ficar
+          [Em]       [A]/[C#]        [D]              [Em]
+Ver ossos secos com vida outra vez, em uma só voz
+
+[A]/[C#]  [Bm]              [G]        [D]                 [A]
+A - leluia, Santo, Santo, Poderoso, O Grande Eu Sou
+        [Bm]         [G]           [D]                 [A]   
+Que é Digno Não há outro, Poderoso, O Grande Eu Sou
+    [Bm]           [G]          [D]                 [A]
+Aleluia, Santo, Santo, Poderoso, O Grande Eu Sou
+      [Bm]           [G]           [D]                 [A]
+Que é Digno Não há outro, Poderoso, O Grande Eu Sou 
+    [Bm]  [F#m7]       [G7+]
+(Ele é o Grande Eu Sou)
+              [A]   [Bm]  [F#m7]  [G] | [G] |
+O Grande Eu Sou
+
+[Bm]                                   
+Montanhas vão cair, demônios fugirão   
+[G]
+Ao ouvir de que Jesus é o Rei dos Reis
+[D]                                   
+Não há poder maior, nada resistirá   
+[A]
+Ao Seu poder e a presença
+              [Bm]                [G]                 [D]
+Do Grande Eu Sou, do Grande Eu Sou, Do Grande Eu Sou   
+    [F#7]
+  (Ele é o Grande Eu Sou)
+
+              [Bm]                [G]                [D]    [A]
+Do Grande Eu Sou, do Grande Eu Sou, Do Grande Eu Sou
+
+
+      [Bm]               [G]       [D]                [F#m7]
+A - leluia, Santo, Santo, Poderoso, O Grande Eu Sou
+         [Bm]            [G]      [D]                 [A]      
+Que é digno Não há outro, Poderoso, O Grande Eu Sou
+    [Bm]  [F#m7]       [G7+]
+(Ele é o Grande Eu Sou)
+              [A]   [Bm]  [F#m7]  [G]
+O Grande Eu Sou
+
+[Bm]                                     
+Montanhas vão cair, demônios fugirão   
+[G]
+Ao ouvir de que Jesus é o Rei dos Reis
+
+
+(Pausa)                         [A]
+Não há poder maior, nada resistirá   Ao Seu poder e a presença
+
+              [Bm]               [G]                 [D]   [A]
+Do Grande Eu Sou, do Grande Eu Sou, Do Grande Eu Sou
+              [Bm]                [C]                [D]/[A]   [F#7]
+Do Grande Eu Sou, do Grande Eu Sou, Do Grande Eu Sou
+
+     [Bm]               [G]        [D]                [F#7]
+A - leluia, Santo, Santo, Poderoso, O Grande Eu Sou
+         [Bm]         [G]         [D]                 [A]
+Que é digno Não há outro, Poderoso, O Grande Eu Sou
+    [Bm]          [G]          [D]                 [F#7]
+Aleluia, Santo, Santo, Poderoso, O Grande Eu Sou
+       [G]           [Em7]      [D]/[A]                 [A]
+Que é digno Não há outro, Poderoso, O Grande Eu Sou
+     [Bm]  [F#m7]     [G7+]
+(Ele é o Grande Eu Sou)
+ 
+              [A]  [Bm]   [F#m7]   [G7+]
+O Grande Eu Sou`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
