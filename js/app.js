@@ -8297,7 +8297,45 @@ Estamos nós aqui`,
                 titulo: 'Leão da Tribo de Judá',
                 artista: 'Adhemar de Campos',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 [Em7] | %| [Am7]| % | [Em] | [B] | 
+
+          [Em]
+Ele é o Leão da tribo de Judá
+         [Am]
+Jesus tomou nossas cadeias e nos libertou
+[Em]             [Em]/[D]       [C#7(9+)]  [F#m7(11)]  [B7(13-)]
+Ele é a Rocha da nossa vitória
+         [Em]
+A nossa Força em tempos de fraqueza
+     [Am]
+Uma Torre em tempos de guerra
+[F#m7(11)]  [F7(5-)]         [Em]   [C]  [D]
+Ó    esperança     de Israel!
+
+          [Em]
+Ele é o Leão da tribo de Judá
+         [Am]
+Jesus tomou nossas cadeias e nos libertou
+[Em]             [Em]/[D]       [C#7(9+)]  [F#m7(11)]  [B7(13-)]
+Ele é a Rocha da nossa vitória
+         [Em]
+A nossa Força em tempos de fraqueza
+     [Am]
+Uma Torre em tempos de guerra
+[F#m7(11)]  [F7(5-)]         [Em]   [C]  [D]
+Ó    esperança     de Israel!
+
+         [Em]
+A nossa Força em tempos de fraqueza
+     [Am]
+Uma Torre em tempos de guerra
+
+[F#m7(11)]  [F7(5-)]      [Em]
+Ó    esperança de Israel
+[F#m7(11)]  [F7(5-)]      [Em]
+Ó    esperança de Israel
+[F#m7(11)]  [F7(5-)]  [B]     [Em]
+Ó    esperança   de Israel`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
@@ -8306,7 +8344,42 @@ Estamos nós aqui`,
                 titulo: 'Livre acesso',
                 artista: 'Ministério Koinonya de Louvor',
                 tom: 'G',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||4/4 Em | Bm | C  Am | D ||
+                
+    G            D/G             C/G
+Senhor eu não sou nada diante do Teu poder
+G       D/G          C/G
+Nem merecedor do Teu imenso amor
+C          D/C             B7             Em
+Através do Teu filho tenho livre acesso a Ti
+        C                  Am
+Que me fez chegar aos Teus pés
+       D
+Me humilhar diante de Ti
+
+    G            D/G             C/G
+Senhor eu não sou nada diante do Teu poder
+G       D/G          C/G
+Nem merecedor do Teu imenso amor
+C          D/C             B7             Em
+Através do Teu filho tenho livre acesso a Ti
+        C                  Am
+Que me fez chegar aos Teus pés
+       D
+Me humilhar diante de Ti
+
+Em               Bm
+Deixa teu rio, passar em minha vida
+     C             Am     D
+E curar minhas feridas, sarar as minhas dores
+Em
+Livra-me Ô Deus
+      Bm
+Das cadeias que me prendem
+C           Am
+Toca em minh'alma
+       C/D           D      G
+Faz em mim o Teu querer, Senhor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
