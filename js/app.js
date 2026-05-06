@@ -15,8 +15,8 @@ const CHORDS = ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'G#', 'A', 'Bb', 'B']
 
 // Alternative chord notations
 const CHORD_ALTERNATIVES = {
-    'Db': 'C#', 'D#': 'Eb', 'Gb': 'F#', 'Ab': 'G#', 'A#': 'Bb',
-    'Dbm': 'C#m', 'D#m': 'Ebm', 'Gbm': 'F#m', 'Abm': 'G#m', 'A#m': 'Bbm'
+    'Db': 'C#', 'D#': 'Eb', 'Gb': 'F#', 'Ab': 'G#', 'Bb': 'Bb',
+    'Dbm': 'C#m', 'D#m': 'Ebm', 'Gbm': 'F#m', 'Abm': 'G#m', 'Bbm': 'Bbm'
 };
 
 // ==================== State ====================
@@ -1963,62 +1963,62 @@ Quero ouvir o som do céu
                 titulo: 'Basta uma Palavra do meu Deus',
                 artista: 'Comunidade Evangélica Internacional da Zona Sul',
                 tom: 'F',
-                letra: `Intro: |4/4 F | A# | Dm | C |
+                letra: `Intro: |4/4 F | Bb | Dm | C |
         
-        F                          A#
+        F                          Bb
 Basta uma palavra do meu Deus
  Dm                   C
 Para um milagre acontecer
-    F                            A#
+    F                            Bb
 O tempo e a distância não vão resistir
  Dm                      C
 Se Ele falou, Ele vai cumprir!  2x
 
-A#                               C
+Bb                               C
 Ele falou ao mar e o mar se acalmou
-A#                                Dm
+Bb                                Dm
 "Haja luz !” – E a luz passou a existir!
-A#                                     C
+Bb                                     C
 "Levanta e anda” – E o paralítico andou!
-   Gm             A#              C
+   Gm             Bb              C
 E tem falado que o melhor está por vir
 
-F                          A#
+F                          Bb
 Basta uma palavra do meu Deus
  Dm                   C
 Para um milagre acontecer
-    F                            A#
+    F                            Bb
 O tempo e a distância não vão resistir
  Dm                      C
 Se Ele falou, Ele vai cumprir ! 2x
 
-A#                                 C
+Bb                                 C
 Chamou pelo nome e o morto ressurgiu
-   A#                             Dm
+   Bb                             Dm
 "Lançai a rede” e a pesca superabundou
-      A#                          C
+      Bb                          C
 O que Ele prometeu prá mim e prá você
-Gm             A#               C
+Gm             Bb               C
 Pode acreditar que vai acontecer !
 
-F                          A#
+F                          Bb
 Basta uma palavra do meu Deus
  Dm                   C
 Para um milagre acontecer
-    F                            A#
+    F                            Bb
 O tempo e a distância não vão resistir
  Dm                      C
 Se Ele falou, Ele vai cumprir !
 
-F                        A#
+F                        Bb
 Basta uma palavra do meu Deus 3x
 Dm                    C
 Para um milagre acontecer
-F                        A#
+F                        Bb
 Basta uma palavra do meu Deus 3x
 Dm                    C
 Para um milagre acontecer
-F                        A#
+F                        Bb
 Basta uma palavra do meu Deus 3x
 Dm                       C
 Se Ele falou, Ele vai cumprir`,
@@ -2041,7 +2041,7 @@ Aqueles que te lou__vam
           [C]                [F]
 Cujo coração está no nosso Deus
 
-Interlúdio: | [F] | [C] | [Dm7] | [A#] | [F]/[A] | [C] | [Dm7] | [A#] |
+Interlúdio: | [F] | [C] | [Dm7] | [Bb] | [F]/[A] | [C] | [Dm7] | [Bb] |
 
          [C]/[Bb]            [Bb9]  [C]/[Bb] [Bb]
 Bem aventurado é o que está
@@ -2054,7 +2054,7 @@ Cujo coração está no nosso Deus
 
          [C]/[Bb]           [Bb9]  [C]/[Bb]
 Bem aventurado é quem tem
-[A#]         [C]/[F]     [F]   [C]/[F]
+[Bb]         [C]/[F]     [F]   [C]/[F]
 Sede da Justiça de Deus
 [F]               [C]/[Bb]      [Bb] [Gm7]
 Aqueles que são filhos da luz
@@ -2066,7 +2066,7 @@ Que o teu reino venha sobre nós
              [Bb]/[D]          [C]/[E]
 Queremos tua glória sobre nós
 
-[F]         [C]          [Dm]        [A#]
+[F]         [C]          [Dm]        [Bb]
 Ouve, oh Deus, nossa oração, Altíssimo
 [F]/[A]            [C]
    Sara essa nação
@@ -2077,7 +2077,7 @@ Intro: | [C]/[Bb]  [Bb] | [C]/[Bb]  [Bb] | [C]/[F]  [F] | [C]/[F]  [F] :|
 
          [C]/[Bb]           [Bb9]  [C]/[Bb]
 Bem aventurado é quem tem
-[A#]         [C]/[F]     [F]   [C]/[F]
+[Bb]         [C]/[F]     [F]   [C]/[F]
 Sede da Justiça de Deus
 [F]               [C]/[Bb]      [Bb] [Gm7]
 Aqueles que são filhos da luz
@@ -2089,7 +2089,7 @@ Que o teu reino venha sobre nós
              [Bb]/[D]          [C]/[E]
 Queremos tua glória sobre nós
 
-[F]         [C]          [Dm]        [A#]
+[F]         [C]          [Dm]        [Bb]
 Ouve, oh Deus, nossa oração, Altíssimo
 [F]/[A]            [C]
    Sara essa nação
@@ -2113,14 +2113,14 @@ Ouve, oh Deus, nossa oração, Altíssimo
 [Dm7]                   [Bb]
    Só tu és Santo, Senhor
 
-[F]         [C]          [Dm]        [A#]
+[F]         [C]          [Dm]        [Bb]
 Ouve, oh Deus, nossa oração, Altíssimo
 [F]/[A]            [C]
    Sara essa nação
        [Dm]            [Bb]
 É o clamor da igreja que te adora
 
-[F]         [C]          [Dm]        [A#]
+[F]         [C]          [Dm]        [Bb]
 Ouve, oh Deus, nossa oração, Altíssimo
 [F]/[A]            [C]
    Sara essa nação
@@ -2327,9 +2327,9 @@ Como pude então ter chegado aqui
        [F]   [G]         [Am7]
 Eu não posso crer que é o fim
 
-[A#]/[G#] [D#]/[G]  [A#]/[G#] [D#]/[G]
+[Bb]/[G#] [D#]/[G]  [Bb]/[G#] [D#]/[G]
     Di____zem: "onde está o Teu Deus?
-   [A#]/[G#] [D#]/[G]      [G]  [F]/[A] [G]/[B]
+   [Bb]/[G#] [D#]/[G]      [G]  [F]/[A] [G]/[B]
 Me pergun_______tam o que fazer
 
 [C]        [G]/[B] [Am]     [G]       [F] [C]/[E]
@@ -2352,9 +2352,9 @@ Como pude então ter chegado aqui
        [F]   [G]         [Am7]
 Eu não posso crer que é o fim
 
-[A#]/[G#] [D#]/[G]  [A#]/[G#] [D#]/[G]
+[Bb]/[G#] [D#]/[G]  [Bb]/[G#] [D#]/[G]
     Di____zem: "onde está o Teu Deus?
-   [A#]/[G#] [D#]/[G]      [G]  [F]/[A] [G]/[B]
+   [Bb]/[G#] [D#]/[G]      [G]  [F]/[A] [G]/[B]
 Me pergun_______tam o que fazer
 
 [C]        [G]/[B] [Am]     [G]       [F] [C]/[E]
@@ -3355,87 +3355,87 @@ E ao primeiro amor voltar`,
                 titulo: 'Creio em Ti',
                 artista: 'Gabriela Rocha',
                 tom: 'F',
-                letra: `Intro: ||:4/4 [Dm]  [C] |  [A#] :| 
+                letra: `Intro: ||:4/4 [Dm]  [C] |  [Bb] :| 
 
-     [Dm]     [C]             [A#] 
+     [Dm]     [C]             [Bb] 
 Teu sangue faz o surdo ouvir agora
-     [Dm]      [C]          [A#] 
+     [Dm]      [C]          [Bb] 
 Teu sangue quebra maldição agora
-     [Dm]     [C]         [A#] 
+     [Dm]     [C]         [Bb] 
 Teu sangue cura toda dor agora
-     [Dm]     [C]           [A#]         
+     [Dm]     [C]           [Bb]         
 Teu sangue liberta o cativo agora
 
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
          [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
                    [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-     [Dm]     [C]             [A#]
+     [Dm]     [C]             [Bb]
 Teu sangue sara os corações agora
-     [Dm]     [C]             [A#] 
+     [Dm]     [C]             [Bb] 
 Teu sangue me leva a perdoar agora
-     [Dm]     [C]             [A#] 
+     [Dm]     [C]             [Bb] 
 Teu sangue transforma a minha mente agora
-     [Dm]     [C]             [A#]     
+     [Dm]     [C]             [Bb]     
 Teu sangue faz o morto reviver agora
 
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
          [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
                    [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
          [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
                    [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-       [A#]          [C] 
+       [Bb]          [C] 
 Não há nada que resista ao Teu poder
-      [A#]                      [C] 
+      [Bb]                      [C] 
 Nem pecado, nem o mal, livre sou
 
-        [A#]          [C]  
+        [Bb]          [C]  
 Não há nada que resista ao Teu poder
-      [A#]/[D]                   [C]/[E] 
+      [Bb]/[D]                   [C]/[E] 
 Nem pecado, nem o mal, livre sou
 
-       [A#]          [C] 
+       [Bb]          [C] 
 Não há nada que resista ao Teu poder
-      [A#]                      [C] 
+      [Bb]                      [C] 
 Nem pecado, nem o mal, livre sou
 
-        [A#]          [C]  
+        [Bb]          [C]  
 Não há nada que resista ao Teu poder
-      [A#]/[D]                   [C]/[E] 
+      [Bb]/[D]                   [C]/[E] 
 Nem pecado, nem o mal, livre sou
 
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
          [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
                    [F]         [C]/[E] 
 Teu sangue é o que basta pra mim
 
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
          [F]            [C]/[E] 
 Tu és o mesmo ontem, hoje e para sempre
-  [Gm]         [A#] 
+  [Gm]         [Bb] 
 E eu creio que
                    [F]         [C]/[E] 
 Teu sangue é o que basta pra mim`,
@@ -3632,7 +3632,7 @@ Intro: |:4/4 [Dm7] | [G#] [G] [Fm] [G] [G#] [G] :||`,
                 titulo: 'Deus Eterno',
                 artista: 'Oficina G3',
                 tom: 'D',
-                letra: `Intro: |4/4 [G7+] [A#°] | [Bm] [Bm7] | [Em] [D]/[F#] [G] [A] | [A#°] | 
+                letra: `Intro: |4/4 [G7+] [Bb°] | [Bm] [Bm7] | [Em] [D]/[F#] [G] [A] | [Bb°] | 
 
    [D]                   [A]/[C#]       [Bm]
 Ó Deus tú és o meu Deus forte e a minha fortaleza
@@ -3652,17 +3652,17 @@ Com júbilo nos lábios te louvo ó meu rei
                 [G7+]  [Bm]/[F#]            [Em7]  [A]  [A]/[C#]
 Debaixo de tuas asas    encontro abrigo
 
-[G]            [A]        [F#]/[A#]            [Bm]
+[G]            [A]        [F#]/[Bb]            [Bm]
  Te louvo e te bendigo,  porque és bendito
 [A]    [G]        [A]           [Bm]
 Ó Senhor glórias ao Deus eterno
 
-[G]             [A]         [F#]/[A#]           [Bm]
+[G]             [A]         [F#]/[Bb]           [Bm]
  Te louvo, eu te bendigo,   porque és comigo
 [A]     [G]       [A]           [Bm]
 Ó Senhor glórias ao Deus eterno
 
-[G]            [A]        [F#]/[A#]            [Bm]
+[G]            [A]        [F#]/[Bb]            [Bm]
  Te louvo e te bendigo,  porque és bendito
 [A]    [G]        [A]           
 Ó Senhor glórias ao Deus 
@@ -3855,7 +3855,7 @@ Não se comparam com o que há de vir`,
                 titulo: 'Deus Vem Me Socorrer ',
                 artista: 'Bruna Karla',
                 tom: 'Eb',
-                letra: `Intro: ||4/4  [G#] | [A#] | [G#] | [A#] | [G#] | [A#] || [Fm]  [D#]/[G] | [G#] |
+                letra: `Intro: ||4/4  [G#] | [Bb] | [G#] | [Bb] | [G#] | [Bb] || [Fm]  [D#]/[G] | [G#] |
 
 [Cm]            [G#]                [Fm]
   O sol já se pôs, a dor não se foi
@@ -3867,15 +3867,15 @@ O que é que eu vou fazer
 Eu quero ver o sol brilhar trazendo esperança
 [Fm]           [G4]  [G]
 Para o meu viver
-[Cm]                  [Cm]/[A#]
+[Cm]                  [Cm]/[Bb]
 Deus vem me socorrer, estende a Tua mão
 [Fm]                     [G4]       [G]
 Derrama azeite em mim, sara meu coração
-[Cm]                  [Cm]/[A#]
+[Cm]                  [Cm]/[Bb]
 Deus faz-me reviver, em meio à provação
   [Fm]
 Revela o teu poder a mim
-    G4              G        || [G#] | [A#] | [G#] | [A#] ||
+    G4              G        || [G#] | [Bb] | [G#] | [Bb] ||
 O milagre que eu preciso está em Ti
 
 [Cm]            [G#]                [Fm]
@@ -3888,35 +3888,35 @@ O que é que eu vou fazer
 Eu quero ver o sol brilhar trazendo esperança
 [Fm]           [G4]  [G]
 Para o meu viver
-[Cm]                  [Cm]/[A#]
+[Cm]                  [Cm]/[Bb]
 Deus vem me socorrer, estende a Tua mão
 [Fm]                     [G4]       [G]
 Derrama azeite em mim, sara meu coração
-[Cm]                  [Cm]/[A#]
+[Cm]                  [Cm]/[Bb]
 Deus faz-me reviver, em meio à provação
   [Fm]
 Revela o teu poder a mim
-    G4              G        || [G#] | [A#] | [G#] | [A#] || [A#] [G#] [Gm] [Fm] ||
+    G4              G        || [G#] | [Bb] | [G#] | [Bb] || [Bb] [G#] [Gm] [Fm] ||
 O milagre que eu preciso está em Ti
 
-        [Fm]                     [D#] [A#]
+        [Fm]                     [D#] [Bb]
 Sim eu sei que o meu Redentor vi__ve
       [Fm]         [D#]/[G]       [G#]         [G4]      [G]
 E por minha causa se levantará, Oh  Oh  Oh  Oh  Oh  Oh
 
 [Cm]
 Filho estou aqui
-[Cm]/[A#]
+[Cm]/[Bb]
 Estendo a minha mão
 [Fm]
 Eu vim cuidar de ti
 [G4]        [G]
 Sarar teu coração
-[Cm]            [Cm]/[A#]
+[Cm]            [Cm]/[Bb]
 Te faço reviver em meio à provação
 [Fm]
 Sinta agora o Meu poder
-      G4            G          | G# | A# | G# | A# | Cm ||
+      G4            G          | G# | Bb | G# | Bb | Cm ||
 Se precisas de um milagre estou aqui`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -4279,27 +4279,27 @@ O Deus do impossível`,
                 titulo: 'Deus é Deus',
                 artista: 'Delino Marçal',
                 tom: 'F',
-                letra: `Intro: |4/4 [F]  [C]/[E] | [Dm7]  [C] | [A#] [F]/[A] | [Gm7] ||
+                letra: `Intro: |4/4 [F]  [C]/[E] | [Dm7]  [C] | [Bb] [F]/[A] | [Gm7] ||
 
       F9             C/E
 Minha fé não está firmada
              Dm7           C/E
 Nas coisas que podes fazer
-         F9         A#          C4  C
+         F9         Bb          C4  C
 Eu aprendi a Te adorar pelo que és
 
-      Gm7   A#/F     C/E
+      Gm7   Bb/F     C/E
 Dele vem o sim e o amém
          F9     C/E      Dm7
 Somente dele e mais ninguém
-C  A#       C4    A#
+C  Bb       C4    Bb
 A Deus seja o louvor
 
            F9         C/E
 Se Deus fizer, Ele é Deus
           Dm7        C
 Se não fizer, Ele é Deus
-              A#         F/A
+              Bb         F/A
 Se a porta abrir, Ele é Deus
            Gm7                 C
 Mas se fechar, continua sendo Deus
@@ -4308,7 +4308,7 @@ Mas se fechar, continua sendo Deus
 Se a doença vier, Ele é Deus
               Dm7        C
 Se curado eu for, Ele é Deus
-             A#           F/A
+             Bb           F/A
 Se tudo der certo, Ele é Deus
             Gm7                 C
 Mas se não der, continua sendo Deus
@@ -4317,21 +4317,21 @@ Mas se não der, continua sendo Deus
 Minha fé não está firmada
              Dm7           C/E
 Nas coisas que podes fazer
-         F9         A#          C4  C
+         F9         Bb          C4  C
 Eu aprendi a Te adorar pelo que és
 
-      Gm7   A#/F     C/E
+      Gm7   Bb/F     C/E
 Dele vem o sim e o amém
          F9     C/E      Dm7
 Somente dele e mais ninguém
-C  A#       C4    A#
+C  Bb       C4    Bb
 A Deus seja o louvor
 
            F9         C/E
 Se Deus fizer, Ele é Deus
           Dm7        C
 Se não fizer, Ele é Deus
-              A#         F/A
+              Bb         F/A
 Se a porta abrir, Ele é Deus
            Gm7                 C
 Mas se fechar, continua sendo Deus
@@ -4340,34 +4340,34 @@ Mas se fechar, continua sendo Deus
 Se a doença vier, Ele é Deus
               Dm7        C
 Se curado eu for, Ele é Deus
-             A#           F/A
+             Bb           F/A
 Se tudo der certo, Ele é Deus
             Gm7                 C   F/A
 Mas se não der, continua sendo Deus
 
-        A#                F/A
+        Bb                F/A
 Não o adoro pelo que Ele faz
        Gm7              Dm7
 Eu o adoro pelo que Ele é
-               A#
+               Bb
 Haja o que houver
- C           A#  C  F/A
+ C           Bb  C  F/A
 Sempre será Deus
 
-        A#                F/A
+        Bb                F/A
 Não o adoro pelo que Ele faz
        Gm7              Dm7
 Eu o adoro pelo que Ele é
-               A#
+               Bb
 Haja o que houver
- C           A#  C
+ C           Bb  C
 Sempre será Deus
 
            F9         C/E
 Se Deus fizer, Ele é Deus
           Dm7        C
 Se não fizer, Ele é Deus
-              A#         F/A
+              Bb         F/A
 Se a porta abrir, Ele é Deus
            Gm7                 C
 Mas se fechar, continua sendo Deus
@@ -4376,23 +4376,23 @@ Mas se fechar, continua sendo Deus
 Se a doença vier, Ele é Deus
       C#º     Dm7  G7/B        Cm7
 Se curado eu for,        Ele é Deus
-    F/A      A#           F/A
+    F/A      Bb           F/A
 Se tudo der certo, Ele é Deus
             Gm7                 C
 Mas se não der, continua sendo Deus
 
- A#
+ Bb
 Deus é Deus
  Dm7
 Deus é Deus
- A#         C
+ Bb         C
 Deus é Deus
 
- A#
+ Bb
 Deus é Deus
  Dm7
 Deus é Deus
- A#         C4
+ Bb         C4
 Deus é Deus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -4526,103 +4526,103 @@ Nada irá me separar`,
                 titulo: 'Digno é o Senhor',
                 artista: 'Aline Barros',
                 tom: 'F',
-                letra: `Intro: |4/4 [F]/[A]  [A#] | [C] | [F]/[A] [Bb] | [C] |
+                letra: `Intro: |4/4 [F]/[A]  [Bb] | [C] | [F]/[A] [Bb] | [C] |
 
-              [A#]     [F]/[A]
+              [Bb]     [F]/[A]
 Graças eu te dou pai
-            [A#]  [C] [F]
+            [Bb]  [C] [F]
 Pelo preço que pagou
            [Dm]
 Sacrifício de amor
-    [C]      [A#]    [Gm]   [F]/[A]   [C4]
+    [C]      [Bb]    [Gm]   [F]/[A]   [C4]
 Que me comprou ungido do Senhor
 
-             [A#]       [F]/[A]
+             [Bb]       [F]/[A]
 Pelos cravos em suas mãos
-              [A#] [C]         [F]
+              [Bb] [C]         [F]
 Graças eu te dou ó meu Senhor
                     [Dm]
 Lavou minha mente e coração
-    [C]      [A#]  
+    [C]      [Bb]  
 Me deu perdão
        [Gm]       [F]/[A]  [C4]
 Restaurou-me a comunhão
 
  [F]          [C]/[E]
 Digno é o Senhor
-[Gm]      [F]/[A]     [A#]
+[Gm]      [F]/[A]     [Bb]
 Sobre o trono está
- [C]   [C]/[A#] [F]/[A]  [A#]  
+ [C]   [C]/[Bb] [F]/[A]  [Bb]  
 Soberano, criador
      [Gm]       [F]   [C]
 Vou sempre te adorar
   [F]           [C]/[E] 
 Elevo minhas mãos
-     [Gm]     [F]/[A]   [A#]
+     [Gm]     [F]/[A]   [Bb]
 Ao Cristo que venceu
-    [C]       [C]/[A#] 
+    [C]       [C]/[Bb] 
 Cordeiro de Deus
-    [F]/[A]     [A#] [C]
+    [F]/[A]     [Bb] [C]
 Morreu por mim
-           [Gm]   [F]/[A]  [A#]
+           [Gm]   [F]/[A]  [Bb]
 Mas ressuscitou
           [Gm]    [F]/[A]  [C]
 Digno é o Senhor
 
-             [A#]       [F]/[A]
+             [Bb]       [F]/[A]
 Pelos cravos em suas mãos
-              [A#] [C]         [F]
+              [Bb] [C]         [F]
 Graças eu te dou ó meu Senhor
                     [Dm]
 Lavou minha mente e coração
-    [C]      [A#]  
+    [C]      [Bb]  
 Me deu perdão
        [Gm]       [F]/[A]  [C4]
 Restaurou-me a comunhão
 
  [F]          [C]/[E]
 Digno é o Senhor
-[Gm]      [F]/[A]     [A#]
+[Gm]      [F]/[A]     [Bb]
 Sobre o trono está
- [C]   [C]/[A#] [F]/[A]  [A#]  
+ [C]   [C]/[Bb] [F]/[A]  [Bb]  
 Soberano, criador
      [Gm]       [F]   [C]
 Vou sempre te adorar
   [F]           [C]/[E] 
 Elevo minhas mãos
-     [Gm]     [F]/[A]   [A#]
+     [Gm]     [F]/[A]   [Bb]
 Ao Cristo que venceu
-    [C]       [C]/[A#] 
+    [C]       [C]/[Bb] 
 Cordeiro de Deus
-    [F]/[A]     [A#] [C]
+    [F]/[A]     [Bb] [C]
 Morreu por mim
-           [Gm]   [F]/[A]  [A#]
+           [Gm]   [F]/[A]  [Bb]
 Mas ressuscitou
           [Gm]    [F]/[A]  [C]
 Digno é o Senhor
 
   [F]           [C]/[E] 
 Elevo minhas mãos
-     [Gm]     [F]/[A]   [A#]
+     [Gm]     [F]/[A]   [Bb]
 Ao Cristo que venceu
-    [C]       [C]/[A#] 
+    [C]       [C]/[Bb] 
 Cordeiro de Deus
-    [F]/[A]     [A#] [C]
+    [F]/[A]     [Bb] [C]
 Morreu por mim
-           [Gm]   [F]/[A]  [A#]
+           [Gm]   [F]/[A]  [Bb]
 Mas ressuscitou
           [Gm]    [F]/[A]  [C]
 Digno é o Senhor
 
-           [Gm]   [F]/[A]  [A#]
+           [Gm]   [F]/[A]  [Bb]
 Mas ressuscitou
           [Gm]    [F]/[A]  [C]
 Digno é o Senhor
-           [Gm]   [F]/[A]  [A#]
+           [Gm]   [F]/[A]  [Bb]
 Mas ressuscitou
           [Gm]    [F]/[A]  [C]
 Digno é o Senhor
-           [Gm]   [F]/[A]  [A#]
+           [Gm]   [F]/[A]  [Bb]
 Mas ressuscitou
           [Gm]    [F]/[A]  [C]
 Digno é o Senhor`,
@@ -4725,7 +4725,7 @@ Eu creio sim`,
                 titulo: 'Dono do Mundo',
                 artista: 'Fernandinho',
                 tom: 'B',
-                letra: `Intro: |:4/4  [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | 
+                letra: `Intro: |:4/4  [G#m7] [F#]/[Bb] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | 
         
 [B]               
   Dono do mundo
@@ -4735,11 +4735,11 @@ Eu creio sim`,
   És soberano
 [E]                       [C#m7]
   O domínio está em Tuas mãos
-            [G#m7]    [F#]/[A#]    [B]
+            [G#m7]    [F#]/[Bb]    [B]
 Não há nada que eu possa  fazer
            [F#]    [C#m7]
 Sem Tua presença
-           [G#m7]    [F#]/[A#]  [B]
+           [G#m7]    [F#]/[Bb]  [B]
 És a minha força, o meu refúgio
        [F#]
 Libertador
@@ -4753,7 +4753,7 @@ Glorioso, Majestoso
       [G#m7] [F#9]   [E9]
 Minha vida eu Te dou
 
-Intro: |:4/4  [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] |
+Intro: |:4/4  [G#m7] [F#]/[Bb] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] |
 
 [B]               
   Dono do mundo
@@ -4763,11 +4763,11 @@ Intro: |:4/4  [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] |
   És soberano
 [E]                       [C#m7]
   O domínio está em Tuas mãos
-            [G#m7]    [F#]/[A#]    [B]
+            [G#m7]    [F#]/[Bb]    [B]
 Não há nada que eu possa  fazer
            [F#]    [C#m7]
 Sem Tua presença
-           [G#m7]    [F#]/[A#]  [B]
+           [G#m7]    [F#]/[Bb]  [B]
 És a minha força, o meu refúgio
        [F#]
 Libertador
@@ -4790,7 +4790,7 @@ Glorioso, Majestoso
       [G#m7] [F#9]   [E9]
 Minha vida eu Te dou
 
-[Enterlúdio] | [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] ||
+[Enterlúdio] | [G#m7] [F#]/[Bb] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] ||
 
       [B]       [F#]/[B]
 Grandioso vencedor
@@ -4800,7 +4800,7 @@ Em Teu nome há poder
 Glorioso, Majestoso
       [G#m7] [F#9]   [E9]
 Minha vida eu Te dou
-[Intro] | [G#m7] [F#]/[A#] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] ||`,
+[Intro] | [G#m7] [F#]/[Bb] | [B] :||: [C#m7] [B]/[D#] | [E] :| [E9] | [E] ||`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5359,26 +5359,26 @@ Sobre as águas vem andando
  Gm       Dm
 Me encontrar
 
-    A#                
+    Bb                
 Enquanto o vento sopra 
      Dm         C
 E as águas de agitam
-      A#                C
+      Bb                C
 Meus pés dançam tua canção
-   A#              
+   Bb              
 O seu amor perfeito  
 Dm           C
 Afogou meus medos
-    A#       
+    Bb       
 E agora posso 
                 C
 Olhar só pra você
 
-     A#   
+     Bb   
 Emanuel  
              Dm
 Nunca me deixou
-     A#   
+     Bb   
 Emanuel  
                Dm  C
 Deus comigo está
@@ -5398,31 +5398,31 @@ Sobre as águas vem andando
  Gm       Dm
 Me encontrar
 
-    A#                
+    Bb                
 Enquanto o vento sopra 
      Dm         C
 E as águas de agitam
-      A#                C
+      Bb                C
 Meus pés dançam tua canção
-   A#              
+   Bb              
 O seu amor perfeito  
 Dm           C
 Afogou meus medos
-    A#       
+    Bb       
 E agora posso 
                 C
 Olhar só pra você
 
-     A#   
+     Bb   
 Emanuel  
              Dm
 Nunca me deixou
-     A#   
+     Bb   
 Emanuel  
                Dm  C
 Deus comigo está
 
-A#
+Bb
   Nos meus piores medos 
 Gm
   Fraquezas e anseios
@@ -5430,7 +5430,7 @@ Dm
   Você comigo está  
 C
   Você comigo está
-A#
+Bb
   Quando eu não te enxergo  
 Gm
   Eu sei que está por perto
@@ -5439,18 +5439,18 @@ Dm
 C
   Nunca me deixará
 
-     A#   
+     Bb   
 Emanuel  
              Dm
 Nunca me deixou
-     A#   
+     Bb   
 Emanuel  
                Dm  C
 Deus comigo está
 
 [Ponte]
 
-A#
+Bb
   Nos meus piores medos 
 Gm
   Fraquezas e anseios
@@ -5458,7 +5458,7 @@ Dm
   Você comigo está  
 C
   Você comigo está
-A#
+Bb
   Quando eu não te enxergo  
 Gm
   Eu sei que está por perto
@@ -5469,11 +5469,11 @@ C
 
 [Refrão]
 
-     A#   
+     Bb   
 Emanuel  
              Dm
 Nunca me deixou
-     A#   
+     Bb   
 Emanuel  
                Dm
 Deus comigo está`,
@@ -5577,7 +5577,7 @@ Tu provês o fogo
 E eu, o sacrifício sou
                Dm    F
 Tu provês o Espírito
-               A#
+               Bb
 Me abro por inteiro
 
        Dm
@@ -5589,7 +5589,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5602,7 +5602,7 @@ Tu provês o fogo
 E eu, o sacrifício sou
                Dm    F
 Tu provês o Espírito
-               A#
+               Bb
 Me abro por inteiro
 
        Dm
@@ -5614,7 +5614,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5623,7 +5623,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5632,7 +5632,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5641,7 +5641,7 @@ Enche-me
 
        Dm
 Enche-me
-      A#
+      Bb
 Até transbordar
                 F
 Derrama a Sua glória
@@ -5650,7 +5650,7 @@ Derrama a Sua glória
 
        Dm
 Enche-me
-      A#
+      Bb
 Até transbordar
                 F/C
 Derrama a Sua glória
@@ -5659,7 +5659,7 @@ Derrama a Sua glória
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5668,7 +5668,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5677,7 +5677,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5686,7 +5686,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5698,7 +5698,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5707,7 +5707,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5716,7 +5716,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5725,7 +5725,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5734,7 +5734,7 @@ Enche-me
 
        Dm
 Enche-me
-      A#
+      Bb
 Até transbordar
                 F
 Derrama a Sua glória
@@ -5743,7 +5743,7 @@ Derrama a Sua glória
 
        Dm
 Enche-me
-      A#
+      Bb
 Até transbordar
                 F/C
 Derrama a Sua glória
@@ -5768,7 +5768,7 @@ Derrama a Sua glória
 
        Dm
 Enche-me
-      A#
+      Bb
 Até transbordar
                 F
 Derrama a Sua glória
@@ -5777,7 +5777,7 @@ Derrama a Sua glória
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -5786,7 +5786,7 @@ Enche-me
 
        Dm
 Enche-me, Deus
-       A#
+       Bb
 Enche-me, Deus
        F
 Enche-me, Deus
@@ -7176,13 +7176,13 @@ O choro já durou a noite
                 titulo: 'Galileu',
                 artista: 'Fernandinho',
                 tom: 'C#',
-                letra: `Intro: |:4/4 A#m | F# | A#m F# :|
+                letra: `Intro: |:4/4 Bbm | F# | Bbm F# :|
 
 C#            F#9
   Deixou Sua glória
          C#            F#9
 Foi por amor, foi por amor
-A#m         F#9         A#m
+Bbm         F#9         Bbm
    E o seu sangue, derramou
             F#9
 Que grande amor
@@ -7202,12 +7202,12 @@ Eu me rendo ao seu amor
 Eu me rendo ao seu amor
        D#m7         F#
 Eu me rendo ao seu amor
-      A#m
+      Bbm
 Eu me rendo
        G#
 Eu me rendo
 
-A#m
+Bbm
 Deus Emanuel
   F#
 Estrela da Manhã
@@ -7215,7 +7215,7 @@ Estrela da Manhã
 Cordeiro de Deus
 G#
 Pão da Vida
-A#m
+Bbm
 Príncipe da Paz
   F#
 O grande El Shaddai
@@ -7230,10 +7230,10 @@ D#m  F#    C#     G#
 Galileu, Jesus, Jesus
 D#m  F#    C#     G#
 Galileu, Jesus, Jesus
-D#m  F#    A#m     G#
+D#m  F#    Bbm     G#
 Galileu, Jesus, Jesus
 
-Intro: | A#m | F#7+ | A#m | F#7+ |
+Intro: | Bbm | F#7+ | Bbm | F#7+ |
 
      D#m7           F#
 Eu me rendo ao seu amor
@@ -7241,12 +7241,12 @@ Eu me rendo ao seu amor
 Eu me rendo ao seu amor
        D#m7         F#
 Eu me rendo ao seu amor
-      A#m
+      Bbm
 Eu me rendo
        G#
 Eu me rendo
 
-A#m
+Bbm
 Deus Emanuel
   F#
 Estrela da Manhã
@@ -7254,7 +7254,7 @@ Estrela da Manhã
 Cordeiro de Deus
 G#
 Pão da Vida
-A#m
+Bbm
 Príncipe da Paz
   F#
 O grande El Shaddai
@@ -7269,21 +7269,21 @@ D#m  F#    C#     G#
 Galileu, Jesus, Jesus
 D#m  F#    C#     G#
 Galileu, Jesus, Jesus
-D#m  F#    A#m     G#
+D#m  F#    Bbm     G#
 Galileu, Jesus, Jesus
 
 F#7+
 Oh, oh, oh, oh
 G#4
    Oh, oh, oh, oh
-A#m               C#
+Bbm               C#
     Oh, oh, oh, oh
 
 F#7+
 Oh, oh, oh, oh
 G#4
    Oh, oh, oh, oh
-A#m               C#
+Bbm               C#
     Oh, oh, oh, oh
 
 D#m  F#    C#     G#
@@ -7292,7 +7292,7 @@ D#m  F#    C#     G#
 Galileu, Jesus, Jesus
 D#m  F#    C#     G#
 Galileu, Jesus, Jesus
-D#m  F#    A#m     G#  F#
+D#m  F#    Bbm     G#  F#
 Galileu, Jesus, Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
@@ -10221,7 +10221,135 @@ O Grande Eu Sou`,
                 titulo: 'O Nome de Jesus',
                 artista: 'Isadora Pompeo',
                 tom: 'Bb',
-                letra: `Intro: |6/8 `,
+                letra: `Intro: |:6/8 Gm7 | Eb9 | Bb | F/A :|
+
+          Gm7  Eb9
+Em teus braços eu
+       Bb    F/A
+Vou me entregar
+         Gm7  Eb9
+Os meus medos eu deixo
+     Bb       F/A
+Aos pés do altar
+           Gm7   Eb9
+Todos os planos meus
+            Bb     F/A
+Hoje eu entrego a ti
+        Gm7   Eb9
+Toma o teu lugar
+           Bb      F/A
+Tu és bem vindo aqui
+
+ Eb9
+Vem sobre nós
+                 Gm7
+Manda tua chuva nesse lugar
+F9                    Eb9
+Em tua presença vou me derramar
+                   Bb     F9
+E declarar que és Santo, Deus
+Eb9
+O som do céu vamos ouvir
+ Gm7               F9
+Sopra teu vento suave hoje aqui
+ Eb9
+Vou declarar
+                  Bb  F9
+O único nome que salva
+   Gm7  Eb9 Bb F/A
+Jesus
+
+          Gm7  Eb9
+Em teus braços eu
+       Bb    F/A
+Vou me entregar
+         Gm7  Eb9
+Os meus medos eu deixo
+     Bb       F/A
+Aos pés do altar
+           Gm7   Eb9
+Todos os planos meus
+            Bb     F/A
+Hoje eu entrego a ti
+        Gm7   Eb9
+Toma o teu lugar
+           Bb      F/A
+Tu és bem vindo aqui
+
+ Eb9
+Vem sobre nós
+                 Gm7
+Manda tua chuva nesse lugar
+F9                    Eb9
+Em tua presença vou me derramar
+                   Bb     F9
+E declarar que és Santo, Deus
+Eb9
+O som do céu vamos ouvir
+ Gm7               F9
+Sopra teu vento suave hoje aqui
+ Eb9
+Vou declarar
+                  Bb  F9
+O único nome que salva
+
+           Eb9
+O nome de Jesus
+           Gm7   F9
+O nome de Jesus
+           Eb9
+O nome de Jesus
+           Gm7   F9
+O nome de Jesus
+           Eb9
+O nome de Jesus
+           Gm7   F9
+O nome de Jesus
+           Eb9
+O nome de Jesus
+           Gm7   F9
+O nome de Jesus
+
+ Eb9
+Vem sobre nós
+                 Gm7
+Manda tua chuva nesse lugar
+F9                    Eb9
+Em tua presença vou me derramar
+                   Bb     F9
+E declarar que és Santo, Deus
+Eb9
+O som do céu vamos ouvir
+ Bb              F9
+Sopra teu vento suave hoje aqui
+ Eb9
+Vou declarar
+                  Bb  F9
+O único nome que salva
+
+ Eb9
+Vem sobre nós
+                 Gm7
+Manda tua chuva nesse lugar
+F9                    Eb9
+Em tua presença vou me derramar
+                   Bb     F9
+E declarar que és Santo, Deus
+Eb9
+O som do céu vamos ouvir
+ Gm7               F9
+Sopra teu vento suave hoje aqui
+ Eb9
+Vou declarar
+                  Bb  F9
+O único nome que salva
+
+   Gm7  Eb9 Bb F/A
+Jesus
+   Gm7  Eb9 Bb F/A
+Jesus
+   Gm7 Eb9 Bb/D Bb
+Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -10230,7 +10358,82 @@ O Grande Eu Sou`,
                 titulo: 'o Nosso General é Cristo',
                 artista: 'Adhemar de Campos',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4  Bm  Bm7(9)  Bm  Bm7(9)   
+
+       Bm
+Pelo Senhor marchamos sim
+          G
+E o seu exército poderoso é
+      Em7        A              Bm7
+Sua glória será vista em toda a terra
+
+         Bm  
+Vamos cantar o canto da vitória
+          G 
+Glória a Deus, vencemos a batalha
+     Em7          A        Bm7
+Toda arma contra nós perecerá
+
+   G               D
+O nosso general é Cristo
+   G              D
+Seguimos os seus passos
+   G     F#m   Em7    A   Bm7
+Nenhum inimigo nos resistirá
+
+   G             D
+O nosso general é Cristo
+    G          D
+Seguimos os seus passos
+    G      ( Em  F#m G  A  Bm )
+Nenhum inimigo nos re__sis_ti__rá 
+
+         Bm
+Com o Messias marchamos sim
+         G
+Em suas mãos a chave da vitória
+         Em7              A         Bm7
+Que nos leva a possuir a terra prometida
+
+         Bm  
+Vamos cantar o canto da vitória
+          G 
+Glória a Deus, vencemos a batalha
+     Em7          A        Bm7
+Toda arma contra nós perecerá
+
+   G             D
+O nosso general é Cristo
+    G          D
+Seguimos os seus passos
+    G      ( Em  F#m G  A  Bm )
+Nenhum inimigo nos re__sis_ti__rá 
+
+   G             D
+O nosso general é Cristo
+    G          D
+Seguimos os seus passos
+    G      ( Em  F#m G  A  Bm )
+Nenhum inimigo nos re__sis_ti__rá 
+
+   G             D
+O nosso general é Cristo
+    G          D
+Seguimos os seus passos
+    G      ( Em  F#m G  A  Bm )
+Nenhum inimigo nos re__sis_ti__rá 
+
+   G             D
+O nosso general é Cristo
+    G          D
+Seguimos os seus passos
+    G      ( Em  F#m G  A  Bm )
+Nenhum inimigo nos re__sis_ti__rá 
+
+    Em7    F#m  G    A   Bm7 
+Nenhum inimigo nos resistirá
+    G      ( Em  F#m G  A  Bm )
+Nenhum inimigo nos re__sis_ti__rá `,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -10239,7 +10442,92 @@ O Grande Eu Sou`,
                 titulo: 'O que Tua Glória Fez Comigo',
                 artista: 'Fernanda Brum',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 Bm | A/C# | D/F# | G :|| D/F#
+                
+G          Em
+ Eu me rasgo por inteiro
+A               Bm
+ Faço tudo, mas vem novamente
+G               Em
+ Eu mergulho na mirra ardente
+A                    Bm
+ Mas peço que Tua presença aumente
+
+Interlúdio: | G7+ | Em | Bm | A |
+
+G          Em
+ Eu me rasgo por inteiro
+A               Bm
+ Faço tudo, mas vem novamente
+G               Em
+ Eu mergulho na mirra ardente
+A                    Bm
+ Mas peço que Tua presença aumente
+
+G                    Em            A
+ E se eu passar pelo fogo não temerei
+                 F#m             G
+Na tua fumaça de glória eu entrarei
+                    Em                   A
+Longe do santo dos santos não sei mais viver
+G                    Em            A
+ E se eu passar pelo fogo não temerei
+                 F#m             G
+Na tua fumaça de glória eu entrarei
+                    Em                   A
+Longe do santo dos santos não sei mais viver
+
+           G               A/G
+Quem já pisou no santo dos santos
+           F#m            Bm
+Em outro lugar não sabe viver
+           G                A
+E onde estiver clamar pela glória
+            Dsus4
+A glória de Deus
+
+           G               A/G
+Quem já pisou no santo dos santos
+           F#m            Bm
+Em outro lugar não sabe viver
+           G                A
+E onde estiver clamar pela glória
+            Dsus4
+A glória de Deus
+Bm    A/C#  F#m        Bm
+Gló___ória, glóóória, gló___ória
+Bm    A/C#  F#m        Bm
+Gló___ória, glóóória, gló___ória
+Bm   A/C#   F#m   Bm
+Sa____anto, saaanto
+Bm   A/C#   F#m   Bm
+Sa____anto, saaanto
+
+           G               A/G
+Quem já pisou no santo dos santos
+           F#m            Bm
+Em outro lugar não sabe viver
+           G                A
+E onde estiver clamar pela glória
+            Dsus4
+A glória de Deus
+
+           G               A/G
+Quem já pisou no santo dos santos
+           F#m            Bm
+Em outro lugar não sabe viver
+           G                A
+E onde estiver clamar pela glória
+            Dsus4
+A glória de Deus
+Bm    A/C#  F#m        Bm
+Gló___ória, glóóória, gló___ória
+Bm    A/C#  F#m        Bm
+Gló___ória, glóóória, gló___ória
+Bm   A/C#   F#m   Bm
+Sa____anto, saaanto
+Bm   A/C#   F#m   Bm
+Sa____anto, saaanto`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -10248,7 +10536,93 @@ O Grande Eu Sou`,
                 titulo: 'Oceanos',
                 artista: 'Levi Alves, Pedro Gonçalo Pinto, Tiago Braga, Ana Isabel Rocha',
                 tom: 'C',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 Am7 G/B | C | G | F :|
+                
+Am7           G/B      C          
+ Tu me chamas sobre as águas
+              G         F
+Onde os meus pés podem falhar 
+Am7                G/B    C
+  E ali Te encontro no mistério 
+          G
+No mar profundo
+           F
+Aguento em fé 
+
+F            Am7         G9
+  E por Teu nome vou chamar
+F            Am7         G9  
+  E Além das ondas vou olhar 
+             F
+Se a maré subir
+         Am7         G
+No Teu abraço vou ficar
+            F
+Pois eu sou Teu
+      | Am7 | C | G | F |
+E Tu és meu 
+
+Am7              G/B     C
+ No mar Tua graça é abundante 
+        G
+As Tuas mãos
+          F
+Vão-me guiar
+Am7              G/B     C
+  O medo acampa à minha volta 
+        G           F
+Contudo Tu não falharás 
+F            Am7         G9
+  E por Teu nome vou chamar
+F            Am7         G9  
+  E Além das ondas vou olhar 
+             F
+Se a maré subir
+         Am7         G
+No Teu abraço vou ficar
+            F
+Pois eu sou Teu
+      |: Am7 | C | G | F :|
+E Tu és meu 
+Am7                 C      
+Guia-me onde a confiança é sem fronteiras 
+      G       
+Quero andar sobre as águas 
+    F
+Até onde me chamares
+Am7                 C      
+Leva-me para lá do que é o mais profundo 
+      G
+Chegarei a fé sem fundo 
+      F
+Mergulhar na Tua presença
+Am7                 C      
+Guia-me onde a confiança é sem fronteiras 
+      G       
+Quero andar sobre as águas 
+    F
+Até onde me chamares
+Am7                 C      
+Leva-me para lá do que é o mais profundo 
+      G
+Chegarei a fé sem fundo 
+      F
+Mergulhar na Tua presença
+
+Interlúdio:|: Am G/B | C | G | F :|
+
+F            Am7         G9
+  E por Teu nome vou chamar
+F            Am7         G9  
+  E Além das ondas vou olhar 
+             F
+Se a maré subir
+         Am7         G
+No Teu abraço vou ficar
+            F
+Pois eu sou Teu
+  G    |: Am7  G/B | C | G | F :||
+E Tu és meu `,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -10257,7 +10631,137 @@ O Grande Eu Sou`,
                 titulo: 'Oh Quão Lindo esse Nome é',
                 artista: 'Ana Nóbrega',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||4/4 G | A | Bm | F#m || G | A | Bm | A G/A ||
+
+D
+  No início eras a palavra
+       G         Bm7  A  
+Um com Deus, o altíssimo
+Bm7          A/C#    D
+   O mistério de Tua glória
+           G     Bm7   A
+Cristo, em Ti se reve_lou
+
+                         D
+Oh, quão lindo esse nome é
+                         A
+Oh, quão lindo esse nome é
+       Bm7   A        G
+O nome de Jesus, meu Rei
+
+                        D/F#
+Oh, quão lindo esse nome é
+                   A
+Maior que tudo ele é
+                         Bm7
+Oh, quão lindo esse nome é
+     A     G     G9 G 
+O nome de Jesus
+
+D
+  Deixou o céu para buscar-nos
+      G      Bm7  A
+Veio pra nos resgatar
+Bm7                A/C#   D
+   Amor maior que o meu pecado
+      G       Bm7  A
+Nada vai nos sepa_rar
+
+                     D
+Oh, quão maravilhoso é
+                     A
+Oh, quão maravilhoso é
+       Bm7  A         G
+O nome de Jesus, meu rei
+
+                     D/F#
+Oh, quão maravilhoso é
+                   A
+Maior que tudo ele é
+                     Bm7
+Oh, quão maravilhoso é
+   A       G
+O nome de Jesus
+                    Bm7
+Oh, quão maravilhoso é
+   A       G
+O nome de Jesus
+
+Interlúdio: | G9 | A6 | Bm7 | D/F# |
+
+            G
+A morte venceste 
+             A
+O véu Tu rompeste
+           Bm7         D/F#
+A tumba vazia agora está
+
+           G
+O céu Te adora
+               A
+Proclama Tua glória
+              Bm7            D/F#
+Pois ressuscitaste e vivo está
+
+         G        A
+És invencível, inigualável
+            Bm7         D/F#
+Hoje e pra sempre reinarás
+
+         G          A
+Teu é o reino Tua é a glória
+          Bm7         A
+Acima de todo nome estás
+
+                   D
+Poderoso esse nome é
+                   A
+Poderoso esse nome é
+       Bm7  A        G
+O nome de Jesus, meu rei
+
+                  D/F#
+Poderoso esse nome é
+                    A
+Mais forte que tudo é
+                   Bm7
+Poderoso esse nome é
+     A     G
+O nome de Jesus
+
+         G              A
+És invencível, inigualável
+            Bm7         D/F#
+Hoje e pra sempre reinarás
+
+         G          A
+Teu é o reino Tua é a glória
+          Bm7         D/F#
+Acima de todo nome estás
+
+                   D
+Poderoso esse nome é
+                   A
+Poderoso esse nome é
+        Bm7  A        G
+O nome de Jesus, meu rei
+
+                   D/F#
+Poderoso esse nome é
+                    A
+Mais forte que tudo é
+                   Bm7
+Poderoso esse nome é
+     A     G
+O nome de Jesus
+                   Bm7
+Poderoso esse nome é
+     A     G
+O nome de Jesus
+                   Bm7
+Poderoso esse nome é
+     A     G
+O nome de Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -10302,7 +10806,102 @@ O Grande Eu Sou`,
                 titulo: 'Pai Nosso',
                 artista: 'Pedras Vivas',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||4/4 [D] [D9] [Dsus4] | [D] || [Bm7] | [G] :|
+
+     [D9]
+Pai nosso, nos céus
+ [G]             [A]
+Santo é o teu nome
+     [D9]
+Teu reino buscamos
+        [G]         [A]
+Tua vontade seja feita
+
+    [G]       [D]/[F#]  [Em7]    [Bm7]
+Na terra como     é, nos céus
+         [A]
+Deixe o céu descer
+    [G]       [D]/[F#]  [Em7]    Bm]
+Na terra como     é, nos céus
+         [A]     | [D] [D9] [Dsus4] | [D] | [Bm7] | [G] |
+Deixe o céu descer
+
+     [D9]
+Pai nosso, nos céus
+ [G]             [A]
+Santo é o teu nome
+     [D9]
+Teu reino buscamos
+        [G]         [A]
+Tua vontade seja feita
+
+    [G]       [D]/[F#]  [Em7]    [Bm7]
+Na terra como     é, nos céus
+         [F#m]
+Deixe o céu descer
+    [G]       [D]/[F#]  [Em7]    [Bm]
+Na terra como     é, nos céus
+         [A]     [G7+]
+Deixe o céu descer
+
+                [Bm7]  [F#m]
+Deixe o céu descer
+                [G7+]
+Deixe o céu descer
+                [Bm7]  [A]
+Deixe o céu descer
+
+ [G]
+Teu é o reino, Teu o poder 
+ [Bm7]                         [F#m]
+Tua é a glória pra sempre, amém
+ [G]
+Teu é o reino, Teu o poder 
+ [Bm7]                         [A]
+Tua é a glória pra sempre, amém
+ [G]      
+Teu é o reino, Teu o poder 
+ [Bm7]                         [F#m]
+Tua é a glória pra sempre, amém
+ [G]                          
+Teu é o reino, Teu o poder 
+ [Bm7]                         [A]
+Tua é a glória pra sempre, amém
+
+Interlúdio: |: [G7+] | [G9] | [Bm7] | [A] :|
+                      Pra Sempre, Amém
+                      
+                [Bm7]  [F#m]
+Deixe o céu descer
+                [G]
+Deixe o céu descer
+                [Bm7]  [A]
+Deixe o céu descer
+                [G]
+Deixe o céu descer
+                [Bm7]  [F#m]
+Deixe o céu descer
+                [G]
+Deixe o céu descer
+                [Bm7]  [A]/[C#]
+Deixe o céu descer
+
+ [G]        [D]/[F#] [G]
+Teu é o reino, Teu o poder 
+ [Bm7]                         [D]
+Tua é a glória pra sempre, amém
+ [G]        [D]/[F#] [G] 
+Teu é o reino, Teu o poder 
+ [Bm7]                         [D]
+Tua é a glória pra sempre, amém
+ [G]                         
+Teu é o reino, Teu o poder 
+ [Bm7]                         [D]
+Tua é a glória pra sempre, amém
+ [G]                          
+Teu é o reino, Teu o poder 
+ [Bm7]                         [D7+]
+Tua é a glória pra sempre, amém`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
