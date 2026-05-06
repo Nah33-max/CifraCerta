@@ -338,7 +338,7 @@ Já conhece a Jesus`,
             {
                 id: generateId(),
                 titulo: 'A Batalha é do Senhor',
-                artista: 'Ademar de Campos',
+                artista: 'Adhemar de Campos',
                 tom: 'F',
                 letra: `Intro: |4/4 (solo bateria) | [Dm] [Am] | [Dm] [Am] | [Bb] [Am][Gm] ||
                 
@@ -4962,7 +4962,7 @@ Estar a serviço do meu Rei!`,
             {
                 id: generateId(),
                 titulo: 'Ele é Exaltado',
-                artista: 'Ademar de Barros',
+                artista: 'Adhemar de Campos',
                 tom: 'E',
                 letra: `Intro: ||:6/8 E | E/G# | A | F#m  B/D# :|
 
@@ -5284,41 +5284,59 @@ Em Tua presença`,
                 id: generateId(),
                 titulo: 'Em Espírito, Em Verdade',
                 artista: 'Lukas Agustinho',
-                tom: 'E',
-                letra: `Intro: |4/4 [E] |
+                tom: 'A',
+                letra: `Intro: |4/4 [A] |
 
-      E             B/D#
+      [A]           [E]/[G#]
 Em Espírito, em verdade
-       A9        E
+      [D9]               [A]
 Te adoramos,     Te adoramos
-      E             B/D#
+      [A]           [E]/[G#]
 Em Espírito, em verdade
-       A9        E              B/D#
+      [D9]               [A]  [E]/[G#] [F°]
 Te adoramos,     Te adoramos
-
-        C#m  G#m         A9   E/G#
+       [F#m]  [C#m]         [D9]   [A]/[C#]
 Rei do reis        e Senhor
-         F#m   B       E  B/D#
+        [Bm]     [E]      [A]  [E]/[G#]
 Te entregamos nosso viver
-        C#m  G#m         A9   E/G#
+       [F#m]  [C#m]         [D9]   [A]/[C#]
 Rei do reis        e Senhor
-        F#m7  A9       B9
+        [Bm7]   [D9]      [E9]
 Te entregamos nosso viver
 
-           A9      C#m      B9
-Pra Te adorar, oh rei dos reis
-               A9   C#m      B9
-Foi que eu nasci, ó rei Jesus
-        E/G#        C#m
+          [D9]      [F#m]     [E9]
+Pra Te adorar, oh Rei dos Reis
+              [D9]    [F#m]   [E9]
+Foi que eu nasci, ó Rei Jesus
+      [A]/[C#]         [F#m]
 Meu prazer é te louvar
-        G#m      A9
+       [C#m]     [D9]
 Meu prazer é estar
-    B9            E
+    [E9]           [A]
 Nos átrios do Senhor
-        B/D#    C#m    G#m     A9
+       [E]/[G#]    [F#m]    [C#m]     [D9]
 Meu prazer é viver na casa de Deus
-       B9     E
-Onde flui o amor`,
+      [E9]      [A]
+Onde flui o amor
+
+          [D9]      [F#m]     [E9]
+Pra Te adorar, oh Rei dos Reis
+              [D9]    [F#m]   [E9]
+Foi que eu nasci, ó Rei Jesus
+      [A]/[C#]         [F#m]
+Meu prazer é te louvar
+       [C#m]     [D9]
+Meu prazer é estar
+    [E9]           [A]
+Nos átrios do Senhor
+       [E]/[G#]    [F#m]    [C#m]     [D9]
+Meu prazer é viver na casa de Deus
+      [E9]      [A] [F#m] [E] [Bm]
+Ministrando Louvor
+      [E9]      [A] [F#m] [E] [Bm]
+Onde flui o amor
+      [E9]      [A]
+Ministrando Louvor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -5780,7 +5798,7 @@ Enche-me`,
             {
                 id: generateId(),
                 titulo: 'Entrega',
-                artista: 'Vineyard',
+                artista: 'Ministério Vineyard',
                 tom: 'G',
                 letra: `Intro: |4/4 [G] |
 
@@ -8005,7 +8023,7 @@ Não iremos nos envergonhar`,
             {
                 id: generateId(),
                 titulo: 'Os que confiam no Senhor',
-                artista: 'Marcos Goes',
+                artista: 'Marcos Góes',
                 tom: 'G',
                 letra: `Intro: |4/4 `,
                 favorite: false,
@@ -8738,7 +8756,7 @@ Me chama para fora
         {
                 id: generateId(),
                 titulo: 'Sonda-me',
-                artista: 'ALine Barros',
+                artista: 'Aline Barros',
                 tom: 'C',
                 letra: `Intro: |4/4 `,
                 favorite: false,
@@ -8864,7 +8882,7 @@ Me chama para fora
             {
                 id: generateId(),
                 titulo: 'Tu És + Águas Purificadoras',
-                artista: 'FHOP Music ',
+                artista: 'FHOP Music',
                 tom: 'D',
                 letra: `Intro: |4/4 `,
                 favorite: false,
