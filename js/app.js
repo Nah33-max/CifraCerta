@@ -9572,7 +9572,89 @@ Me dá vitória!`,
                 titulo: 'Nada Além do Sangue',
                 artista: 'Fernandinho',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 A | D9/F# | A | D9/F# |
+
+     A               F#m7(11)         A
+Teu sangue leva-me além a todas as alturas
+                 F#m7(11)
+Onde ouço a tua voz
+                E               D9
+Fala de tua justiça pela minha vida
+                     A     F#m9  E
+Jesus, este é o teu sangue
+
+      A               F#m7(11)             A
+Tua cruz mostra tua graça fala do amor do Pai
+                  F#m7(11)
+Que prepara para nós
+                E                      D9
+Um caminho para Ele onde posso me achegar
+              A     F#m9  E
+Somente pelo sangue
+
+  A
+Que nos lava dos pecados
+F#m7(11)
+E nos traz restauração
+ E
+Nada além do sangue
+ D9                     A    F#m9  E
+Nada além do sangue de Jesus
+
+  A
+Que nos faz brancos como a neve
+  F#m7(11)
+Aceitos como amigos de Deus
+ E
+Nada além do sangue
+ D9                     A    F#m9  E | A    F#m9  E |
+Nada além do sangue de Jesus
+
+
+      A               F#m7(11)             A
+Tua cruz mostra tua graça fala do amor do Pai
+                  F#m7(11)
+Que prepara para nós
+                E                      D9
+Um caminho para Ele onde posso me achegar
+              A     D9/F#  E
+Somente pelo sangue
+
+  A
+Que nos lava dos pecados
+F#m7(11)
+E nos traz restauração
+ E
+Nada além do sangue
+ D9                     A    F#m9  E
+Nada além do sangue de Jesus
+
+  A
+Que nos faz brancos como a neve
+  F#m7(11)
+Aceitos como amigos de Deus
+ E
+Nada além do sangue
+ D9                     A    F#m9  E
+Nada além do sangue de Jesus
+
+A
+Eu sou livre
+F#m7(11)
+Eu sou livre
+ E
+Nada além do sangue
+ D9                     A    F#m9  E
+Nada além do sangue de Jesus
+
+A
+Eu sou livre
+F#m7(11)
+Eu sou livre
+ E
+Nada além do sangue
+ D9                     A    F#m9  E
+Nada além do sangue de Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -9581,7 +9663,122 @@ Me dá vitória!`,
                 titulo: 'Nosso Deus',
                 artista: 'Gui Rebustini',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: ||:4/4 [F#m7] | [D9] | [A] | [E] :||
+                
+[F#m7]     [D]       [A]
+Água em vinho tornou
+[F#m7]         [D]     [A]
+Os olhos do cego abriu
+              [Bm7]
+Não há outro igual
+        [E4(7)]  [E]
+ Igual a Deus
+
+[F#m7]      [D9]        [A]
+Dentro da noite brilhou
+[F#m7]           [D9]         [A]
+Das cinzas nos fez ressurgir
+              [Bm7]
+Não há outro igual
+         [E]    [E4]  [E]
+Igual a Deus
+
+[F#m7]
+Deus tu és grande
+[D9]
+És invencível
+[A]                 [E]
+Mais elevado,que qualquer outro
+[F#m7]
+Tu és a cura
+[D9]
+Grande em poder
+       [A]          [E]
+Nosso Deus,nosso Deus
+
+Interlúdio: | [F#m7] | [D9] | [A] | [E] |
+
+[F#m7]      [D9]        [A]
+Dentro da noite brilhou
+[F#m7]           [D9]         [A]
+Das cinzas nos fez ressurgir
+              [Bm7]
+Não há outro igual
+         [E]    [E4]  [E]
+Igual a Deus
+
+[F#m7]
+Deus tu és grande
+[D9]
+És invencível
+[A]                 [E]
+Mais elevado,que qualquer outro
+[F#m7]
+Tu és a cura
+[D9]
+Grande em poder
+       [A]          [E]
+Nosso Deus,nosso Deus
+
+[F#m7]
+Deus tu és grande
+[D9]
+És invencível
+[A]                 [E]
+Mais elevado,que qualquer outro
+[F#m7]
+Tu és a cura
+[D9]
+Grande em poder
+       [A]          [E]
+Nosso Deus,nosso Deus
+
+[F#m7]
+Se Deus está conosco
+[D9]
+ Quem pode nos deter
+[A]
+ Se Deus está conosco
+[E]
+ Não há o que temer
+
+[F#m7]
+Se Deus está conosco
+[D9]
+ Quem pode nos deter
+[A]
+ Se Deus está conosco
+[E]
+ Não há o que temer
+
+[F#m7]   [D9]        [A]      [E]
+Ohohoh   ohohoho  ohohoh
+
+Não há o que temer
+[F#m7]   [D9]        [A]      [E]
+Ohohoh   ohohoho  ohohoh
+
+[F#m7]
+Deus tu és grande
+[D9]
+És invencível
+[A]                 [E]
+Mais elevado,que qualquer outro
+[F#m7]
+Tu és a cura
+[D9]
+Grande em poder
+       [A]          [E]
+Nosso Deus,nosso Deus
+
+[F#m7]
+Se Deus está conosco
+[D9]
+ Quem pode nos deter
+[A]
+ Se Deus está conosco
+[E]              [D]
+ Não há o que temer`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -9590,7 +9787,91 @@ Me dá vitória!`,
                 titulo: 'Nosso Deus é Soberano',
                 artista: 'Aline Barros',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 D  F#m  G  Em  A
+
+  D   Bm       F#m
+Nosso Deus é soberano
+    G    Em             A
+Ele reina   antes da fundação do mundo
+  D     Bm        F#m
+Nosso Deus é soberano
+    G    Em             A
+Ele reina   antes da fundação do mundo
+
+  D          Bm         F#m
+A Terra era sem forma e vazia
+                G        Em
+E o Espirito do nosso Deus
+               A
+Se movia sobre a face das águas
+    D          Bm            F#m
+Foi Ele quem criou o céu dos céus
+                G    Em
+Fez separação das águas
+           A
+E da terra seca
+  D      Bm             F#m
+Foi Ele quem criou os luminares
+           G       Em
+Que criou a natureza
+           A
+E formou o homem
+
+   D     Bm              F#m
+Glória a Deus por suas maravilhas
+        G       Em
+Pela sua grandeza
+        A
+Glória a Deus
+
+   D     Bm              F#m
+Glória a Deus por suas maravilhas
+        G       Em
+Pela sua grandeza
+        A
+Glória a Deus
+
+  D   Bm          F#m
+Nosso Deus é soberano
+    G    Em             A
+Ele reina   antes da fundação do mundo
+ D    Bm        F#m
+Nosso Deus é soberano
+    G    Em             A
+Ele reina   antes da fundação do mundo
+
+ D         Bm            F#m
+A Terra era sem forma e vazia
+                G        Em
+E o Espirito do nosso Deus
+               A
+Se movia sobre a face das águas
+ D      Bm                 F#m
+Foi Ele quem criou o céu dos céus
+                G    Em
+Fez separação das águas
+           A
+E da terra seca
+    D                   F#m
+Foi Ele quem criou os luminares
+           G       Em
+Que criou a natureza
+           A
+E formou o homem
+
+    D      Bm           F#m
+Glória a Deus por suas maravilhas
+        G       Em
+Pela sua grandeza
+        A
+Glória a Deus
+
+    D    Bm               F#m
+Glória a Deus por suas maravilhas
+        G       Em
+Pela sua grandeza
+        D
+Glória a Deus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -9599,7 +9880,75 @@ Me dá vitória!`,
                 titulo: 'Não Há Deus Maior',
                 artista: 'Comunidade de Nilópolis',
                 tom: 'F',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 F |
+        
+F                Gm
+  Não há Deus maior
+C                 F
+   Não há Deus melhor
+Dm                   Gm
+   Não há Deus tão grande
+C              F   Bb
+   Como nosso Deus
+
+F                Gm
+  Não há Deus maior
+C                 F
+   Não há Deus melhor
+Dm                   Gm
+   Não há Deus tão grande
+C              F   
+   Como nosso Deus
+
+
+Em7(5-)           A7            Dm
+        Criou os céus, criou a terra
+A/C#                      Dm
+     Criou o sol e as estrelas
+ Bb       C
+Tudo Ele fez
+ Bb     C
+Tudo criou
+ Bb      C
+Tudo formou
+
+Bb         C      F
+   Para o seu louvor
+Bb         C      F
+   Para o seu louvor
+Bb        C/Bb Am        Dm
+   Para o seu,    para o seu
+Gm         C      F  Bb  F
+   Para o seu louvor
+
+F         F#°    Gm
+  Não há Deus maior
+C                 F
+   Não há Deus melhor
+Dm                   Gm
+   Não há Deus tão grande
+C              F   
+   Como nosso Deus
+
+Em7(5-)           A7            Dm
+        Criou os céus, criou a terra
+A/C#                      Dm
+     Criou o sol e as estrelas
+ Bb       C
+Tudo Ele fez
+ Bb     C
+Tudo criou
+ Bb      C
+Tudo formou
+
+Bb         C      F
+   Para o seu louvor
+Bb         C      F
+   Para o seu louvor
+Bb        C/Bb Am        Dm
+   Para o seu,    para o seu
+Gm         C      F  
+   Para o seu louvor`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
@@ -9608,7 +9957,53 @@ Me dá vitória!`,
                 titulo: 'Não Vou Desistir',
                 artista: 'Trazendo a Arca',
                 tom: 'D',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |:4/4 Bm7  A/B | A/B  Bm7 | G  A/G | A/G G D/F# | Em7 | D/F# | Bm :|
+
+           Bm7             G          Bm7
+O tempo da dor, as frustrações, a solidão
+          G        D/F#    Em                 F#m7
+Angustia de estar vivendo sem saber quando vai mudar
+
+        Bm7              G                F#m7
+Eu nunca te vi, mais reconheço que estas aqui
+        G            D/F#   Em                      A
+Eu vou me levantar, já vejo acontecer quando eu te tocar
+            G          A
+Eu sei que posso te alcançar
+
+A/C# Bm      G        A   A/C#   Bm     G           A
+ Decidi, não vou desistir, Vou lutar contra a multidão
+ G  F#m             G     A | Bm7  A/B | A/B  Bm7 | G  A/G | A/G G D/F# | Em7 | D/F# | Bm |
+Lançar-me aos Teus pés e Te tocar
+
+           Bm7             G          Bm7
+O tempo da dor, as frustrações, a solidão
+          G        D/F#    Em                 F#m7
+Angustia de estar vivendo sem saber quando vai mudar
+
+        Bm7              G                F#m7
+Eu nunca te vi, mais reconheço que estas aqui
+        G            D/F#   Em                      A
+Eu vou me levantar, já vejo acontecer quando eu te tocar
+            G          A
+Eu sei que posso te alcançar
+
+A/C# Bm      G        A   A/C#   Bm     G           A
+ Decidi, não vou desistir, Vou lutar contra a multidão
+ G  F#m             G    A    G
+Lançar-me aos Teus pés e Te tocar
+
+              A      F#m         G
+Há virtude em Ti pra sarar o meu mau
+              A                    G
+Transformado serei se ao menos Te tocar
+
+A/C# Bm      G        A   A/C#   Bm     G           A
+ Decidi, não vou desistir, Vou lutar contra a multidão
+ G  F#m             G    A    
+Lançar-me aos Teus pés e Te tocar
+ 
+Final: | Bm7  A/B | A/B  Bm7 | G  A/G | A/G G D/F# | Em7 | D/F# | Bm |`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             },
