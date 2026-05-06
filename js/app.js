@@ -7755,7 +7755,93 @@ Não iremos nos envergonhar`,
                 titulo: 'Invincível',
                 artista: 'Aline Barros',
                 tom: 'A',
-                letra: `Intro: |4/4 `,
+                letra: `Intro: |4/4 A | Asus4 || F#m | D | A | E9 |
+
+     F#m
+Nada muda o que Tu és
+      D
+E não há nenhum lugar
+             A/E                E9
+Onde os Teus olhos não me achem
+        F#m
+E se eu bem distante for
+      D
+Nunca estarei tão longe
+              A                     E
+Onde os Teus braços não me alcancem
+
+Bm
+Nada temerei
+ D                      F#m      E
+Vem de Ti, a minha salvação, eu sei
+Bm
+E por onde for
+    D                      E F#m
+No vale ou na montanha, clamarei
+           E
+Por Ti, Jesus
+
+    F#m  D            A
+Poderoso,  invencível
+                    E
+Tu és aquele que comigo está
+    F#m  D            A
+Poderoso,  invencível
+                    E
+Tu és aquele que comigo está
+
+Intro: | F#m | D | A | E9 |
+
+Bm
+Nada temerei
+ D                      F#m      E
+Vem de Ti, a minha salvação, eu sei
+Bm
+E por onde for
+    D                      E F#m
+No vale ou na montanha, clamarei
+           E
+Por Ti, Jesus
+
+    F#m  D            A
+Poderoso,  invencível
+                    E
+Tu és aquele que comigo está
+    F#m  D            A
+Poderoso,  invencível
+                    E
+Tu és aquele que comigo está
+
+Interlúdio: | F#m | D | A | E9 |
+
+  F#m  D
+Jesus, Tu estás aqui
+   A    E
+Jesus, habitando em mim
+  F#m  D
+Jesus, Tu estás aqui
+   A    E
+Jesus, habitando em mim
+
+    F#m  D            A
+Poderoso,  invencível
+                    E
+Tu és aquele que comigo está
+    F#m  D            A
+Poderoso,  invencível
+                    E
+Tu és aquele que comigo está
+
+Interlúdio: | F#m | D | A | E9 |
+
+  F#m  D
+Jesus, Tu estás aqui
+   A    E
+Jesus, habitando em mim
+  F#m  D
+Jesus, Tu estás aqui
+   A   
+Jesus`,
                 favorite: false,
                 createdAt: Date.now() - 172200000
             }, 
